@@ -1,0 +1,3 @@
+Qwen1.5-14B_inst : 60.93% (evalu.py 0-1) 
+Qwen1.5-14B_pres:  58.91% (evalu.py 0-1)
+Gpt-4-improve:  68.83%(evalu.py 0-1)   80.28%(evalllm.py)
