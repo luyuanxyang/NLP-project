@@ -1,0 +1,2001 @@
+ID,Translation,prompt,response,prompt_no
+Al-en-01,What is a common snack for preschool kids in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is a common snack for preschool kids in China?
+Answer:",Baozi (steamed buns),inst-4
+Al-en-02,What is a popular food to go with beer in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is a popular food to go with beer in China?
+Answer:",Peanuts,inst-4
+Al-en-04,What is the most popular fruit in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most popular fruit in China?
+Answer:",Bananas.,inst-4
+Al-en-06,What is a common school cafeteria food in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is a common school cafeteria food in China?
+Answer:",Rice.,inst-4
+Al-en-08,What are the most commonly eaten snacks at shopping malls in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What are the most commonly eaten snacks at shopping malls in China?
+Answer:",Bubble tea and baozi.,inst-4
+Al-en-09,What is a popular snack at an amusement park in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is a popular snack at an amusement park in China?
+Answer:",Baozi (steamed buns),inst-4
+Al-en-16,"At what age do kids start preschool in China? (Provide Arabic numerals (e.g., 12) only.)","Read the following question and provide a single answer without any explanations.
+
+Question: At what age do kids start preschool in China? (Provide Arabic numerals (e.g., 12) only.)
+Answer:",3,inst-4
+Al-en-17,What is a popular afterschool sport for elementary schools in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is a popular afterschool sport for elementary schools in China?
+Answer:",Table Tennis,inst-4
+Al-en-18,For which subject do elementary students get private education in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: For which subject do elementary students get private education in China?
+Answer:",Mathematics,inst-4
+Al-en-19,What is a popular second language for high school students in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is a popular second language for high school students in China?
+Answer:",English,inst-4
+Al-en-21,Which subject is the most important for gifted education in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: Which subject is the most important for gifted education in China?
+Answer:",Mathematics,inst-4
+Al-en-32,What is the main dish for Thanksgiving in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the main dish for Thanksgiving in China?
+Answer:","Thanksgiving is not a traditional holiday in China, so there is no main dish for Thanksgiving in China.",inst-4
+Al-en-33,What do people do to celebrate Halloween in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What do people do to celebrate Halloween in China?
+Answer:","Halloween is not traditionally celebrated in China, but some people might participate in Halloween-themed events or parties, especially in larger cities and among expat communities.",inst-4
+Al-en-34,What do people do to celebrate New Year's Day in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What do people do to celebrate New Year's Day in China?
+Answer:","They celebrate with fireworks, family gatherings, and traditional food, marking the beginning of the Chinese New Year or Spring Festival.",inst-4
+Al-en-35,What do people do to celebrate Christmas in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What do people do to celebrate Christmas in China?
+Answer:","Decorate their homes with paper lanterns and flowers, and give apples wrapped in colored paper as gifts.",inst-4
+Al-en-36,What food is associated with Halloween in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What food is associated with Halloween in China?
+Answer:",Yuebing (mooncakes),inst-4
+Al-en-37,What food is associated with Christmas in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What food is associated with Christmas in China?
+Answer:",Apple,inst-4
+Al-en-38,What food is associated with Valentine's day in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What food is associated with Valentine's day in China?
+Answer:","Qiaoqiao Day (Chinese Valentine's Day) is associated with Qiaoguo, a type of fried thin pastry made from flour and sugar.",inst-4
+Al-en-39,What do people eat on their birthday in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What do people eat on their birthday in China?
+Answer:",Noodles,inst-4
+Al-en-40,What is a popular outdoor place for families to have fun with little kids in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is a popular outdoor place for families to have fun with little kids in China?
+Answer:",Beijing Zoo,inst-4
+Al-en-43,What is a popular indoor activity for families in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is a popular indoor activity for families in China?
+Answer:",Playing Mahjong.,inst-4
+An-ar-02,Where do university students have lunch in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: Where do university students have lunch in China?
+Answer:",University canteens or cafeterias.,inst-4
+An-ar-03,Which month is the final exam term usually scheduled at high schools in China? (Provide Arabic numerals (1~12) only.),"Read the following question and provide a single answer without any explanations.
+
+Question: Which month is the final exam term usually scheduled at high schools in China? (Provide Arabic numerals (1~12) only.)
+Answer:",6,inst-4
+An-ar-08,"How many hours a day do students in China usually spend at high school? (Provide Arabic numerals in integers (0~24), without any decimal points.)","Read the following question and provide a single answer without any explanations.
+
+Question: How many hours a day do students in China usually spend at high school? (Provide Arabic numerals in integers (0~24), without any decimal points.)
+Answer:",8,inst-4
+An-ar-09,"How many languages do students study at high school in China? (Provide Arabic numerals (e.g., 5) only.)","Read the following question and provide a single answer without any explanations.
+
+Question: How many languages do students study at high school in China? (Provide Arabic numerals (e.g., 5) only.)
+Answer:",2,inst-4
+An-ar-34,What is the most popular sport played in a team at school in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most popular sport played in a team at school in China?
+Answer:",Basketball,inst-4
+An-ar-35,Who is the most popular sport commentator in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: Who is the most popular sport commentator in China?
+Answer:",Zhang Lu,inst-4
+An-ar-36,What is the most popular sport team in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most popular sport team in China?
+Answer:",Beijing Guoan Football Club,inst-4
+An-ar-43,What are the common places or venues where individuals in China usually gather to watch sports broadcasts?,"Read the following question and provide a single answer without any explanations.
+
+Question: What are the common places or venues where individuals in China usually gather to watch sports broadcasts?
+Answer:","Sports bars, restaurants, and homes.",inst-4
+Ca-sp-05,"How many meals per day do people from China usually have? (Provide Arabic numerals (e.g., 5) only.)","Read the following question and provide a single answer without any explanations.
+
+Question: How many meals per day do people from China usually have? (Provide Arabic numerals (e.g., 5) only.)
+Answer:",3,inst-4
+Ca-sp-06,Which is the most important meal of the day to people from China?,"Read the following question and provide a single answer without any explanations.
+
+Question: Which is the most important meal of the day to people from China?
+Answer:",Breakfast,inst-4
+Ca-sp-08,What is the most common ingredient used in China's diet?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most common ingredient used in China's diet?
+Answer:",Rice,inst-4
+Ca-sp-09,What do people from China usually eat for dessert?,"Read the following question and provide a single answer without any explanations.
+
+Question: What do people from China usually eat for dessert?
+Answer:",Mooncakes,inst-4
+Ca-sp-11,Which day of the week do people usually organize a family meal in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: Which day of the week do people usually organize a family meal in China?
+Answer:",Sunday,inst-4
+Ca-sp-14,Which is the most popular hot drink in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: Which is the most popular hot drink in China?
+Answer:",Tea,inst-4
+Ca-sp-19,What do young people from China usually drink at the night club?,"Read the following question and provide a single answer without any explanations.
+
+Question: What do young people from China usually drink at the night club?
+Answer:",Alcoholic beverages or cocktails.,inst-4
+Ca-sp-21,At which month do people usually take holidays in China? (Provide Arabic numerals (1~12) only.),"Read the following question and provide a single answer without any explanations.
+
+Question: At which month do people usually take holidays in China? (Provide Arabic numerals (1~12) only.)
+Answer:",10,inst-4
+Ca-sp-29,What tradition is there in China for New Year's Eve?,"Read the following question and provide a single answer without any explanations.
+
+Question: What tradition is there in China for New Year's Eve?
+Answer:",Family reunion dinner,inst-4
+Ca-sp-38,Which is the typical type of house for a family in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: Which is the typical type of house for a family in China?
+Answer:",Siheyuan (courtyard house),inst-4
+Ca-sp-41,Where do the dependent elderly usually live in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: Where do the dependent elderly usually live in China?
+Answer:",Many dependent elderly in China live with their families.,inst-4
+Ca-sp-42,"How long (in weeks) is China's maternity leave for mums? (Provide Arabic numerals (e.g., 20) only.)","Read the following question and provide a single answer without any explanations.
+
+Question: How long (in weeks) is China's maternity leave for mums? (Provide Arabic numerals (e.g., 20) only.)
+Answer:",14,inst-4
+Ca-sp-43,"How long (in weeks) is China's paternity leave for dads? (Provide Arabic numerals (e.g., 20) only.)","Read the following question and provide a single answer without any explanations.
+
+Question: How long (in weeks) is China's paternity leave for dads? (Provide Arabic numerals (e.g., 20) only.)
+Answer:",2,inst-4
+Ca-sp-45,What type of destination is commonly chosen for a family vacation in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What type of destination is commonly chosen for a family vacation in China?
+Answer:",Beach resort or theme park.,inst-4
+Gu-ch-05,What sports do seniors like the most in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What sports do seniors like the most in China?
+Answer:",Table Tennis,inst-4
+Gu-ch-06,What sports do men like to play the most in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What sports do men like to play the most in China?
+Answer:",Table Tennis (Ping Pong),inst-4
+Gu-ch-07,Who is the most famous basketball player in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: Who is the most famous basketball player in China?
+Answer:",Yao Ming,inst-4
+Gu-ch-08,What is the most popular sports among children in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most popular sports among children in China?
+Answer:",Table Tennis,inst-4
+Gu-ch-09,What sports do women like to play the most in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What sports do women like to play the most in China?
+Answer:",Badminton and table tennis.,inst-4
+Gu-ch-11,What sports event has China won the most gold medals at the Olympics?,"Read the following question and provide a single answer without any explanations.
+
+Question: What sports event has China won the most gold medals at the Olympics?
+Answer:",Table Tennis,inst-4
+Gu-ch-15,What sports do male students in university like to play the most in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What sports do male students in university like to play the most in China?
+Answer:",Basketball,inst-4
+Gu-ch-16,"How many people are there in a family on average in China? (Provide Arabic numerals (e.g., 12) only.)","Read the following question and provide a single answer without any explanations.
+
+Question: How many people are there in a family on average in China? (Provide Arabic numerals (e.g., 12) only.)
+Answer:",3,inst-4
+Gu-ch-18,"How many children do couples usually have in China? (Provide Arabic numerals (e.g., 12) only.)","Read the following question and provide a single answer without any explanations.
+
+Question: How many children do couples usually have in China? (Provide Arabic numerals (e.g., 12) only.)
+Answer:",1.7,inst-4
+Gu-ch-31,"What is the duration of elementary school in years in China? (Provide Arabic numerals (e.g., 12) only.)","Read the following question and provide a single answer without any explanations.
+
+Question: What is the duration of elementary school in years in China? (Provide Arabic numerals (e.g., 12) only.)
+Answer:",6,inst-4
+Gu-ch-32,"What is the duration of compulsory education in years in China? (Provide Arabic numerals (e.g., 12) only.)","Read the following question and provide a single answer without any explanations.
+
+Question: What is the duration of compulsory education in years in China? (Provide Arabic numerals (e.g., 12) only.)
+Answer:",9,inst-4
+Gu-ch-33,"From which age do students start learning their second language in China? (Provide Arabic numerals (e.g., 12) only.)","Read the following question and provide a single answer without any explanations.
+
+Question: From which age do students start learning their second language in China? (Provide Arabic numerals (e.g., 12) only.)
+Answer:",6,inst-4
+Gu-ch-38,"What is the duration of undergraduate education in China? (Provide Arabic numerals (e.g., 12) only.)","Read the following question and provide a single answer without any explanations.
+
+Question: What is the duration of undergraduate education in China? (Provide Arabic numerals (e.g., 12) only.)
+Answer:",4,inst-4
+Gu-ch-40,"What time do younger elementary school students finish school in China? (Provide in HH:MM format (e.g., 18:00, 09:00).)","Read the following question and provide a single answer without any explanations.
+
+Question: What time do younger elementary school students finish school in China? (Provide in HH:MM format (e.g., 18:00, 09:00).)
+Answer:",15:00,inst-4
+Gu-ch-41,"How many musical instruments do elementary school students in China typically play? (Provide Arabic numerals (e.g., 12) only.)","Read the following question and provide a single answer without any explanations.
+
+Question: How many musical instruments do elementary school students in China typically play? (Provide Arabic numerals (e.g., 12) only.)
+Answer:",1,inst-4
+Ji-ko-02,What day of the week do people in China prefer to have company dinners?,"Read the following question and provide a single answer without any explanations.
+
+Question: What day of the week do people in China prefer to have company dinners?
+Answer:",Thursday,inst-4
+Ji-ko-03,Which region/city has the highest number of financial companies in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: Which region/city has the highest number of financial companies in China?
+Answer:",Shanghai,inst-4
+Ji-ko-07,What is the most famous private company in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most famous private company in China?
+Answer:",Alibaba Group,inst-4
+Ji-ko-08,"What is the maximum number of hours one can work per week in China? (Provide Arabic numerals (e.g., 12) only.)","Read the following question and provide a single answer without any explanations.
+
+Question: What is the maximum number of hours one can work per week in China? (Provide Arabic numerals (e.g., 12) only.)
+Answer:",40,inst-4
+Ji-ko-09,What do people typically eat during company get-together in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What do people typically eat during company get-together in China?
+Answer:",Dumplings.,inst-4
+Ji-ko-14,What is the representative export item of China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the representative export item of China?
+Answer:",Electronics.,inst-4
+Ji-ko-15,"How long (in hours) is the typical lunch break in China? (Provide Arabic numerals up to one decimal point (e.g., 2, 3.5) only.)","Read the following question and provide a single answer without any explanations.
+
+Question: How long (in hours) is the typical lunch break in China? (Provide Arabic numerals up to one decimal point (e.g., 2, 3.5) only.)
+Answer:",1.5,inst-4
+Ji-ko-16,Where do mothers stay for a certain period after childbirth for recovery in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: Where do mothers stay for a certain period after childbirth for recovery in China?
+Answer:",Maternity hotel (or postpartum care center),inst-4
+Ji-ko-19,What is China's most commonly given flower on Parents' Day?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is China's most commonly given flower on Parents' Day?
+Answer:",Carnation,inst-4
+Ji-ko-22,What do people especially spend their first salary on in China's society?,"Read the following question and provide a single answer without any explanations.
+
+Question: What do people especially spend their first salary on in China's society?
+Answer:","Traditionally, many people in China spend their first salary on gifts for their parents as a gesture of gratitude.",inst-4
+Ji-ko-24,What is the most preferred recreational facility among children in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most preferred recreational facility among children in China?
+Answer:",Playgrounds,inst-4
+Ji-ko-25,What are the family-related holidays in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What are the family-related holidays in China?
+Answer:","Chinese New Year, Qingming Festival, Dragon Boat Festival, Mid-Autumn Festival.",inst-4
+Ji-ko-26,What are the key milestones associated with children's independence from their parents in China's society?,"Read the following question and provide a single answer without any explanations.
+
+Question: What are the key milestones associated with children's independence from their parents in China's society?
+Answer:","Leaving home for education or work, marriage, and financial independence.",inst-4
+Ji-ko-27,What is the common gift you give when visiting elderly parents in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the common gift you give when visiting elderly parents in China?
+Answer:",Health supplements or tea.,inst-4
+Ji-ko-28,When is the first day that people celebrate after a child is born in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: When is the first day that people celebrate after a child is born in China?
+Answer:","The first day people celebrate after a child is born in China is the baby's one-month birthday, known as the ""Full Moon"" celebration or ""Man Yue"" in Chinese.",inst-4
+Ji-ko-29,Which age's birthday is celebrated the most grandly in China's society?,"Read the following question and provide a single answer without any explanations.
+
+Question: Which age's birthday is celebrated the most grandly in China's society?
+Answer:",60th birthday,inst-4
+Ji-ko-31,Where do middle and high school students in China usually study for exams?,"Read the following question and provide a single answer without any explanations.
+
+Question: Where do middle and high school students in China usually study for exams?
+Answer:",At home or at school.,inst-4
+Ji-ko-33,Where do high school students in China usually go after dinner?,"Read the following question and provide a single answer without any explanations.
+
+Question: Where do high school students in China usually go after dinner?
+Answer:",They usually go home to study or to their rooms to do homework.,inst-4
+Ji-ko-34,How do elementary school students in China go to school?,"Read the following question and provide a single answer without any explanations.
+
+Question: How do elementary school students in China go to school?
+Answer:","Elementary school students in China typically go to school by walking, riding bicycles, taking public transportation, or being driven by their parents.",inst-4
+Ji-ko-35,What is the most common form of private education in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most common form of private education in China?
+Answer:",Private tutoring.,inst-4
+Ji-ko-36,Which subject’s academy/private educational institute do middle or high students most frequently attend in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: Which subject’s academy/private educational institute do middle or high students most frequently attend in China?
+Answer:",Mathematics,inst-4
+Ji-ko-37,What type of clothing do middle and high school students wear to school in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What type of clothing do middle and high school students wear to school in China?
+Answer:",Uniforms,inst-4
+Ji-ko-38,Which major is considered the most difficult to gain admission to in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: Which major is considered the most difficult to gain admission to in China?
+Answer:",Tsinghua University's School of Architecture.,inst-4
+Ji-ko-39,What is the most commonly learned musical instrument by elementary school students in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most commonly learned musical instrument by elementary school students in China?
+Answer:",Recorder,inst-4
+Ji-ko-40,What do high school students typically do during break time in schools in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What do high school students typically do during break time in schools in China?
+Answer:","Socialize, play games, or engage in recreational activities.",inst-4
+Ji-ko-41,What kind of shoes do students wear in schools in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What kind of shoes do students wear in schools in China?
+Answer:",Black canvas shoes.,inst-4
+Ji-ko-42,What are the required subjects in China's university entrance exam?,"Read the following question and provide a single answer without any explanations.
+
+Question: What are the required subjects in China's university entrance exam?
+Answer:","Chinese, Mathematics, and a foreign language (usually English).",inst-4
+Ji-ko-44,Which region (within a city) in China has the highest academic fervor?,"Read the following question and provide a single answer without any explanations.
+
+Question: Which region (within a city) in China has the highest academic fervor?
+Answer:","Haidian District, Beijing",inst-4
+Ji-ko-45,What do people look forward to the most at university festivals in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What do people look forward to the most at university festivals in China?
+Answer:",Concerts and performances.,inst-4
+Jo-sp-01,What is the second most popular sport in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the second most popular sport in China?
+Answer:",Basketball,inst-4
+Jo-sp-02,What is the most popular sport played without a ball in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most popular sport played without a ball in China?
+Answer:",Table tennis (ping pong),inst-4
+Jo-sp-09,What sports are most associated with the upper class in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What sports are most associated with the upper class in China?
+Answer:",Golf and equestrian sports.,inst-4
+Jo-sp-13,What is the most popular water sport in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most popular water sport in China?
+Answer:",Dragon boat racing.,inst-4
+Jo-sp-14,What is the most popular mental sport in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most popular mental sport in China?
+Answer:",Xiangqi (Chinese Chess),inst-4
+Jo-sp-18,"How many holiday days per year does a standard worker gets in China? (Provide Arabic numerals (e.g., 12) only.)","Read the following question and provide a single answer without any explanations.
+
+Question: How many holiday days per year does a standard worker gets in China? (Provide Arabic numerals (e.g., 12) only.)
+Answer:",11,inst-4
+Jo-sp-19,What region in China has been traditionally associated with agriculture?,"Read the following question and provide a single answer without any explanations.
+
+Question: What region in China has been traditionally associated with agriculture?
+Answer:",The North China Plain.,inst-4
+Jo-sp-21,"What time, if any, do people usually leave work for lunch in China? (Provide in HH:MM format (e.g., 18:00, 09:00).)","Read the following question and provide a single answer without any explanations.
+
+Question: What time, if any, do people usually leave work for lunch in China? (Provide in HH:MM format (e.g., 18:00, 09:00).)
+Answer:",12:00,inst-4
+Jo-sp-31,"What time do high school students tend to leave school in China? (Provide in HH:MM format (e.g., 18:00, 09:00).)","Read the following question and provide a single answer without any explanations.
+
+Question: What time do high school students tend to leave school in China? (Provide in HH:MM format (e.g., 18:00, 09:00).)
+Answer:",17:00,inst-4
+Jo-sp-32,What sport do elementary school students tend to practice at school in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What sport do elementary school students tend to practice at school in China?
+Answer:",Table Tennis,inst-4
+Jo-sp-36,"How long (in weeks) are summer vacations at elementary schools in China? (Provide in Arabic numerals (e.g., 7, 8) only.)","Read the following question and provide a single answer without any explanations.
+
+Question: How long (in weeks) are summer vacations at elementary schools in China? (Provide in Arabic numerals (e.g., 7, 8) only.)
+Answer:",8,inst-4
+Jo-sp-37,"How long (in weeks) are summer vacations at universities in China? (Provide in Arabic numerals (e.g., 7, 8) only.)","Read the following question and provide a single answer without any explanations.
+
+Question: How long (in weeks) are summer vacations at universities in China? (Provide in Arabic numerals (e.g., 7, 8) only.)
+Answer:",6-8,inst-4
+Jo-sp-39,"At what age does elementary education begin in China? (Provide in Arabic numerals (e.g., 7, 8) only.)","Read the following question and provide a single answer without any explanations.
+
+Question: At what age does elementary education begin in China? (Provide in Arabic numerals (e.g., 7, 8) only.)
+Answer:",6,inst-4
+Jo-sp-43,"How many languages are studied in elementary education besides China's official language? (Provide in Arabic numerals (e.g., 7, 8) only.)","Read the following question and provide a single answer without any explanations.
+
+Question: How many languages are studied in elementary education besides China's official language? (Provide in Arabic numerals (e.g., 7, 8) only.)
+Answer:","The question is too broad and lacks specific context. In China, the number of languages studied in elementary education besides Mandarin (the official language) can vary depending on the region and the school's curriculum. Some schools might offer one or two foreign languages, while others might not offer any at all. Additionally, in regions with significant ethnic minority populations, local languages or dialects may also be taught. Therefore, without more specific information, it is not possible to provide a single numerical answer.",inst-4
+Jod-ch-01,What eating utensils do people commonly used in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What eating utensils do people commonly used in China?
+Answer:",Chopsticks.,inst-4
+Jod-ch-04,What soft drink do people in China like to have?,"Read the following question and provide a single answer without any explanations.
+
+Question: What soft drink do people in China like to have?
+Answer:",Coca-Cola,inst-4
+Jod-ch-06,What is the most popular traditional alcohol in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most popular traditional alcohol in China?
+Answer:",Baijiu,inst-4
+Jod-ch-07,"How long (in hours) on average does it take for people in China to have dinner at a restaurant? (Provide Arabic numerals up to one decimal point (e.g., 2, 3.5) only.)","Read the following question and provide a single answer without any explanations.
+
+Question: How long (in hours) on average does it take for people in China to have dinner at a restaurant? (Provide Arabic numerals up to one decimal point (e.g., 2, 3.5) only.)
+Answer:",1.5,inst-4
+Jod-ch-09,"What time do people usually have dinner in China? (Provide in HH:MM format (e.g., 18:00, 09:00).)","Read the following question and provide a single answer without any explanations.
+
+Question: What time do people usually have dinner in China? (Provide in HH:MM format (e.g., 18:00, 09:00).)
+Answer:",18:00,inst-4
+Jod-ch-12,What kind of soup do people from China like to have?,"Read the following question and provide a single answer without any explanations.
+
+Question: What kind of soup do people from China like to have?
+Answer:",Hot and sour soup.,inst-4
+Jod-ch-13,What street food do people from China like to eat?,"Read the following question and provide a single answer without any explanations.
+
+Question: What street food do people from China like to eat?
+Answer:",Baozi (steamed buns),inst-4
+Jod-ch-15,What kind of seafood do people from China like to eat?,"Read the following question and provide a single answer without any explanations.
+
+Question: What kind of seafood do people from China like to eat?
+Answer:",Fish,inst-4
+Jod-ch-16,What is the biggest festival in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the biggest festival in China?
+Answer:",Spring Festival (Chinese New Year),inst-4
+Jod-ch-28,What is the most commonly used public transport by people when travelling between cites in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most commonly used public transport by people when travelling between cites in China?
+Answer:",High-speed train.,inst-4
+Jod-ch-30,What are the specific decorations or symbols associated with the most biggest festival in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What are the specific decorations or symbols associated with the most biggest festival in China?
+Answer:","Red lanterns, dragons, fireworks, couplets, paper cuttings, and the color red.",inst-4
+Jod-ch-37,What sports do women like to watch the most in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What sports do women like to watch the most in China?
+Answer:",Football (Soccer),inst-4
+Jod-ch-38,What sports do men like to watch the most in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What sports do men like to watch the most in China?
+Answer:",Football (Soccer),inst-4
+Jod-ch-41,What is the common leisure activity that females in their 20s in China engage in?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the common leisure activity that females in their 20s in China engage in?
+Answer:",Shopping.,inst-4
+Jod-ch-42,What is the common leisure activity that males in their 20s in China engage in?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the common leisure activity that males in their 20s in China engage in?
+Answer:",Playing video games.,inst-4
+Jod-ch-46,"How long (in hours) do people usually take a break after lunch on a weekday in China? (Provide Arabic numerals up to one decimal point (e.g., 2, 3.5) only.)","Read the following question and provide a single answer without any explanations.
+
+Question: How long (in hours) do people usually take a break after lunch on a weekday in China? (Provide Arabic numerals up to one decimal point (e.g., 2, 3.5) only.)
+Answer:",1.5,inst-4
+Jod-ch-48,What do people eat for lunch during the working days in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What do people eat for lunch during the working days in China?
+Answer:",Rice or noodles with vegetables and meat or fish.,inst-4
+Jod-ch-50,"What is the average commute time (in minutes) for people in China? (Provide Arabic numerals (e.g., 1) only.)","Read the following question and provide a single answer without any explanations.
+
+Question: What is the average commute time (in minutes) for people in China? (Provide Arabic numerals (e.g., 1) only.)
+Answer:",52,inst-4
+Jod-ch-51,What is the most common transportation that people take to get to work in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most common transportation that people take to get to work in China?
+Answer:",Bus,inst-4
+Jod-ch-54,"How long (in days) is the marriage leave in China? (Provide Arabic numerals (e.g., 12) only.)","Read the following question and provide a single answer without any explanations.
+
+Question: How long (in days) is the marriage leave in China? (Provide Arabic numerals (e.g., 12) only.)
+Answer:",3,inst-4
+Jod-ch-56,"What is the typical retirement age for women in China? (Provide Arabic numerals (e.g., 12) only.)","Read the following question and provide a single answer without any explanations.
+
+Question: What is the typical retirement age for women in China? (Provide Arabic numerals (e.g., 12) only.)
+Answer:",60,inst-4
+Jod-ch-57,"What is the typical retirement age for men in China? (Provide Arabic numerals (e.g., 12) only.)","Read the following question and provide a single answer without any explanations.
+
+Question: What is the typical retirement age for men in China? (Provide Arabic numerals (e.g., 12) only.)
+Answer:",60,inst-4
+Jod-ch-58,Which profession is the most respected in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: Which profession is the most respected in China?
+Answer:",Doctor.,inst-4
+Jod-ch-60,What is the duration (in hours) of a typical workday in China? (Provide Arabic numerals (0~24) only.),"Read the following question and provide a single answer without any explanations.
+
+Question: What is the duration (in hours) of a typical workday in China? (Provide Arabic numerals (0~24) only.)
+Answer:",8,inst-4
+Jod-ch-61,Which occupation is most preferred among females in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: Which occupation is most preferred among females in China?
+Answer:",Teacher,inst-4
+Jod-ch-62,Which occupation is most preferred among males in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: Which occupation is most preferred among males in China?
+Answer:",Entrepreneur/business owner.,inst-4
+Ki-pe-17,"On average, how far do students typically pursue their education in China? (e.g., elementary, high school)","Read the following question and provide a single answer without any explanations.
+
+Question: On average, how far do students typically pursue their education in China? (e.g., elementary, high school)
+Answer:",high school,inst-4
+Ki-pe-24,What language is taught in schools in China besides English?,"Read the following question and provide a single answer without any explanations.
+
+Question: What language is taught in schools in China besides English?
+Answer:",Chinese (Mandarin),inst-4
+Ki-pe-30,What days of the week are schools closed in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What days of the week are schools closed in China?
+Answer:",Saturday and Sunday,inst-4
+Ki-pe-32,What food do the hosts usually prepare for the guests in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What food do the hosts usually prepare for the guests in China?
+Answer:",Dumplings (Jiaozi),inst-4
+Ki-pe-34,What is the usual drink in the breakfast in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the usual drink in the breakfast in China?
+Answer:",Tea,inst-4
+Ki-pe-36,"Except the food original from China, which country's food is more popular in China?","Read the following question and provide a single answer without any explanations.
+
+Question: Except the food original from China, which country's food is more popular in China?
+Answer:",Japanese,inst-4
+Ki-pe-39,What food is usually prepared for a family picnic in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What food is usually prepared for a family picnic in China?
+Answer:","Cold dishes, dumplings, and fruits.",inst-4
+Ki-pe-40,Which food from China is considered disgusting by the rest of the world?,"Read the following question and provide a single answer without any explanations.
+
+Question: Which food from China is considered disgusting by the rest of the world?
+Answer:",Century egg,inst-4
+Ki-pe-43,What is the name of the popular bread in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the name of the popular bread in China?
+Answer:",Mantou,inst-4
+Ki-pe-51,"What time of day are government offices closed in China? (Provide in HH:MM format (e.g., 18:00, 09:00).)","Read the following question and provide a single answer without any explanations.
+
+Question: What time of day are government offices closed in China? (Provide in HH:MM format (e.g., 18:00, 09:00).)
+Answer:",17:30,inst-4
+Ki-pe-53,"What is the normal start time of government offices in China? (Provide in HH:MM format (e.g., 18:00, 09:00).)","Read the following question and provide a single answer without any explanations.
+
+Question: What is the normal start time of government offices in China? (Provide in HH:MM format (e.g., 18:00, 09:00).)
+Answer:",09:00,inst-4
+Kik-in-01,What national holiday has the longest duration in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What national holiday has the longest duration in China?
+Answer:",Spring Festival (Chinese New Year),inst-4
+Kik-in-02,What are the common activities people from China do to celebrate Independence day?,"Read the following question and provide a single answer without any explanations.
+
+Question: What are the common activities people from China do to celebrate Independence day?
+Answer:","China does not celebrate Independence Day; instead, they celebrate National Day on October 1st.",inst-4
+Kik-in-04,What is installed in front of the house when a family member dies in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is installed in front of the house when a family member dies in China?
+Answer:",A white banner or white lanterns.,inst-4
+Kik-in-05,When is a pregnancy celebration or ceremony usually held in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: When is a pregnancy celebration or ceremony usually held in China?
+Answer:",The seventh month of pregnancy.,inst-4
+Kik-in-06,What event is usually held before a wedding in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What event is usually held before a wedding in China?
+Answer:",Tea Ceremony,inst-4
+Kik-in-07,What is usually shared to the children during (Lunar) New Year in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is usually shared to the children during (Lunar) New Year in China?
+Answer:",Red envelopes (hongbao) containing money.,inst-4
+Kik-in-08,What activities are usually done days before Ramadan in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What activities are usually done days before Ramadan in China?
+Answer:","Cleaning, shopping for food and supplies, and preparing special foods.",inst-4
+Kik-in-10,What is the most popular tourist attraction for foreign visitors in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most popular tourist attraction for foreign visitors in China?
+Answer:",The Great Wall of China,inst-4
+Kik-in-11,"What is the most popular religious sites (temple, church, etc.) for tourism in China?","Read the following question and provide a single answer without any explanations.
+
+Question: What is the most popular religious sites (temple, church, etc.) for tourism in China?
+Answer:",The Forbidden City (Palace Museum) in Beijing.,inst-4
+Kik-in-15,What clothes do women usually wear on graduation commencement ceremony in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What clothes do women usually wear on graduation commencement ceremony in China?
+Answer:",Academic dress (cap and gown),inst-4
+Kik-in-16,What drink is commonly consumed in China when the weather is cold?,"Read the following question and provide a single answer without any explanations.
+
+Question: What drink is commonly consumed in China when the weather is cold?
+Answer:",Hot tea.,inst-4
+Kik-in-17,What fruit is more commonly sold and found during Ramadan in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What fruit is more commonly sold and found during Ramadan in China?
+Answer:",Dates,inst-4
+Kik-in-24,What carbohydrate is usually served with chicken in a fast-food restaurant in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What carbohydrate is usually served with chicken in a fast-food restaurant in China?
+Answer:",Rice,inst-4
+Kik-in-31,What is the most famous martial art sports in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most famous martial art sports in China?
+Answer:",Kung Fu (also known as Wushu),inst-4
+Kik-in-34,What sports are often broadcasted on national television in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What sports are often broadcasted on national television in China?
+Answer:","Football (soccer), basketball, table tennis, badminton, and volleyball.",inst-4
+Kik-in-35,What sports were popular among people from China during the COVID-19 pandemic?,"Read the following question and provide a single answer without any explanations.
+
+Question: What sports were popular among people from China during the COVID-19 pandemic?
+Answer:",Table tennis and badminton.,inst-4
+Kik-in-36,Who is the most popular soccer coach in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: Who is the most popular soccer coach in China?
+Answer:",Marcello Lippi,inst-4
+Kik-in-37,What soccer teams in China are famous for their intense rivalry? (e.g. ___ vs ___),"Read the following question and provide a single answer without any explanations.
+
+Question: What soccer teams in China are famous for their intense rivalry? (e.g. ___ vs ___)
+Answer:",Beijing Guoan vs Shanghai Shenhua,inst-4
+Kik-in-38,What are the names of soccer supporters in China who are famous for their intense rivalry? (e.g. ___ vs ___),"Read the following question and provide a single answer without any explanations.
+
+Question: What are the names of soccer supporters in China who are famous for their intense rivalry? (e.g. ___ vs ___)
+Answer:",Beijing Guoan vs Shanghai Shenhua,inst-4
+Kik-in-40,Who is the most famous male badminton player in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: Who is the most famous male badminton player in China?
+Answer:",Lin Dan,inst-4
+Kik-in-41,Who is the most famous female badminton player in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: Who is the most famous female badminton player in China?
+Answer:",Lin Dan,inst-4
+Kik-in-44,What sport gets the most support from the government in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What sport gets the most support from the government in China?
+Answer:",Table Tennis,inst-4
+Kik-in-45,What sports field facilities are usually available at schools in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What sports field facilities are usually available at schools in China?
+Answer:",Basketball courts,inst-4
+Na-ko-02,What cafe beverage do people from China most commonly enjoy?,"Read the following question and provide a single answer without any explanations.
+
+Question: What cafe beverage do people from China most commonly enjoy?
+Answer:",Tea,inst-4
+Na-ko-04,What is the preferred hangover cure food for people from China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the preferred hangover cure food for people from China?
+Answer:",Congee (rice porridge),inst-4
+Na-ko-05,What is the typical delivery food in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the typical delivery food in China?
+Answer:",Dumplings (Jiaozi),inst-4
+Na-ko-07,What type of meat is consumed most by people from China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What type of meat is consumed most by people from China?
+Answer:",Pork,inst-4
+Na-ko-08,What fruit do people from China often eat in the autumn season?,"Read the following question and provide a single answer without any explanations.
+
+Question: What fruit do people from China often eat in the autumn season?
+Answer:",Persimmon,inst-4
+Na-ko-09,What side dish is the most commonly served on a dining table in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What side dish is the most commonly served on a dining table in China?
+Answer:",Rice,inst-4
+Na-ko-11,What do people from China eat while watching a soccer game?,"Read the following question and provide a single answer without any explanations.
+
+Question: What do people from China eat while watching a soccer game?
+Answer:","Snacks such as sunflower seeds, peanuts, or popcorn.",inst-4
+Na-ko-15,What is the representative nourishing food in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the representative nourishing food in China?
+Answer:",Rice,inst-4
+Na-ko-16,Who is the most famous soccer player in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: Who is the most famous soccer player in China?
+Answer:",Wang Shuang,inst-4
+Na-ko-17,What sports do male students enjoy during lunch time at school in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What sports do male students enjoy during lunch time at school in China?
+Answer:",Basketball,inst-4
+Na-ko-18,What is the most common sport girls participate in during physical education classes in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most common sport girls participate in during physical education classes in China?
+Answer:",Table Tennis,inst-4
+Na-ko-19,Who is the most popular volleyball player in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: Who is the most popular volleyball player in China?
+Answer:",Zhu Ting,inst-4
+Na-ko-20,What sports event do people from China passionately support the most in international competitions?,"Read the following question and provide a single answer without any explanations.
+
+Question: What sports event do people from China passionately support the most in international competitions?
+Answer:",Olympic Games,inst-4
+Na-ko-22,Which country is considered the biggest rival in soccer matches for China?,"Read the following question and provide a single answer without any explanations.
+
+Question: Which country is considered the biggest rival in soccer matches for China?
+Answer:",Japan,inst-4
+Na-ko-23,What type of sports academies do children attend the most in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What type of sports academies do children attend the most in China?
+Answer:",Table Tennis Academies,inst-4
+Na-ko-24,What is the most commonly eaten food in sports stadiums while watching games in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most commonly eaten food in sports stadiums while watching games in China?
+Answer:",Roasted sunflower seeds,inst-4
+Na-ko-25,What are the typical sports played in China's school sports day?,"Read the following question and provide a single answer without any explanations.
+
+Question: What are the typical sports played in China's school sports day?
+Answer:","Track and field, table tennis, badminton, basketball.",inst-4
+Na-ko-26,What are the popular sports among the middle-aged population in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What are the popular sports among the middle-aged population in China?
+Answer:",Table tennis and badminton.,inst-4
+Na-ko-28,Who is the most popular winter sports player in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: Who is the most popular winter sports player in China?
+Answer:",Eileen Gu,inst-4
+Na-ko-29,Who is the most famous swimmer in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: Who is the most famous swimmer in China?
+Answer:",Sun Yang,inst-4
+Na-ko-30,What is the most popular e-sports game in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most popular e-sports game in China?
+Answer:",Honor of Kings (also known as Arena of Valor internationally),inst-4
+Na-ko-33,What symbolic food do people from China eat on (Lunar) New Year?,"Read the following question and provide a single answer without any explanations.
+
+Question: What symbolic food do people from China eat on (Lunar) New Year?
+Answer:",Dumplings,inst-4
+Na-ko-37,What is the most popular domestic vacation spot for people from China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most popular domestic vacation spot for people from China?
+Answer:",Hainan,inst-4
+Na-ko-38,What is the most common wedding gift between bride and groom in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most common wedding gift between bride and groom in China?
+Answer:",Red envelope with money (hóngbāo).,inst-4
+Na-ko-39,What is typically given as a congratulatory gesture when attending a friend's wedding in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is typically given as a congratulatory gesture when attending a friend's wedding in China?
+Answer:",Red envelope with money (hóngbāo).,inst-4
+Na-ko-40,"How long (in days) does a funeral typically last in China? (Provide Arabic numerals (e.g., 12) only.)","Read the following question and provide a single answer without any explanations.
+
+Question: How long (in days) does a funeral typically last in China? (Provide Arabic numerals (e.g., 12) only.)
+Answer:",3,inst-4
+Na-ko-41,What should you prepare as a condolence offering when attending a funeral in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What should you prepare as a condolence offering when attending a funeral in China?
+Answer:",White envelope with money.,inst-4
+Na-ko-42,What type of food is commonly provided at funeral parlors in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What type of food is commonly provided at funeral parlors in China?
+Answer:",White candy,inst-4
+Na-ko-43,What do people do in China in the morning of the (Lunar) New Year?,"Read the following question and provide a single answer without any explanations.
+
+Question: What do people do in China in the morning of the (Lunar) New Year?
+Answer:",They often set off fireworks and firecrackers.,inst-4
+Na-ko-44,When is the day with China's most severe nationwide traffic congestion?,"Read the following question and provide a single answer without any explanations.
+
+Question: When is the day with China's most severe nationwide traffic congestion?
+Answer:",Chinese National Day (October 1st),inst-4
+Na-ko-45,What is the most popular honeymoon destination in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most popular honeymoon destination in China?
+Answer:",Sanya,inst-4
+Ne-ar-05,What is the most important national holiday in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most important national holiday in China?
+Answer:",National Day (October 1),inst-4
+Ne-ar-06,What do people from China eat in Ramadan?,"Read the following question and provide a single answer without any explanations.
+
+Question: What do people from China eat in Ramadan?
+Answer:","Muslims in China typically eat halal food during Ramadan, similar to Muslims around the world, which includes meals like suhoor before dawn and iftar after sunset.",inst-4
+Ne-ar-09,What do people from China eat in Eid ul Fitr?,"Read the following question and provide a single answer without any explanations.
+
+Question: What do people from China eat in Eid ul Fitr?
+Answer:",Yum Cha (Dim Sum),inst-4
+Ne-ar-10,What do people from China eat in Eid ul Adha?,"Read the following question and provide a single answer without any explanations.
+
+Question: What do people from China eat in Eid ul Adha?
+Answer:",Mutton or lamb dishes.,inst-4
+Ne-ar-11,Where do people from China go to celebrate New Year's Day?,"Read the following question and provide a single answer without any explanations.
+
+Question: Where do people from China go to celebrate New Year's Day?
+Answer:","Many places, but often they visit family or participate in local festivities.",inst-4
+Ne-ar-14,Where do a family gather for Eid festivities in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: Where do a family gather for Eid festivities in China?
+Answer:",Mosque or at home.,inst-4
+Ne-ar-16,"When is the weekend in China (e.g. Monday, Tuesday)?","Read the following question and provide a single answer without any explanations.
+
+Question: When is the weekend in China (e.g. Monday, Tuesday)?
+Answer:","Saturday, Sunday",inst-4
+Ne-ar-17,"At what time do most people start work in China? (Provide in HH:MM format (e.g., 18:00, 09:00).)","Read the following question and provide a single answer without any explanations.
+
+Question: At what time do most people start work in China? (Provide in HH:MM format (e.g., 18:00, 09:00).)
+Answer:",09:00,inst-4
+Ne-ar-18,"At what time do most people finish work in China? (Provide in HH:MM format (e.g., 18:00, 09:00).)","Read the following question and provide a single answer without any explanations.
+
+Question: At what time do most people finish work in China? (Provide in HH:MM format (e.g., 18:00, 09:00).)
+Answer:",18:00,inst-4
+Ne-ar-20,What is considered to be a secure job in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is considered to be a secure job in China?
+Answer:",Public sector or government jobs.,inst-4
+Ne-ar-24,Which city is the primary commercial hub in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: Which city is the primary commercial hub in China?
+Answer:",Shanghai,inst-4
+Ne-ar-25,What is the industry that pays the best in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the industry that pays the best in China?
+Answer:",Technology (particularly internet companies and tech giants).,inst-4
+Ne-ar-26,What is the most famous public corporation in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most famous public corporation in China?
+Answer:",Alibaba Group,inst-4
+Ne-ar-31,What is the most famous dish in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most famous dish in China?
+Answer:",Peking Duck,inst-4
+Ne-ar-32,What do people usually have for breakfast in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What do people usually have for breakfast in China?
+Answer:",Congee (rice porridge) or baozi (steamed buns).,inst-4
+Ne-ar-33,"When do people usually have lunch in China? (Provide in HH:MM format (e.g., 18:00, 09:00).)","Read the following question and provide a single answer without any explanations.
+
+Question: When do people usually have lunch in China? (Provide in HH:MM format (e.g., 18:00, 09:00).)
+Answer:",12:00,inst-4
+Ne-ar-34,What is typically indispensable in meals in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is typically indispensable in meals in China?
+Answer:",Rice,inst-4
+Ne-ar-36,What is a typical festive meal in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is a typical festive meal in China?
+Answer:",Peking duck.,inst-4
+Ne-ar-37,Which fruit do people usually offer tourists/visitors from abroad in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: Which fruit do people usually offer tourists/visitors from abroad in China?
+Answer:",Lychee,inst-4
+Ne-ar-38,Which food do people usually offer as charity in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: Which food do people usually offer as charity in China?
+Answer:",Rice,inst-4
+Ne-ar-39,What is the cheapest fast food in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the cheapest fast food in China?
+Answer:",Steamed buns (Baozi).,inst-4
+Ne-ar-43,What do people usually have with tea in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What do people usually have with tea in China?
+Answer:",Dim sum or small snacks.,inst-4
+Ne-ar-44,What do people have with coffee in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What do people have with coffee in China?
+Answer:",Youtiao (Chinese doughnut),inst-4
+New-am-02,What is the most popular traditional food in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most popular traditional food in China?
+Answer:",Peking duck (Beijing roast duck),inst-4
+New-am-04,What is the most popular dipping sauce in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most popular dipping sauce in China?
+Answer:",Soy sauce.,inst-4
+New-am-08,What food is most often consumed during Christian fasting in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What food is most often consumed during Christian fasting in China?
+Answer:",Vegetarian food.,inst-4
+New-am-15,What food is usually prepared when mothers give birth in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What food is usually prepared when mothers give birth in China?
+Answer:","Zuo yue zi (confinement food) or specifically, chicken soup with ginger and sesame oil.",inst-4
+New-am-27,Who is the most popular female sportperson in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: Who is the most popular female sportperson in China?
+Answer:",Li Na,inst-4
+New-am-34,Where do most elementary school students prepare for their exams in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: Where do most elementary school students prepare for their exams in China?
+Answer:",At home or at school.,inst-4
+New-am-41,"In China, at which grade level do students take their first national-level examination?","Read the following question and provide a single answer without any explanations.
+
+Question: In China, at which grade level do students take their first national-level examination?
+Answer:",Grade 9 (for the Zhongkao - Senior High School Entrance Examination).,inst-4
+New-am-53,Which region in China is widely known for its coffee/tea industry?,"Read the following question and provide a single answer without any explanations.
+
+Question: Which region in China is widely known for its coffee/tea industry?
+Answer:",Yunnan,inst-4
+New-am-54,Which region in China is widely known for its livestock industry?,"Read the following question and provide a single answer without any explanations.
+
+Question: Which region in China is widely known for its livestock industry?
+Answer:",Inner Mongolia,inst-4
+New-am-59,What is the main occupation of people living in deserts in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the main occupation of people living in deserts in China?
+Answer:",Herding and agriculture.,inst-4
+New-am-60,Which animal is typically used for transportation in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: Which animal is typically used for transportation in China?
+Answer:",Horse,inst-4
+New-am-72,What is the most popular comic book for children to read in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most popular comic book for children to read in China?
+Answer:",Doraemon,inst-4
+New-am-73,What is the most popular YouTube channel for children in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most popular YouTube channel for children in China?
+Answer:",Cocomelon - Nursery Rhymes,inst-4
+New-am-74,What is the most popular talk show in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most popular talk show in China?
+Answer:",The Jin Xing Show,inst-4
+New-am-77,What is the most famous religious holiday in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most famous religious holiday in China?
+Answer:",Chinese New Year (Spring Festival),inst-4
+New-am-81,"What is the busiest month for weddings in China? (Provide Arabic numerals (e.g., 1) only.)","Read the following question and provide a single answer without any explanations.
+
+Question: What is the busiest month for weddings in China? (Provide Arabic numerals (e.g., 1) only.)
+Answer:",5,inst-4
+New-am-83,What is the most popular traditional musical instrument in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most popular traditional musical instrument in China?
+Answer:",Guzheng,inst-4
+New-as-01,What is the main agricultural product produced in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the main agricultural product produced in China?
+Answer:",Rice,inst-4
+New-as-02,What is the most popular wheat-based food item in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most popular wheat-based food item in China?
+Answer:",Noodles,inst-4
+New-as-05,What is the most typical drink offered to guests when they visit households in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most typical drink offered to guests when they visit households in China?
+Answer:",Tea,inst-4
+New-as-07,What is the most popular dish cooked with fish in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most popular dish cooked with fish in China?
+Answer:","Fish is prepared in many ways in China, and preferences can vary by region. However, one of the most famous dishes is ""Squirrel-shaped Mandarin Fish"" (Songshu Guiyu), especially popular in Jiangsu province. Another widely enjoyed dish is ""Steamed Fish"" (Qingzheng Yu), which is popular across various regions. It's difficult to pinpoint a single ""most popular"" dish due to regional diversity.",inst-4
+New-as-14,What food do people from China like to eat during rainy weather?,"Read the following question and provide a single answer without any explanations.
+
+Question: What food do people from China like to eat during rainy weather?
+Answer:",Hot pot.,inst-4
+New-as-15,What drink is commonly consumed in China when the weather is hot?,"Read the following question and provide a single answer without any explanations.
+
+Question: What drink is commonly consumed in China when the weather is hot?
+Answer:",Green tea,inst-4
+New-as-20,What is the most popular indoor sport in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most popular indoor sport in China?
+Answer:",Table tennis (ping pong),inst-4
+New-as-29,What sport do men in China like to watch?,"Read the following question and provide a single answer without any explanations.
+
+Question: What sport do men in China like to watch?
+Answer:",Football (Soccer),inst-4
+New-as-30,What sport do women in China like to watch?,"Read the following question and provide a single answer without any explanations.
+
+Question: What sport do women in China like to watch?
+Answer:",Football (soccer),inst-4
+New-as-58,What is the most popular beverage that people from China like to drink in their workplace?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most popular beverage that people from China like to drink in their workplace?
+Answer:",Tea,inst-4
+New-as-64,On which holiday do all family members tend to reunite in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: On which holiday do all family members tend to reunite in China?
+Answer:",Chinese New Year (Spring Festival),inst-4
+New-as-76,What traditional games do families play during traditional holidays in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What traditional games do families play during traditional holidays in China?
+Answer:",Mahjong,inst-4
+New-as-80,What type of clothing do people from China wear during traditional festivals?,"Read the following question and provide a single answer without any explanations.
+
+Question: What type of clothing do people from China wear during traditional festivals?
+Answer:",Hanfu.,inst-4
+New-as-89,What traditional festival accessories do people from China wear?,"Read the following question and provide a single answer without any explanations.
+
+Question: What traditional festival accessories do people from China wear?
+Answer:","Red clothing and accessories, lanterns, and paper cuttings.",inst-4
+New-az-05,What is the most famous region for alcohol production in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most famous region for alcohol production in China?
+Answer:",Maotai (or Moutai),inst-4
+New-az-11,What fruit do people from China often eat in the summer season?,"Read the following question and provide a single answer without any explanations.
+
+Question: What fruit do people from China often eat in the summer season?
+Answer:",Watermelon,inst-4
+New-az-12,Which region in China is known for its seafood?,"Read the following question and provide a single answer without any explanations.
+
+Question: Which region in China is known for its seafood?
+Answer:",Shandong Province,inst-4
+New-az-21,Which region in China is the most popular skiing destination?,"Read the following question and provide a single answer without any explanations.
+
+Question: Which region in China is the most popular skiing destination?
+Answer:",Heilongjiang Province,inst-4
+New-az-26,Who is the most popular martial arts player in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: Who is the most popular martial arts player in China?
+Answer:",Jackie Chan,inst-4
+New-az-27,Which sport has been one of the fastest-growing in China over the last decade?,"Read the following question and provide a single answer without any explanations.
+
+Question: Which sport has been one of the fastest-growing in China over the last decade?
+Answer:",Table Tennis,inst-4
+New-az-39,Which country is the most popular destination for students from China studying abroad?,"Read the following question and provide a single answer without any explanations.
+
+Question: Which country is the most popular destination for students from China studying abroad?
+Answer:",United States,inst-4
+New-az-49,"How many people work in a typical family in China? (Provide Arabic numerals (e.g., 1) only.)","Read the following question and provide a single answer without any explanations.
+
+Question: How many people work in a typical family in China? (Provide Arabic numerals (e.g., 1) only.)
+Answer:",2,inst-4
+New-az-60,"In China, who takes care of kids when both parents are working?","Read the following question and provide a single answer without any explanations.
+
+Question: In China, who takes care of kids when both parents are working?
+Answer:",Grandparents often take care of kids when both parents are working in China.,inst-4
+New-az-69,What is the preferred alcoholic beverage for men from China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the preferred alcoholic beverage for men from China?
+Answer:",Baijiu,inst-4
+New-az-70,What is the preferred alcoholic beverage for women from China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the preferred alcoholic beverage for women from China?
+Answer:",Baijiu,inst-4
+New-az-73,"How many people on average typically attend a wedding in China? (Provide Arabic numerals (e.g., 1) only.)","Read the following question and provide a single answer without any explanations.
+
+Question: How many people on average typically attend a wedding in China? (Provide Arabic numerals (e.g., 1) only.)
+Answer:",200,inst-4
+New-ch-01,What kind of meat do people usually eat when they have barbecue in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What kind of meat do people usually eat when they have barbecue in China?
+Answer:",Pork,inst-4
+New-ch-02,"When do people usually have breakfast in China? (Provide in HH:MM format (e.g., 18:00, 09:00).)","Read the following question and provide a single answer without any explanations.
+
+Question: When do people usually have breakfast in China? (Provide in HH:MM format (e.g., 18:00, 09:00).)
+Answer:",07:00,inst-4
+New-ch-04,What kinds of food do people usually eat for late-night snacks in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What kinds of food do people usually eat for late-night snacks in China?
+Answer:","Instant noodles, dumplings, barbecued skewers, or fruit.",inst-4
+New-ch-05,What is the most famous spicy dish in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most famous spicy dish in China?
+Answer:",Mapo Tofu,inst-4
+New-ch-07,What food items do people typically pair with hard liquor in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What food items do people typically pair with hard liquor in China?
+Answer:",Peanuts or sunflower seeds.,inst-4
+New-ch-08,What seasoning is indispensable in cooking in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What seasoning is indispensable in cooking in China?
+Answer:",Soy sauce.,inst-4
+New-ch-09,What food do people typically consume when the weather is cold in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What food do people typically consume when the weather is cold in China?
+Answer:",Hotpot,inst-4
+New-ch-13,What is the most famous alcohol brand in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most famous alcohol brand in China?
+Answer:",Moutai (also known as Maotai),inst-4
+New-ch-14,What foods do people usually eat when they are sick in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What foods do people usually eat when they are sick in China?
+Answer:",Congee (rice porridge),inst-4
+New-ch-15,What prepared/ready-to-eat food do people typically buy at supermarkets in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What prepared/ready-to-eat food do people typically buy at supermarkets in China?
+Answer:",Instant noodles.,inst-4
+New-ch-16,What is the most famous sports-related movie in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most famous sports-related movie in China?
+Answer:",Shaolin Soccer,inst-4
+New-ch-17,What extreme sport do people generally wish to try the most in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What extreme sport do people generally wish to try the most in China?
+Answer:",Bungee jumping,inst-4
+New-ch-18,Which track and field event is the most popular to watch during competitions in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: Which track and field event is the most popular to watch during competitions in China?
+Answer:",100-meter sprint,inst-4
+New-ch-19,Which gymnastics event is the most popular to watch during competitions in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: Which gymnastics event is the most popular to watch during competitions in China?
+Answer:",Artistic gymnastics.,inst-4
+New-ch-23,Who is the most famous table tennis player in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: Who is the most famous table tennis player in China?
+Answer:",Ma Long,inst-4
+New-ch-26,"In the Winter Olympics, which event is the most popular to watch in China?","Read the following question and provide a single answer without any explanations.
+
+Question: In the Winter Olympics, which event is the most popular to watch in China?
+Answer:",Short track speed skating,inst-4
+New-ch-27,Who is the most famous boxer in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: Who is the most famous boxer in China?
+Answer:",Zou Shiming,inst-4
+New-ch-30,Who is the most famous track and field athlete in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: Who is the most famous track and field athlete in China?
+Answer:",Liu Xiang,inst-4
+New-ch-31,What job do parents most hope their children will pursue in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What job do parents most hope their children will pursue in China?
+Answer:",Doctor,inst-4
+New-ch-32,What office software do people typically use in the workplace in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What office software do people typically use in the workplace in China?
+Answer:",Microsoft Office,inst-4
+New-ch-38,Which cities or regions are known for their import and export activities in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: Which cities or regions are known for their import and export activities in China?
+Answer:","Shanghai, Shenzhen, Guangzhou, Beijing, Tianjin, Ningbo, Qingdao, Dalian, Xiamen, Hong Kong.",inst-4
+New-ch-39,What platform is commonly used in the e-commerce industry in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What platform is commonly used in the e-commerce industry in China?
+Answer:",Alibaba/Taobao/Tmall,inst-4
+New-ch-44,"How long is the typical probation period for new employees before signing a formal contract in China? (e.g., 1 month).","Read the following question and provide a single answer without any explanations.
+
+Question: How long is the typical probation period for new employees before signing a formal contract in China? (e.g., 1 month).
+Answer:",1 to 6 months (depending on the contract length).,inst-4
+New-ch-45,Which industries do young people typically choose to start businesses in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: Which industries do young people typically choose to start businesses in China?
+Answer:",Technology and Internet-related industries.,inst-4
+New-ch-49,What is the most common way for family members to communicate remotely in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most common way for family members to communicate remotely in China?
+Answer:",WeChat,inst-4
+New-ch-51,What form of accommodation is typically booked for family trips in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What form of accommodation is typically booked for family trips in China?
+Answer:",Hotel or resort.,inst-4
+New-ch-54,Which fruit is usually prepared the most for family dinners in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: Which fruit is usually prepared the most for family dinners in China?
+Answer:",Apple,inst-4
+New-ch-64,"How many hours of classes do university students typically have per week in China? (Provide Arabic numerals (e.g., 1) only.)","Read the following question and provide a single answer without any explanations.
+
+Question: How many hours of classes do university students typically have per week in China? (Provide Arabic numerals (e.g., 1) only.)
+Answer:",15-20,inst-4
+New-ch-66,"What is the typical tuition fee per semester for public high schools in China?  (Provide Arabic numerals (e.g., 1) only.)","Read the following question and provide a single answer without any explanations.
+
+Question: What is the typical tuition fee per semester for public high schools in China?  (Provide Arabic numerals (e.g., 1) only.)
+Answer:",0,inst-4
+New-ch-70,What compulsory courses do university students have in common in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What compulsory courses do university students have in common in China?
+Answer:",Ideology and politics courses.,inst-4
+New-ch-71,"What is the average class size in high schools in China? (Provide Arabic numerals (e.g., 1) only.)","Read the following question and provide a single answer without any explanations.
+
+Question: What is the average class size in high schools in China? (Provide Arabic numerals (e.g., 1) only.)
+Answer:",50,inst-4
+New-ch-72,Which major is considered most conducive to employment in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: Which major is considered most conducive to employment in China?
+Answer:",Computer Science,inst-4
+New-ch-73,What type of clubs are most popular among university students in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What type of clubs are most popular among university students in China?
+Answer:","Student societies or organizations related to academic, cultural, and social interests.",inst-4
+New-ch-74,What types of accommodation do university students in China typically live in?,"Read the following question and provide a single answer without any explanations.
+
+Question: What types of accommodation do university students in China typically live in?
+Answer:",University dormitories.,inst-4
+New-ch-75,"How long is each class period for middle school students in China (minutes)?  (Provide Arabic numerals (e.g., 1) only.)","Read the following question and provide a single answer without any explanations.
+
+Question: How long is each class period for middle school students in China (minutes)?  (Provide Arabic numerals (e.g., 1) only.)
+Answer:",45,inst-4
+New-ch-78,What leisure activities do retired women typically like in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What leisure activities do retired women typically like in China?
+Answer:",Tai Chi,inst-4
+New-ch-79,What leisure activities do retired men typically like in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What leisure activities do retired men typically like in China?
+Answer:",Playing Chinese chess or mahjong.,inst-4
+New-ch-80,"During which holidays do people typically visit religious sites (temples, churches, etc.) in China?","Read the following question and provide a single answer without any explanations.
+
+Question: During which holidays do people typically visit religious sites (temples, churches, etc.) in China?
+Answer:",Chinese New Year and Mid-Autumn Festival.,inst-4
+New-ch-81,What are the typical housewarming gifts in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What are the typical housewarming gifts in China?
+Answer:","Red envelopes with money, tea sets, fruit baskets, alcohol, or household items.",inst-4
+New-ch-82,"At what time do weddings typically start in China? (Provide in HH:MM format (e.g., 18:00, 09:00).)","Read the following question and provide a single answer without any explanations.
+
+Question: At what time do weddings typically start in China? (Provide in HH:MM format (e.g., 18:00, 09:00).)
+Answer:",09:09,inst-4
+New-ch-83,Which city in China hosts festivals the most?,"Read the following question and provide a single answer without any explanations.
+
+Question: Which city in China hosts festivals the most?
+Answer:",Beijing,inst-4
+New-ch-84,What color of clothing do people typically wear when attending weddings in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What color of clothing do people typically wear when attending weddings in China?
+Answer:",Red.,inst-4
+New-ch-85,What color of clothing do people typically wear when attending funerals in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What color of clothing do people typically wear when attending funerals in China?
+Answer:",White.,inst-4
+New-en-01,Which snack is eaten in the cinema in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: Which snack is eaten in the cinema in China?
+Answer:",Popcorn,inst-4
+New-en-02,What is the most popular chip/crisp flavour in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most popular chip/crisp flavour in China?
+Answer:",Spicy Sichuan Pickle Flavor,inst-4
+New-en-04,Who is a popular celebrity chef in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: Who is a popular celebrity chef in China?
+Answer:",Da Dong (Dong Zhenxiang),inst-4
+New-en-05,Which food is a cost-effective and quick meal option in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: Which food is a cost-effective and quick meal option in China?
+Answer:",Rice with vegetables.,inst-4
+New-en-07,What are the most popular cooking shows in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What are the most popular cooking shows in China?
+Answer:",A Bite of China,inst-4
+New-en-08,What is the most popular chocolate brand in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most popular chocolate brand in China?
+Answer:",Dove (Mars),inst-4
+New-en-10,What is the most eaten cheese in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most eaten cheese in China?
+Answer:",Mozzarella,inst-4
+New-en-11,What is the most disliked vegetable in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most disliked vegetable in China?
+Answer:","Bitter melon (苦瓜, kǔguā)",inst-4
+New-en-12,What food is most commonly found in food courts in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What food is most commonly found in food courts in China?
+Answer:",Dumplings (Jiaozi),inst-4
+New-en-17,What are the most common cheering tools used by sports fans in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What are the most common cheering tools used by sports fans in China?
+Answer:",Thundersticks (also known as bang-bang sticks),inst-4
+New-en-18,What do fans bring with them when attending a live game in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What do fans bring with them when attending a live game in China?
+Answer:","Noise-making items, such as drums or clappers.",inst-4
+New-en-19,What is the most well known sporting stadium in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most well known sporting stadium in China?
+Answer:",Beijing National Stadium (also known as the Bird's Nest),inst-4
+New-en-23,Who is the most famous Paralympian in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: Who is the most famous Paralympian in China?
+Answer:",Hou Bin,inst-4
+New-en-26,What is the best recognized sporting chant in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the best recognized sporting chant in China?
+Answer:","""加油"" (Jiāyóu)",inst-4
+New-en-38,Which industries are known for more flexible working hours in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: Which industries are known for more flexible working hours in China?
+Answer:",Technology and creative industries.,inst-4
+New-en-41,Who is the most well known and successful entrepreneur in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: Who is the most well known and successful entrepreneur in China?
+Answer:",Jack Ma,inst-4
+New-en-47,What can typically be found in the back garden of houses in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What can typically be found in the back garden of houses in China?
+Answer:",Vegetable plots or ornamental plants.,inst-4
+New-en-49,What is the name of the most famous family in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the name of the most famous family in China?
+Answer:","The Confucius family (Kong family) is often considered one of the most famous families in China historically due to the influence of Confucius. However, if referring to contemporary times, the answer could vary and might not be as clear-cut.",inst-4
+New-en-50,What is the most common family name in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most common family name in China?
+Answer:",Wang,inst-4
+New-en-55,Which religion is most commonly practiced by families in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: Which religion is most commonly practiced by families in China?
+Answer:",Buddhism,inst-4
+New-en-56,What is the most popular foreign language spoken by families in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most popular foreign language spoken by families in China?
+Answer:","Mandarin Chinese is the official language of China and is spoken by the majority of the population. However, if we consider a foreign language, then English is the most popular foreign language spoken by families in China.",inst-4
+New-en-59,Which country is the most popular destination for families from China to emigrate to?,"Read the following question and provide a single answer without any explanations.
+
+Question: Which country is the most popular destination for families from China to emigrate to?
+Answer:",Canada,inst-4
+New-en-68,What repercussions are there for bad behavior in schools in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What repercussions are there for bad behavior in schools in China?
+Answer:","Detention, suspension, or expulsion.",inst-4
+New-en-69,Which writers are commonly studied in literature class in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: Which writers are commonly studied in literature class in China?
+Answer:",Lu Xun,inst-4
+New-en-70,"How many school breaks are there in a year for high schools in China? (Provide Arabic numerals (e.g., 1) only.)","Read the following question and provide a single answer without any explanations.
+
+Question: How many school breaks are there in a year for high schools in China? (Provide Arabic numerals (e.g., 1) only.)
+Answer:",3,inst-4
+New-en-72,Which online resource do students usually use to study in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: Which online resource do students usually use to study in China?
+Answer:",Baidu Wenku,inst-4
+New-en-75,"What is the average length of a semester in terms of weeks of teaching at universities in China? (Provide Arabic numerals (e.g., 1) only.)","Read the following question and provide a single answer without any explanations.
+
+Question: What is the average length of a semester in terms of weeks of teaching at universities in China? (Provide Arabic numerals (e.g., 1) only.)
+Answer:",16,inst-4
+New-en-76,Which airport in China is the busiest during the holiday season?,"Read the following question and provide a single answer without any explanations.
+
+Question: Which airport in China is the busiest during the holiday season?
+Answer:",Beijing Capital International Airport (PEK),inst-4
+New-en-79,Which region of China is well known for its theatrical performances?,"Read the following question and provide a single answer without any explanations.
+
+Question: Which region of China is well known for its theatrical performances?
+Answer:",Beijing,inst-4
+New-en-87,What is the most famous historic landmark in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most famous historic landmark in China?
+Answer:",The Great Wall of China,inst-4
+New-en-90,What is the most famous hotel brand in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most famous hotel brand in China?
+Answer:",Hilton,inst-4
+New-gr-05,What is the most popular grab-and-go breakfast option in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most popular grab-and-go breakfast option in China?
+Answer:",Baozi (steamed buns),inst-4
+New-gr-06,What is the most popular food in China among young people?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most popular food in China among young people?
+Answer:",Hotpot,inst-4
+New-gr-08,What type of alcoholic drink is most commonly consumed at festivals in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What type of alcoholic drink is most commonly consumed at festivals in China?
+Answer:",Baijiu,inst-4
+New-gr-13,What is the most common morning drink in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most common morning drink in China?
+Answer:",Tea,inst-4
+New-gr-15,What is the most popular traditional dessert in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most popular traditional dessert in China?
+Answer:",Mooncake,inst-4
+New-gr-21,What is the most popular racket sport in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most popular racket sport in China?
+Answer:",Table tennis (ping pong).,inst-4
+New-gr-24,What is the most popular track and field sport in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most popular track and field sport in China?
+Answer:",Athletics (Track and Field),inst-4
+New-gr-29,Which international sporting event is the most popular in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: Which international sporting event is the most popular in China?
+Answer:",The Olympic Games.,inst-4
+New-gr-47,"How long (in minutes) are typical work breaks in China, excluding lunch and dinner breaks? (Provide Arabic numerals (e.g., 1) only.)","Read the following question and provide a single answer without any explanations.
+
+Question: How long (in minutes) are typical work breaks in China, excluding lunch and dinner breaks? (Provide Arabic numerals (e.g., 1) only.)
+Answer:",10,inst-4
+New-gr-58,Which job is considered underpaid in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: Which job is considered underpaid in China?
+Answer:",Teacher,inst-4
+New-gr-76,What is the most common food served during Easter in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most common food served during Easter in China?
+Answer:","Easter is not a traditional holiday in China, and there is no specific food associated with Easter commonly served across the country.",inst-4
+New-gr-82,What is the most popular music genre among the elderly population in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most popular music genre among the elderly population in China?
+Answer:",Traditional Chinese music or folk music.,inst-4
+New-gr-88,What drink is usually offered at funerals in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What drink is usually offered at funerals in China?
+Answer:",White tea.,inst-4
+New-gr-89,What drink is usually offered at weddings in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What drink is usually offered at weddings in China?
+Answer:",Tea,inst-4
+New-ha-07,What food originated from China and can be found all over the world?,"Read the following question and provide a single answer without any explanations.
+
+Question: What food originated from China and can be found all over the world?
+Answer:",Dumplings,inst-4
+New-ha-08,What food is typically disliked by children but enjoyed by the elderly in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What food is typically disliked by children but enjoyed by the elderly in China?
+Answer:",Bitter melon.,inst-4
+New-ha-09,What cooking utensil is most commonly used in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What cooking utensil is most commonly used in China?
+Answer:",Wok,inst-4
+New-ha-13,Which is the most popular vegetable in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: Which is the most popular vegetable in China?
+Answer:",Chinese cabbage (bok choy).,inst-4
+New-ha-19,Which animal is used for sports in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: Which animal is used for sports in China?
+Answer:",Horse,inst-4
+New-ha-66,What is the most popular wedding venue in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most popular wedding venue in China?
+Answer:",The Great Wall of China,inst-4
+New-in-01,Which coffee shop brand is the most popular in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: Which coffee shop brand is the most popular in China?
+Answer:",Luckin Coffee,inst-4
+New-in-03,What type of food from China is typically served in restaurants overseas?,"Read the following question and provide a single answer without any explanations.
+
+Question: What type of food from China is typically served in restaurants overseas?
+Answer:",Chinese cuisine.,inst-4
+New-in-33,What region in China is usually associated with mining?,"Read the following question and provide a single answer without any explanations.
+
+Question: What region in China is usually associated with mining?
+Answer:",Inner Mongolia,inst-4
+New-in-34,What region in China is usually associated with oil?,"Read the following question and provide a single answer without any explanations.
+
+Question: What region in China is usually associated with oil?
+Answer:",Daqing,inst-4
+New-in-62,What university in China is popular because of its engineering major? (Provide the official name.),"Read the following question and provide a single answer without any explanations.
+
+Question: What university in China is popular because of its engineering major? (Provide the official name.)
+Answer:",Tsinghua University,inst-4
+New-in-63,What university in China is popular because of its school of medicine? (Provide the official name.),"Read the following question and provide a single answer without any explanations.
+
+Question: What university in China is popular because of its school of medicine? (Provide the official name.)
+Answer:",Peking Union Medical College,inst-4
+New-in-78,What is the most popular payment method in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most popular payment method in China?
+Answer:",Mobile payments (with platforms like Alipay and WeChat Pay),inst-4
+New-in-80,What is the most famous theme park in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most famous theme park in China?
+Answer:",Shanghai Disneyland Park,inst-4
+New-ko-01,What is the most popular children's animation that is commonly watched by kids in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most popular children's animation that is commonly watched by kids in China?
+Answer:",Boonie Bears,inst-4
+New-ko-02,What is the most popular prenatal education activity for pregnant women in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most popular prenatal education activity for pregnant women in China?
+Answer:",Listening to music.,inst-4
+New-ko-03,What is the most popular children's song in China that families sing together?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most popular children's song in China that families sing together?
+Answer:",Two Tigers (两只老虎),inst-4
+New-ko-04,Which toys are most popular among boys in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: Which toys are most popular among boys in China?
+Answer:",Lego.,inst-4
+New-ko-05,Which toys are most popular among girls in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: Which toys are most popular among girls in China?
+Answer:",Barbie dolls.,inst-4
+New-ko-06,What is the most popular folk tale in China that is typically told to children?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most popular folk tale in China that is typically told to children?
+Answer:",Journey to the West,inst-4
+New-ko-07,What is the customary symbol of condolence used at funerals in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the customary symbol of condolence used at funerals in China?
+Answer:",White chrysanthemum.,inst-4
+New-ko-08,Where do university students in China tend to work part-time the most?,"Read the following question and provide a single answer without any explanations.
+
+Question: Where do university students in China tend to work part-time the most?
+Answer:",Tutoring or teaching assistant positions.,inst-4
+New-ko-09,What are the most frequently practiced team-building activities in companies based in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What are the most frequently practiced team-building activities in companies based in China?
+Answer:",Team-building outings or trips.,inst-4
+New-ko-10,What are the most common activities people do as a side job in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What are the most common activities people do as a side job in China?
+Answer:",Online selling or freelancing.,inst-4
+New-pe-02,What is the most famous edible souvenir for tourists in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most famous edible souvenir for tourists in China?
+Answer:",Peking Duck,inst-4
+New-pe-06,What is the most popular stew in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most popular stew in China?
+Answer:",Beef Stew (牛肉炖菜),inst-4
+New-pe-11,What is the most common spice/herb used in dishes from China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most common spice/herb used in dishes from China?
+Answer:",Ginger,inst-4
+New-pe-16,What is the most famous traditional sport in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most famous traditional sport in China?
+Answer:",Wushu (also known as Kung Fu),inst-4
+New-pe-20,What sport is popular to play on the beach in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What sport is popular to play on the beach in China?
+Answer:",Beach volleyball.,inst-4
+New-pe-45,What is the usual work schedule during the month of Ramadan in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the usual work schedule during the month of Ramadan in China?
+Answer:","The usual work schedule during the month of Ramadan in China can vary, but typically it is reduced for Muslim workers, often by two hours per day.",inst-4
+New-pe-47,"When is Student's Day celebrated in China? (Provide in MM/DD format (e.g., 12/31).)","Read the following question and provide a single answer without any explanations.
+
+Question: When is Student's Day celebrated in China? (Provide in MM/DD format (e.g., 12/31).)
+Answer:",05/04,inst-4
+New-pe-49,Where do families gather to pray together in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: Where do families gather to pray together in China?
+Answer:",Temples or home altars.,inst-4
+New-pe-53,What gifts do fathers get on Father's Day (or Parents' Day) in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What gifts do fathers get on Father's Day (or Parents' Day) in China?
+Answer:",White lilies or orchids.,inst-4
+New-pe-54,What gifts do mothers get on Mother's Day (or Parents' Day) in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What gifts do mothers get on Mother's Day (or Parents' Day) in China?
+Answer:",Carnations,inst-4
+New-pe-59,"How many generations typically live together in a household in China? (Provide Arabic numerals (e.g., 12) only.)","Read the following question and provide a single answer without any explanations.
+
+Question: How many generations typically live together in a household in China? (Provide Arabic numerals (e.g., 12) only.)
+Answer:",3,inst-4
+New-pe-65,"How many subjects are taught in middle schools in China? (Provide Arabic numerals (e.g., 12) only.)","Read the following question and provide a single answer without any explanations.
+
+Question: How many subjects are taught in middle schools in China? (Provide Arabic numerals (e.g., 12) only.)
+Answer:","The number of subjects taught in middle schools in China can vary, but typically there are around 12 main subjects. However, without a specific curriculum or school in mind, it is impossible to provide an exact number.",inst-4
+New-pe-66,What is the most popular after school curricular in elementary schools in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most popular after school curricular in elementary schools in China?
+Answer:",Chinese Calligraphy,inst-4
+New-pe-74,How much is the average annual tuition fee for public universities in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: How much is the average annual tuition fee for public universities in China?
+Answer:","The average annual tuition fee for public universities in China is generally between 3,000 to 10,000 yuan (approximately 440 to 1,470 USD as of my last update). However, this can vary depending on the specific institution and program of study.",inst-4
+New-pe-76,What is a popular activity to do in parks in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is a popular activity to do in parks in China?
+Answer:",Tai Chi,inst-4
+New-pe-78,What is the name of the most famous film festival held in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the name of the most famous film festival held in China?
+Answer:",Shanghai International Film Festival,inst-4
+New-pe-83,What is the popular card game played during social gatherings in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the popular card game played during social gatherings in China?
+Answer:",Mahjong,inst-4
+New-pe-85,Where is the most popular tourist destination abroad for people from China?,"Read the following question and provide a single answer without any explanations.
+
+Question: Where is the most popular tourist destination abroad for people from China?
+Answer:",Thailand,inst-4
+New-pe-86,What is the name of the most famous tower in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the name of the most famous tower in China?
+Answer:","The Great Wall of China is not a tower, but it is one of the most famous structures in China. If you are looking for a famous tower, it could be the Canton Tower in Guangzhou.",inst-4
+New-spme-01,What edible insect is eaten most often in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What edible insect is eaten most often in China?
+Answer:",Silkworms,inst-4
+New-spme-04,Which agricultural product is exported most often in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: Which agricultural product is exported most often in China?
+Answer:",Soybeans.,inst-4
+New-spme-05,What are the most popular sweets in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What are the most popular sweets in China?
+Answer:",White Rabbit Creamy Candy,inst-4
+New-spme-15,What is the most popular sports drink in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most popular sports drink in China?
+Answer:",Pocari Sweat,inst-4
+New-spme-27,What is the average education level for people in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the average education level for people in China?
+Answer:",Secondary education (middle school and high school),inst-4
+New-spme-37,Which profession is most commonly studied abroad by students from China?,"Read the following question and provide a single answer without any explanations.
+
+Question: Which profession is most commonly studied abroad by students from China?
+Answer:",Business and Management,inst-4
+New-spme-60,"Which day of the week do most families in China practice religious activities? (e.g. Monday, Tuesday)","Read the following question and provide a single answer without any explanations.
+
+Question: Which day of the week do most families in China practice religious activities? (e.g. Monday, Tuesday)
+Answer:",Sunday,inst-4
+New-spme-65,What is the most popular way to celebrate Independence Day in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most popular way to celebrate Independence Day in China?
+Answer:","China does not celebrate Independence Day as it is commonly recognized in countries like the United States. Instead, China celebrates its National Day on October 1st, marking the founding of the People's Republic of China. The most popular way to celebrate this day in China is with fireworks, festive events, and national ceremonies.",inst-4
+New-spme-68,What is the most popular beverage among children in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most popular beverage among children in China?
+Answer:",Milk,inst-4
+New-spme-76,What is the most popular place in China to celebrate Independence Day?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most popular place in China to celebrate Independence Day?
+Answer:",China does not celebrate Independence Day; it has a National Day on October 1st.,inst-4
+New-spme-78,What is the name of the song that is typically sung at birthday parties in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the name of the song that is typically sung at birthday parties in China?
+Answer:",祝你生日快乐 (Zhù nǐ shēngrì kuàilè),inst-4
+New-su-01,What snacks are usually sold in front of schools in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What snacks are usually sold in front of schools in China?
+Answer:",Baozi (steamed buns),inst-4
+New-su-09,What oil is usually used for cooking in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What oil is usually used for cooking in China?
+Answer:",Soybean oil,inst-4
+New-su-10,What food is commonly consumed by pregnant women in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What food is commonly consumed by pregnant women in China?
+Answer:",Ginger.,inst-4
+New-su-15,What is the most popular traditional non-alcoholic drink in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most popular traditional non-alcoholic drink in China?
+Answer:",Tea,inst-4
+New-su-17,What sports facilities are generally available in parks in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What sports facilities are generally available in parks in China?
+Answer:","Outdoor fitness equipment, basketball courts, running tracks, and table tennis tables.",inst-4
+New-su-21,What are the common activities that seniors usually do in parks in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What are the common activities that seniors usually do in parks in China?
+Answer:",Tai chi,inst-4
+New-su-24,What sports do parents and children commonly play together in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What sports do parents and children commonly play together in China?
+Answer:",Table tennis (ping pong),inst-4
+New-su-28,What color is associated with the national soccer team of China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What color is associated with the national soccer team of China?
+Answer:",Red,inst-4
+New-su-33,What is the common dress code for school teachers in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the common dress code for school teachers in China?
+Answer:",Business casual attire.,inst-4
+New-su-34,What is the most popular extracurricular activity related to music in schools in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most popular extracurricular activity related to music in schools in China?
+Answer:",Playing musical instruments (particularly piano and violin),inst-4
+New-su-42,What religion is mainly taught in schools in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What religion is mainly taught in schools in China?
+Answer:","None. China is officially secular, and religious education is not part of the standard curriculum in public schools.",inst-4
+New-su-45,"What date is Education Day celebrated in China? (Provide in MM/DD format (e.g., 12/31).)","Read the following question and provide a single answer without any explanations.
+
+Question: What date is Education Day celebrated in China? (Provide in MM/DD format (e.g., 12/31).)
+Answer:",09/10,inst-4
+New-su-50,What is the main occupation of people in mountainous areas in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the main occupation of people in mountainous areas in China?
+Answer:",Farming and herding.,inst-4
+New-su-51,What is the main occupation of people in coastal areas in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the main occupation of people in coastal areas in China?
+Answer:",Fishing,inst-4
+New-su-57,What is the most common livestock raised in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most common livestock raised in China?
+Answer:",Pigs (swine).,inst-4
+New-su-58,What animals are commonly used for agriculture in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What animals are commonly used for agriculture in China?
+Answer:","Water buffalo, pigs, chickens, ducks, and sheep.",inst-4
+New-su-59,What do farmers in China typically wear to protect themselves from the heat whilst farming?,"Read the following question and provide a single answer without any explanations.
+
+Question: What do farmers in China typically wear to protect themselves from the heat whilst farming?
+Answer:",Straw hats,inst-4
+New-su-60,What do farmers in China usually eat for lunch?,"Read the following question and provide a single answer without any explanations.
+
+Question: What do farmers in China usually eat for lunch?
+Answer:",Rice with vegetables and/or meat.,inst-4
+New-su-71,What gifts do parents generally give to their children for their birthdays in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What gifts do parents generally give to their children for their birthdays in China?
+Answer:","Toys, clothes, books, or red envelopes with money.",inst-4
+New-su-75,What type of vehicle do most families in China generally own?,"Read the following question and provide a single answer without any explanations.
+
+Question: What type of vehicle do most families in China generally own?
+Answer:",Car.,inst-4
+New-su-77,What is usually given to the children during Eid in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is usually given to the children during Eid in China?
+Answer:","Yasuiqian (压岁钱) or ""lucky money"" in red envelopes.",inst-4
+New-su-81,What clothes do grooms usually wear at weddings in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What clothes do grooms usually wear at weddings in China?
+Answer:",Traditional Chinese grooms often wear a silk robe known as a changshan or a Mao suit for their wedding.,inst-4
+New-su-82,What clothes do brides usually wear at weddings in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What clothes do brides usually wear at weddings in China?
+Answer:",Qipao or Cheongsam.,inst-4
+New-su-83,What food is usually served at weddings in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What food is usually served at weddings in China?
+Answer:","Banquet-style meals with multiple courses, often including dishes like Peking duck, whole fish, and dim sum.",inst-4
+New-su-86,What is the most famous government building in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most famous government building in China?
+Answer:",The Great Hall of the People,inst-4
+New-su-88,What is the most popular music genre among the younger population in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most popular music genre among the younger population in China?
+Answer:",Pop music (C-pop).,inst-4
+Ni-en-02,"What time do middle school students in China typically finish school each day? (Provide in HH:MM format (e.g., 18:00, 09:00).)","Read the following question and provide a single answer without any explanations.
+
+Question: What time do middle school students in China typically finish school each day? (Provide in HH:MM format (e.g., 18:00, 09:00).)
+Answer:",15:00,inst-4
+Ni-en-03,"At what age do people in China typically go to university? (Provide Arabic numerals (e.g., 12) only.)","Read the following question and provide a single answer without any explanations.
+
+Question: At what age do people in China typically go to university? (Provide Arabic numerals (e.g., 12) only.)
+Answer:",18,inst-4
+Ni-en-06,"From what age do people need to attend compulsory education in China? (Provide Arabic numerals (e.g., 12) only.)","Read the following question and provide a single answer without any explanations.
+
+Question: From what age do people need to attend compulsory education in China? (Provide Arabic numerals (e.g., 12) only.)
+Answer:",6,inst-4
+Ni-en-09,How many days a week do children attend school in China? (Provide Arabic numerals (0~7) only.),"Read the following question and provide a single answer without any explanations.
+
+Question: How many days a week do children attend school in China? (Provide Arabic numerals (0~7) only.)
+Answer:",5,inst-4
+Ni-en-11,"In China, how long (in years) does a Master's degree typically take to complete? (Provide Arabic numerals (e.g., 12) only.)","Read the following question and provide a single answer without any explanations.
+
+Question: In China, how long (in years) does a Master's degree typically take to complete? (Provide Arabic numerals (e.g., 12) only.)
+Answer:",2,inst-4
+Ni-en-12,What is the top university in China? (Provide the official name.),"Read the following question and provide a single answer without any explanations.
+
+Question: What is the top university in China? (Provide the official name.)
+Answer:",Tsinghua University,inst-4
+Ni-en-13,"At what age do most people in China graduate from university? (Provide Arabic numerals (e.g., 12) only.)","Read the following question and provide a single answer without any explanations.
+
+Question: At what age do most people in China graduate from university? (Provide Arabic numerals (e.g., 12) only.)
+Answer:",22,inst-4
+Ni-en-15,"At what age do children in China generally start middle school? (Provide Arabic numerals (e.g., 12) only.)","Read the following question and provide a single answer without any explanations.
+
+Question: At what age do children in China generally start middle school? (Provide Arabic numerals (e.g., 12) only.)
+Answer:",12,inst-4
+Ni-en-17,"How many hours a week does a full-time worker in China typically work? (Provide Arabic numerals (e.g., 12) only.)","Read the following question and provide a single answer without any explanations.
+
+Question: How many hours a week does a full-time worker in China typically work? (Provide Arabic numerals (e.g., 12) only.)
+Answer:",40,inst-4
+Ni-en-19,How many days a week does a full-time worker work in China? (Provide Arabic numerals (0~7) only.),"Read the following question and provide a single answer without any explanations.
+
+Question: How many days a week does a full-time worker work in China? (Provide Arabic numerals (0~7) only.)
+Answer:",5,inst-4
+Ni-en-20,"At what age do most people start working in China? (Provide Arabic numerals (e.g., 12) only.)","Read the following question and provide a single answer without any explanations.
+
+Question: At what age do most people start working in China? (Provide Arabic numerals (e.g., 12) only.)
+Answer:",16,inst-4
+Ni-en-21,"From what age is an individual allowed to work in China? (Provide Arabic numerals (e.g., 12) only.)","Read the following question and provide a single answer without any explanations.
+
+Question: From what age is an individual allowed to work in China? (Provide Arabic numerals (e.g., 12) only.)
+Answer:",16,inst-4
+Ni-en-31,What do people in China traditionally eat on Christmas Day?,"Read the following question and provide a single answer without any explanations.
+
+Question: What do people in China traditionally eat on Christmas Day?
+Answer:","In China, Christmas is not a traditional holiday, and there is no specific traditional food associated with Christmas Day for the general population. However, some people who celebrate might opt for Western-style Christmas foods, or just have a regular meal.",inst-4
+Ni-en-37,What is the name of the day of the year where people in China celebrate love and romance?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the name of the day of the year where people in China celebrate love and romance?
+Answer:",Qixi Festival,inst-4
+Ni-en-40,What is the most popular Christmas song in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most popular Christmas song in China?
+Answer:","""Silent Night"" (平安夜 - Píng'ān Yè)",inst-4
+Nu-in-04,"How many semesters are there each academic year at high schools in China? (Provide in Arabic numerals (e.g., 7, 8) only.)","Read the following question and provide a single answer without any explanations.
+
+Question: How many semesters are there each academic year at high schools in China? (Provide in Arabic numerals (e.g., 7, 8) only.)
+Answer:",2,inst-4
+Nu-in-05,In which month does the new school year typically begin in China? (Provide Arabic numerals (1~12) only.),"Read the following question and provide a single answer without any explanations.
+
+Question: In which month does the new school year typically begin in China? (Provide Arabic numerals (1~12) only.)
+Answer:",9,inst-4
+Nu-in-06,"When is National Teacher's Day commemorated in China? (Provide in MM/DD format (e.g., 12/31).)","Read the following question and provide a single answer without any explanations.
+
+Question: When is National Teacher's Day commemorated in China? (Provide in MM/DD format (e.g., 12/31).)
+Answer:",09/10,inst-4
+Nu-in-11,"At what time does elementary school start in China? (Provide in HH:MM format (e.g., 18:00, 09:00).)","Read the following question and provide a single answer without any explanations.
+
+Question: At what time does elementary school start in China? (Provide in HH:MM format (e.g., 18:00, 09:00).)
+Answer:",08:00,inst-4
+Nu-in-20,"When is Children's Day celebrated in China? (Provide in MM/DD format (e.g., 12/31).)","Read the following question and provide a single answer without any explanations.
+
+Question: When is Children's Day celebrated in China? (Provide in MM/DD format (e.g., 12/31).)
+Answer:",06/01,inst-4
+Nu-in-40,Which city is the main destination for job seekers in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: Which city is the main destination for job seekers in China?
+Answer:",Shanghai,inst-4
+Sa-en-1,What is China's most popular fast food chain?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is China's most popular fast food chain?
+Answer:",KFC (Kentucky Fried Chicken),inst-4
+Sa-en-13,What is the food that is most divisive (either love or hate) in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the food that is most divisive (either love or hate) in China?
+Answer:",Durian,inst-4
+Sa-en-16,What is the most popular soccer team among the people from China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most popular soccer team among the people from China?
+Answer:",Guangzhou Evergrande Taobao F.C.,inst-4
+Sa-en-22,What is the most famous university in China known for its sports team?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most famous university in China known for its sports team?
+Answer:",Peking University,inst-4
+Sa-en-31,What is China's most popular family pet?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is China's most popular family pet?
+Answer:",Dogs,inst-4
+Sa-en-32,What is the most popular family TV show in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most popular family TV show in China?
+Answer:","The most popular family TV show in China can vary over time, but as of my last update, one of the popular shows was ""Dad, Where Are We Going?"" (Chinese: 爸爸去哪儿). However, please note that popularity can change and there might be new shows that have gained popularity since then.",inst-4
+Sa-en-37,What is the most popular family boardgame in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most popular family boardgame in China?
+Answer:",Xiangqi (Chinese Chess),inst-4
+Sa-en-6,What is the most popular takeaway food in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most popular takeaway food in China?
+Answer:","Chinese cuisine is diverse, and preferences can vary by region, but one of the most popular takeaway foods in China is dumplings (Jiaozi).",inst-4
+Sa-en-7,What are popular snacks in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What are popular snacks in China?
+Answer:","Baozi, jianbing, and Peking duck pancakes.",inst-4
+Sa-en-9,What do people from China eat at the beach?,"Read the following question and provide a single answer without any explanations.
+
+Question: What do people from China eat at the beach?
+Answer:",Sandwiches,inst-4
+Ta-pe-10,"At what age do men usually get married in China? (Provide Arabic numerals (e.g., 20) only.)","Read the following question and provide a single answer without any explanations.
+
+Question: At what age do men usually get married in China? (Provide Arabic numerals (e.g., 20) only.)
+Answer:",26,inst-4
+Ta-pe-11,"At what age do women usually get married in China? (Provide Arabic numerals (e.g., 20) only.)","Read the following question and provide a single answer without any explanations.
+
+Question: At what age do women usually get married in China? (Provide Arabic numerals (e.g., 20) only.)
+Answer:",26,inst-4
+Ta-pe-13,"In your parents' generation, what was the average number of members in their family in China? (Provide Arabic numerals (e.g., 20) only.)","Read the following question and provide a single answer without any explanations.
+
+Question: In your parents' generation, what was the average number of members in their family in China? (Provide Arabic numerals (e.g., 20) only.)
+Answer:",4.9,inst-4
+Ta-pe-17,"In the Olympic Games, which sport is the most popular in China?","Read the following question and provide a single answer without any explanations.
+
+Question: In the Olympic Games, which sport is the most popular in China?
+Answer:",Table Tennis,inst-4
+Ta-pe-21,Where do children usually play soccer in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: Where do children usually play soccer in China?
+Answer:",Football fields or public parks.,inst-4
+Ta-pe-22,Which daily exercise is popular among women in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: Which daily exercise is popular among women in China?
+Answer:",Square dancing (广场舞),inst-4
+Ta-pe-23,Which daily exercise is popular among men in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: Which daily exercise is popular among men in China?
+Answer:",Jogging.,inst-4
+Ta-pe-25,"What is the most famous rivalry in a national sports league in China? (e.g., ___ vs ___)","Read the following question and provide a single answer without any explanations.
+
+Question: What is the most famous rivalry in a national sports league in China? (e.g., ___ vs ___)
+Answer:",Beijing Guoan vs Shanghai Shenhua,inst-4
+Ta-pe-29,Which professional sport is the highest paying in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: Which professional sport is the highest paying in China?
+Answer:",Basketball,inst-4
+Ta-pe-30,What is/was the most popular sports-related TV program in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is/was the most popular sports-related TV program in China?
+Answer:",CCTV-5's sports programming,inst-4
+Ta-pe-32,What day of the year is usually dedicated to fireworks in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What day of the year is usually dedicated to fireworks in China?
+Answer:",Chinese New Year,inst-4
+Ta-pe-37,What is the common symbol of New Year's Eve that is usually found in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the common symbol of New Year's Eve that is usually found in China?
+Answer:",Red lanterns,inst-4
+Ta-pe-42,What food do people from China usually eat on New Year's Eve?,"Read the following question and provide a single answer without any explanations.
+
+Question: What food do people from China usually eat on New Year's Eve?
+Answer:",Dumplings,inst-4
+Ta-pe-45,What is usually eaten during the celebration of the longest night of the year in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is usually eaten during the celebration of the longest night of the year in China?
+Answer:",Tangyuan (sweet rice balls),inst-4
+Th-en-01,What is the most popular summer sport in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most popular summer sport in China?
+Answer:",Table Tennis,inst-4
+Th-en-03,What is the most popular professional sports league in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most popular professional sports league in China?
+Answer:",Chinese Basketball Association (CBA),inst-4
+Th-en-05,What is the most popular women's sports team in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most popular women's sports team in China?
+Answer:",China women's national volleyball team,inst-4
+Th-en-09,What is the most popular tournament in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most popular tournament in China?
+Answer:",The League of Legends Pro League (LPL) is one of the most popular tournaments in China.,inst-4
+Th-en-11,Who is the most popular sportperson in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: Who is the most popular sportperson in China?
+Answer:",Yao Ming,inst-4
+Th-en-12,In which sport has China been most successful in international competitions?,"Read the following question and provide a single answer without any explanations.
+
+Question: In which sport has China been most successful in international competitions?
+Answer:",Table Tennis,inst-4
+Th-en-15,What is the most popular winter sport in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most popular winter sport in China?
+Answer:",Skiing,inst-4
+Th-en-19,What is a city or region in China known for manufacturing industry?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is a city or region in China known for manufacturing industry?
+Answer:",Shenzhen,inst-4
+Th-en-21,What is regarded as the most important perk typically offered to employees in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is regarded as the most important perk typically offered to employees in China?
+Answer:",Housing allowance or housing benefits.,inst-4
+Th-en-22,What was the most catastrophic economic period for China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What was the most catastrophic economic period for China?
+Answer:",The Great Chinese Famine (1959-1961) during the Great Leap Forward.,inst-4
+Th-en-24,What region in China is a major hub for tech workers and start ups?,"Read the following question and provide a single answer without any explanations.
+
+Question: What region in China is a major hub for tech workers and start ups?
+Answer:",Shenzhen,inst-4
+Th-en-27,What is the most important industry in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most important industry in China?
+Answer:",Manufacturing.,inst-4
+Th-en-35,"Which one of the daily meals is commonly shared with family members in China? (e.g., breakfast, lunch, dinner)","Read the following question and provide a single answer without any explanations.
+
+Question: Which one of the daily meals is commonly shared with family members in China? (e.g., breakfast, lunch, dinner)
+Answer:",Dinner,inst-4
+Th-en-36,What is a popular family activity with a child to do on weekends in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is a popular family activity with a child to do on weekends in China?
+Answer:",Visiting parks or playgrounds.,inst-4
+Th-en-37,"At what age do children typically become independent from their parents in China? (Provide Arabic numerals (e.g., 12) only.)","Read the following question and provide a single answer without any explanations.
+
+Question: At what age do children typically become independent from their parents in China? (Provide Arabic numerals (e.g., 12) only.)
+Answer:",18,inst-4
+Th-en-38,What is the most important family holiday in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most important family holiday in China?
+Answer:",Chinese New Year (Spring Festival),inst-4
+Th-en-39,What is a popular family game in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is a popular family game in China?
+Answer:",Mahjong,inst-4
+Th-en-41,"What is the average age for couples to have their first child in China? (Provide Arabic numerals (e.g., 20) only.)","Read the following question and provide a single answer without any explanations.
+
+Question: What is the average age for couples to have their first child in China? (Provide Arabic numerals (e.g., 20) only.)
+Answer:",27,inst-4
+Th-en-43,"How many cars are owned by a typical family in China? (Provide Arabic numerals (e.g., 12) only.)","Read the following question and provide a single answer without any explanations.
+
+Question: How many cars are owned by a typical family in China? (Provide Arabic numerals (e.g., 12) only.)
+Answer:",1,inst-4
+Th-en-44,What is China's most popular food for family meals on weekends?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is China's most popular food for family meals on weekends?
+Answer:",Dumplings (Jiaozi),inst-4
+Th-en-45,What is the most popular weekday evening family activity in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most popular weekday evening family activity in China?
+Answer:",Watching television.,inst-4
+Th-en-48,What is the highest grade given to top-achieving high school students on assignments and exams in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the highest grade given to top-achieving high school students on assignments and exams in China?
+Answer:","A (or 优秀, which means ""Excellent"" in Chinese grading system)",inst-4
+Th-en-49,What is considered the most important exam for high school students in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is considered the most important exam for high school students in China?
+Answer:",Gaokao,inst-4
+Th-en-51,Which subject is considered the most important for students in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: Which subject is considered the most important for students in China?
+Answer:",Mathematics,inst-4
+Th-en-53,What is the most popular extracurricular social event at schools in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most popular extracurricular social event at schools in China?
+Answer:",The Spring Festival Gala (also known as the Chinese New Year Gala),inst-4
+Th-en-58,What is the most advanced math subject learned before university in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is the most advanced math subject learned before university in China?
+Answer:",Pre-calculus (高等数学准备/高中数学).,inst-4
+Tmp-ar-01,Where do university students in China usually go to study for their final exams?,"Read the following question and provide a single answer without any explanations.
+
+Question: Where do university students in China usually go to study for their final exams?
+Answer:",University library or study rooms.,inst-4
+Tmp-ar-02,What is a common public transport that people use to go to university in China?,"Read the following question and provide a single answer without any explanations.
+
+Question: What is a common public transport that people use to go to university in China?
+Answer:",Bus,inst-4
+Tmp-ar-04,What do elementary students in China usually do after school?,"Read the following question and provide a single answer without any explanations.
+
+Question: What do elementary students in China usually do after school?
+Answer:",Homework or attend extracurricular classes.,inst-4

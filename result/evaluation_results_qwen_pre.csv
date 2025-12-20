@@ -1,0 +1,495 @@
+question_id,score,num_annotated_answers,annotated_answers,prediction_preview
+Al-en-01,0,9,"cheese stick, dried fruit, potato chips...",Mandarin oranges (橘子).
+Al-en-02,1,6,"peanuts, fried chicken, dried shrimp...",Pretzels or Barbecue (烤串) skewers.
+Al-en-04,1,4,"orange, apple, watermelon...",The most popular fruit in China is the mandarin orange (or tangerine).
+Al-en-06,1,11,"noodles, cooked wheaten food, pasta...",Noodles with vegetables and meat.
+Al-en-08,0,11,"potato chips, chips, wangwang...","Popcorn, fried chicken, bubble tea, fruit skewers, and snack foods like spicy peanuts or sesame ball..."
+Al-en-09,0,10,"marshmallow, cotton candy, ice cream...",Popcorn.
+Al-en-16,1,2,"3, 4",3
+Al-en-17,0,9,"soccer, football, play soccer...",Table tennis.
+Al-en-18,1,6,"mathematics, math, english...",Mandarin Chinese.
+Al-en-19,1,3,"english, japanese, korean",English
+Al-en-21,0,3,"mathematics, math, computer science",Mandarin Chinese
+Al-en-32,0,2,"roast chicken, fish",Roast turkey (as it has become a popular dish in many Chinese households during Western holidays).
+Al-en-33,1,3,"gathering, party, dress up","In China, Halloween is not a widely celebrated holiday, but some cities have events for foreigners o..."
+Al-en-34,1,10,"pasting chinese couplets, pasting spring couplets, pasting new year scrolls...","People in China celebrate New Year's Day (Spring Festival) with family reunions, fireworks, eating d..."
+Al-en-35,1,5,"gathering, party, shopping...","In China, people do not traditionally celebrate Christmas as a major holiday, but they might have fe..."
+Al-en-36,0,1,pumpkin,Mooncakes.
+Al-en-37,0,7,"turkey, fried chicken, steak...",Dumplings.
+Al-en-38,1,1,chocolate,"Red dates (红枣) and chocolate are often given as gifts on Valentine's Day in China, symbolizing love ..."
+Al-en-39,1,5,"birthday cake, cake, longevity noodles...",Noodles.
+Al-en-40,1,4,"children's park, park, amusement park...","Parks, specifically children's theme parks or playgrounds like Happy Valley or Tianjin Children's Am..."
+Al-en-43,1,4,"mahjong, play mahjong, watch tv...","Board games and card games, especially Mahjong."
+An-ar-02,1,2,"university cafeteria, canteen",University students in China often have lunch in the school canteen.
+An-ar-03,1,3,"6, 7, 1",7 (July)
+An-ar-08,1,5,"9, 10, 11...","In China, high school students typically spend around 8 hours a day at school."
+An-ar-09,0,2,"2, 3",Three
+An-ar-34,1,4,"soccer, football, basketball...",Football (soccer)
+An-ar-35,0,1,huang jianxiang,Huang Lei.
+An-ar-36,1,7,"table tennis team, ping pong team, real madrid...","The most popular sport team in China is the Chinese national soccer (football) team, particularly th..."
+An-ar-43,1,5,"family, home, pub...","Sports broadcast viewing in China commonly takes place in living rooms, bars, cafes, and public spor..."
+Ca-sp-05,0,1,3,Three
+Ca-sp-06,1,3,"dinner, lunch, breakfast",Breakfast.
+Ca-sp-08,1,7,"rice, white flour, spring onion...",Rice.
+Ca-sp-09,0,5,"cake, pastry, cakes and pastries...",Tangyuan (汤圆)
+Ca-sp-11,0,3,"friday, saturday, whenever it happens, it happens",Sundays.
+Ca-sp-14,1,2,"milk tea, tea",Tea (特别是绿茶)
+Ca-sp-19,1,4,"cocktail, beer, alcohol...","Young people in China at nightclubs often drink cocktails, beer, and soft drinks."
+Ca-sp-21,0,2,"2, 1",07 (July) and 08 (August)
+Ca-sp-29,1,10,"set off firecrackers, lucky money, send red envelope...",Family reunion dinner.
+Ca-sp-38,1,5,"apartment building, apartment, house...",Semi-detached or courtyard house (Siheyuan).
+Ca-sp-41,0,7,"children's home, rural area, countryside...","In China, the dependent elderly often live with their children, in extended families or in dedicated..."
+Ca-sp-42,1,3,"14, 24, 2",24
+Ca-sp-43,1,3,"0, 1, 3 days",3
+Ca-sp-45,1,8,"popular city attractions, countryside views, rural beauty...",A popular choice for a family vacation in China is a historical city with cultural significance and ...
+Gu-ch-05,1,6,"walk, practice tai chi, playing tai chi...",Tai Chi.
+Gu-ch-06,1,5,"basketball, soccer, football...",Table tennis.
+Gu-ch-07,1,10,"yao ming, ming yao, zhizhi wang...",Yao Ming.
+Gu-ch-08,1,5,"basketball, soccer, football...",Table tennis.
+Gu-ch-09,1,6,"badminton, yoga, running...",Badminton and Table Tennis.
+Gu-ch-11,1,4,"ping pong, table tennis, diving...",China has won the most gold medals in table tennis at the Olympics.
+Gu-ch-15,0,6,"basketball, soccer, football...",Table tennis.
+Gu-ch-16,0,1,3,2.5 (on average)
+Gu-ch-18,0,2,"1, 2","One or two children, on average."
+Gu-ch-31,1,1,6,6
+Gu-ch-32,1,1,9,9
+Gu-ch-33,1,5,"5, 6, 10...",6
+Gu-ch-38,1,1,4,4
+Gu-ch-40,0,3,"16:30, 17:00, 16:00",14:30
+Gu-ch-41,1,3,"1, 0, 2",1
+Ji-ko-02,1,2,"friday, saturday","In China, people often prefer to have company dinners on weekends, particularly Saturdays or Sundays..."
+Ji-ko-03,1,3,"shanghai, beijing, hong kong",Shanghai
+Ji-ko-07,1,5,"tencent, alibaba, huawei...",Alibaba Group.
+Ji-ko-08,0,6,"40, 76, 50...",44
+Ji-ko-09,1,8,"hot pot, barbecue, hot dishes...",Dumplings or hot pot.
+Ji-ko-14,0,6,"yiwu small commodities, mobile phone, textile...","China is known for exporting a wide range of products, but its most iconic and representative export..."
+Ji-ko-15,1,3,"1, 1.5, 0.5",1.5
+Ji-ko-16,1,5,"postpartum care center, hospital, maternal home...",Maternity rooms or postpartum care units in hospitals.
+Ji-ko-19,0,1,carnation,Rose.
+Ji-ko-22,1,5,"clothes, gift, presents...","In China, many people often use their first salary to treat themselves or their family to a special ..."
+Ji-ko-24,0,5,"swing, slide, amusement park...",Playgrounds
+Ji-ko-25,1,9,"mid-autumn festival, lunar new year, spring festival...","Spring Festival, Mid-Autumn Festival, and Chongyang Festival."
+Ji-ko-26,0,4,"work, college graduate, buy a house...",Completion of higher education and finding a stable job.
+Ji-ko-27,1,6,"health care products, fruit basket, milk...",Fruit.
+Ji-ko-28,1,4,"first month, one month old, birth feast...","The first day that people celebrate after a child is born in China is called the ""满月酒"" (mǎn yuè jiǔ)..."
+Ji-ko-29,1,5,"80, 90, 20...","The most grandly celebrated birthday in Chinese society is that of the person turning 60 years old, ..."
+Ji-ko-31,1,4,"school, classroom, extracurricular tutoring class...",Middle and high school students in China usually study for exams at their schools.
+Ji-ko-33,1,7,"home, go home, playground...",High school students in China usually go to school or study at home after dinner.
+Ji-ko-34,1,3,"parent pick-up and drop-off, walk, take the bus","Elementary school students in China usually walk, ride bicycles, or take public transportation (such..."
+Ji-ko-35,0,5,"private school, foreign language school, internation school...",Private tutoring or kaiwu jiaoyu (课外教育) is the most common form of private education in China.
+Ji-ko-36,1,3,"mathematics, english, physics","In China, middle and high school students most frequently attend mathematics and science academies o..."
+Ji-ko-37,1,2,"school uniform, sportswear",Mandatory school uniforms.
+Ji-ko-38,1,6,"medicine, aerospace science, law...","In China, the most difficult major to gain admission to is typically Medicine (especially in top-tie..."
+Ji-ko-39,1,7,"piano, guitar, violin...",Piano.
+Ji-ko-40,1,8,"go to the toilet, chat, play...","Play basketball or engage in various classroom activities, often studying or chatting with friends."
+Ji-ko-41,1,2,"sneakers, leather shoes","In schools across China, students typically wear sports shoes or casual sneakers."
+Ji-ko-42,1,5,"mathematics, math, chinese...","Math, Chinese Language, Foreign Language (usually English), Physics, Chemistry, Biology, Geography, ..."
+Ji-ko-44,1,3,"beijing, zhejiang, shanghai","Haidian District, Beijing"
+Ji-ko-45,0,4,"holiday, dance, national day...",Performances and Cultural Activities.
+Jo-sp-01,0,3,"basketball, soccer, football",Table tennis.
+Jo-sp-02,0,7,"chinese chess, guandan, fishing...",Tai Chi.
+Jo-sp-09,1,2,"golf, tennis",Golf and horse racing.
+Jo-sp-13,1,6,"swimming, diving, jet ski...",Dragon boat racing.
+Jo-sp-14,1,4,"go, chinese chess, mahjong...",Mahjong
+Jo-sp-18,1,5,"10, 15, 115...",11
+Jo-sp-19,0,6,"henan, northeast, northeast plain...",The Yangtze River Delta.
+Jo-sp-21,0,4,"12:00, 12:30, 13:00...",一般是12:00或13:00。
+Jo-sp-31,0,5,"22:00, 17:15, 18:00...",15:30
+Jo-sp-32,0,9,"running, soccer, football...","Martial arts (such as Taekwondo or Kung Fu, but often traditional Chinese martial arts like Tai Chi ..."
+Jo-sp-36,0,5,"8, 10, 6...",2
+Jo-sp-37,0,3,"8, 7, 3",4-6
+Jo-sp-39,1,2,"6, 7",6
+Jo-sp-43,0,2,"1, 2",One
+Jod-ch-01,1,1,chopsticks,Chopsticks.
+Jod-ch-04,1,7,"coke, cola, bubble tea...",Coca-Cola
+Jod-ch-06,0,5,"bai, white liquor, chinese spirits...",The most popular traditional alcohol in China is baijiu.
+Jod-ch-07,1,3,"2, 1.5, 1",1.5
+Jod-ch-09,1,2,"18:00, 19:00",18:00 - 20:00
+Jod-ch-12,0,5,"tomato potato soup, pork bone soup, fresh soup...",Hot pot.
+Jod-ch-13,1,8,"roasted sausage, barbecue skewers, sugar-coated haws...","Jiaozi (dumplings), Jianbing (Chinese crepe), Xiaolongbao (soup dumplings), Zhajiangmian (noodles wi..."
+Jod-ch-15,1,8,"crab, fish, salmon...","People in China enjoy various seafood, including fish, shrimp, crab, scallops, and sea cucumbers."
+Jod-ch-16,1,4,"lunar new year, spring festival, chinese new year...","The biggest festival in China is the Chinese New Year, also known as Spring Festival."
+Jod-ch-28,1,5,"high-speed rail, airplane, high-speed train...",High-speed train.
+Jod-ch-30,1,7,"chinese knot, couplet, new year scrolls...",Red lanterns and couplets with lucky messages.
+Jod-ch-37,1,7,"diving, ping pong, table tennis...","Women in China enjoy watching a variety of sports, but volleyball, basketball, and table tennis are ..."
+Jod-ch-38,0,7,"soccer, football, basketball...",Table tennis.
+Jod-ch-41,0,12,"shopping, travel, tourism...","Dancing, often contemporary or square dancing, is a popular leisure activity for young females in Ch..."
+Jod-ch-42,0,9,"play games, basketball, running...",Table tennis (ping-pong).
+Jod-ch-46,1,2,"1, 0.5",1.5
+Jod-ch-48,1,8,"rice, canteen boxed meal, canteen...","People in China eat a variety of dishes for lunch during the working days, which often includes rice..."
+Jod-ch-50,1,3,"60, 90, 30",60
+Jod-ch-51,1,7,"metro, subway, private car...",Bicycle.
+Jod-ch-54,0,2,"3, 2",07
+Jod-ch-56,1,3,"55, 60, 65",60
+Jod-ch-57,1,3,"60, 65, 61",60
+Jod-ch-58,0,7,"teacher, civil servant, company president...","In China, the most respected profession is often considered to be doctors (yīshēng)."
+Jod-ch-60,1,2,"8, 9",8
+Jod-ch-61,0,4,"teacher, civil servant, social media influencer...",Nursing or education is often considered the most preferred occupations among females in China due t...
+Jod-ch-62,1,8,"civil servant, investment bank, doctor...","Traditionally, professionals such as doctors, lawyers, and engineers are often considered highly pre..."
+Ki-pe-17,0,5,"undergraduate, bachelor, high school...",12 years
+Ki-pe-24,1,2,"chinese, chinese language",Mandarin Chinese.
+Ki-pe-30,1,2,"saturday, sunday","In China, weekends are when schools are generally closed. This includes Saturday and Sunday."
+Ki-pe-32,1,10,"stir-fry, cold dish, dim sum...",Dumplings or Peking duck.
+Ki-pe-34,0,2,"soy milk, milk",Tea.
+Ki-pe-36,0,8,"america, us, united states...",Italian
+Ki-pe-39,1,7,"fruit, ready-to-cook meal, snacks...","Dumplings, barbecue skewers, rice, and fruits."
+Ki-pe-40,1,4,"century egg, preserved egg, dog meat...",Some might consider stinky tofu (chou doufu) as a food that is considered disgusting by foreigners d...
+Ki-pe-43,0,5,"european-style bread, european bread, dirty bun...",Baozi
+Ki-pe-51,0,2,"18:00, 17:00",12:00
+Ki-pe-53,1,2,"09:00, 08:00",09:00
+Kik-in-01,1,6,"lunar new year, spring festival, chinese new year...","National Day and Mid-Autumn Festival, together, have the longest duration as a public holiday in Chi..."
+Kik-in-02,0,6,"travel, tourism, stay at home...",There is no specific Independence Day in China; the country celebrates National Day on October 1st. ...
+Kik-in-04,0,4,"white mourning banner, funeral couplet, white lantern...",A funeral pavilion or altar (灵堂) is installed in front of the house when a family member dies in Chi...
+Kik-in-06,1,6,"engagement ceremony, banquet, sacrificial ceremony...",Engagement ceremony (提亲 or 订婚宴)
+Kik-in-07,1,7,"red packet, red envelope, red envelope with lucky money...",Red packets (hongbao).
+Kik-in-10,1,5,"great wall, forbidden city, the palace museum...",The Great Wall of China.
+Kik-in-11,0,8,"shaolin temple, wudang mountains, mount wutai...","The most popular religious site for tourism in China is the Great Wall of China, which is not a reli..."
+Kik-in-15,0,3,"academic dress, bachelor's gown, white clothes","Formal attire, often a long gown or a suit with a graduation cap and gown."
+Kik-in-16,0,10,"tea, soup, bai...",Hot pot.
+Kik-in-17,0,3,"coconut, melon, apple",Mangoes
+Kik-in-24,1,3,"rice, fries, meal",Rice.
+Kik-in-31,1,5,"chinese kung fu, chinese martial arts, kung fu...",Tai Chi.
+Kik-in-34,1,7,"table tennis, basketball, soccer...","Table tennis, basketball, football (soccer), and martial arts (such as Wushu and Kung Fu) are common..."
+Kik-in-35,0,3,"aerobics, fitness ring, stay at home",Table tennis.
+Kik-in-36,0,4,"li tie, li fenglou, fan zhiyi...",Jia Longqiang
+Kik-in-37,0,5,"evergrande vs. luneng, shandong luneng vs guangdong evergrande, shanghai sipg vs shanghai shenhua...",Shanghai SIPG vs Beijing Guoan
+Kik-in-38,0,1,beijing guoan vs tianjin teda,Liaoning Steel FC vs Shandong Luneng
+Kik-in-40,1,1,lin dan,Lin Dan.
+Kik-in-41,0,2,"xie xingfang, chen yufei",Yao Xiong.
+Kik-in-44,1,8,"ping pong, table tennis, diving...",Table tennis.
+Kik-in-45,1,8,"basketball court, soccer stadium, soccer field...","Schools in China typically have basketball courts, football (soccer) fields, track and field tracks,..."
+Na-ko-02,0,4,"latte, latte coffee, milk coffee...","Tea (specifically, either green tea or black tea)"
+Na-ko-04,0,6,"porridge, honey water, peanuts...",Ginseng soup or hot chicken soup.
+Na-ko-05,0,9,"skewers, barbecue, malatang...",Dumplings.
+Na-ko-07,1,3,"pork, chicken, beef",Pork
+Na-ko-08,0,4,"apple, pomelo, pear...",Pumpkins.
+Na-ko-09,0,6,"green vegetables, stir-fried green vegetables, chinese cabbage...",The most commonly served side dish in China is steamed rice.
+Na-ko-11,0,5,"potato chips, chips, food to accompany alcohol...","People from China might eat various snacks or dishes while watching a soccer game, such as dumplings..."
+Na-ko-15,0,6,"ginseng, edible bird's nests, swallow nests...",Rice.
+Na-ko-16,0,6,"wu lei, lei wu, fan zhiyi...",Yao Ming
+Na-ko-17,1,4,"play basketball, basketball, reach jump...",Basketball.
+Na-ko-18,0,6,"basketball, jump rope, running...",The most common sport girls participate in during physical education classes in China is gymnastics.
+Na-ko-19,0,2,"lang ping, wei qiuyue",The most popular volleyball player in China is Zhu Ting.
+Na-ko-20,0,6,"soccer, football, basketball...",Olympic Games
+Na-ko-22,1,5,"japan, south korea, argentina...",Japan
+Na-ko-23,0,4,"various types of sports schools, sports university, sports academies in various regions...","In China, children attend the most sports academies for martial arts, specifically Chinese martial a..."
+Na-ko-24,0,3,"popcorn, roasted sausage, energy bar",Rice and noodles.
+Na-ko-25,0,8,"long jump, running, high jump...","Track and field, basketball, football (soccer), volleyball, and table tennis."
+Na-ko-26,1,4,"square dance, square dancing, mahjong...","Tai Chi, Square Dancing, and Table Tennis."
+Na-ko-28,1,2,"eileen gu, wang meng",Eileen Gu (谷爱玲)
+Na-ko-29,1,2,"sun yang, zhang lin",Sun Yang.
+Na-ko-30,1,4,"honor of kings, league of legends, dota...",The most popular e-sports game in China is League of Legends.
+Na-ko-33,1,6,"dumplings, tangyuan, glutinous rice balls...",Dumplings.
+Na-ko-37,1,13,"great wall, west lake, hangzhou west lake...",Hainan Island.
+Na-ko-38,0,4,"ring, wedding ring, gold jewelry...",Red envelope with money.
+Na-ko-39,1,3,"red envelope, cash red envelope, cash gift",Red envelope with money.
+Na-ko-40,1,3,"7, 3, 5",3-7
+Na-ko-41,0,5,"flower wreath, cash, traditional money gift at a funeral...","Mao Zedong suit or traditional Chinese clothing (qipao or zhongshan suit), flowers, and incense."
+Na-ko-42,0,1,ordinary meal,mourning meals
+Na-ko-43,0,7,"pay a new year's visit, slaughter poultry, grave sweeping...","On the morning of the Lunar New Year in China, people typically wake up early, engage in activities ..."
+Na-ko-44,0,6,"lunar new year, spring festival, chinese new year...","The day with the most severe nationwide traffic congestion in China is usually around April 5th, whi..."
+Na-ko-45,0,6,"sanya, hainan, yunnan...",Hawaii
+Ne-ar-05,1,5,"lunar new year, spring festival, chinese new year...",Spring Festival (Chinese New Year).
+Ne-ar-06,0,6,"beef, lamb, mutton...","As a Chinese person, I would say that during Ramadan, which is a significant month for Muslims, peop..."
+Ne-ar-09,0,3,"vegetarian, dapanji, saute spicy chicken","In Eid ul Fitr, people from China typically do not celebrate this Islamic holiday, so they would not..."
+Ne-ar-10,0,5,"grilled meat, barbecue, rice...","In Eid ul Adha, people from China may not celebrate this Islamic holiday, but if there are Muslims i..."
+Ne-ar-11,0,5,"home, hometown, parents' home...","People in China traditionally celebrate the Lunar New Year, not New Year's Day (which is celebrated ..."
+Ne-ar-14,1,3,"mosque, home, restaurant","China does not have Eid festivities, as it is a predominantly Muslim celebration, and it is not part..."
+Ne-ar-16,1,2,"saturday, sunday",Saturday and Sunday.
+Ne-ar-17,1,3,"09:00, 08:00, 10:00",09:00
+Ne-ar-18,1,4,"18:00, 20:00, 18:30...",17:30
+Ne-ar-20,0,5,"doctor, civil servant, teacher...",State-owned enterprises or large-scale public sector companies.
+Ne-ar-24,1,3,"shanghai, beijing, guangzhou",Shanghai.
+Ne-ar-25,1,6,"lawyer, banker, it...",Technology and finance.
+Ne-ar-26,1,2,"alibaba, moutai",The most famous public corporation in China is Alibaba Group.
+Ne-ar-31,1,8,"peking roast duck, peking duck, hot pot...",Peking Roast Duck.
+Ne-ar-32,1,8,"soy milk, ried dough sticks, porridge...","Porridge, steamed buns, congee, or fried rice, often with tea."
+Ne-ar-33,1,4,"12:00, 13:00, 12:30...",12:00
+Ne-ar-34,0,4,"rice, noodles, salt...",Chopsticks.
+Ne-ar-36,1,6,"manchu han imperial feast, fish, may there be surpluses every year (fish)...","A typical festive meal in China often includes a variety of dishes, such as dumplings (jiaozi), fish..."
+Ne-ar-37,1,5,"apple, watermelon, orange...",Mandarin oranges.
+Ne-ar-38,0,2,"instant noodles, meat",Rice and noodles.
+Ne-ar-39,0,5,"steamed bun, shaxian delicacies, noodles...",Ramen.
+Ne-ar-43,1,11,"biscuit, cookies, dim sum...","In China, people often have snacks or dim sum with tea."
+Ne-ar-44,0,4,"cake, milk, bread...","In China, people often have tea with coffee, not as a mix but as a separate beverage enjoyed alongsi..."
+New-am-02,1,6,"dumplings, tangyuan, glutinous rice balls...",Dumplings (jiaozi).
+New-am-04,1,6,"soy sauce, lao gan ma, bean paste sauce...",The most popular dipping sauce in China is soy sauce.
+New-am-15,0,8,"chicken soup, crucian carp soup, porridge...",Red eggs.
+New-am-27,0,8,"guo jingjing, sun yingsha, chen yufei...",Liu Xiang
+New-am-34,1,6,"home, tutoring class, cram school...","In China, most elementary school students prepare for their exams at home or in private tutoring cen..."
+New-am-41,0,4,"final year of high school, last year of high school, 12th grade...","High school graduation, typically around Grade 9 or 10."
+New-am-53,1,6,"yunnan, anhui, henan...",Yunnan
+New-am-54,1,4,"inner mongolia, xinjiang, henan...",Inner Mongolia.
+New-am-59,1,6,"farmer, farming, herdsman...",Shepherding and agriculture (mainly oasis farming).
+New-am-60,1,1,horse,"Horse-drawn carriages are not as common in modern China as they once were, but traditional rickshaws..."
+New-am-72,0,3,"a shuai, shuke and beta, one hundred thousand whys","The most popular comic book for children to read in China is ""New Treasure Island"" (新宝岛)."
+New-am-74,0,4,"rock & roast, the jinxing show, roast!...","The most popular talk show in China is ""Soul Plus"" (《奇葩说》)."
+New-am-77,1,3,"lunar new year, spring festival, chinese new year",Spring Festival (Chinese New Year)
+New-am-81,0,1,10,7
+New-am-83,1,7,"erhu, pipa, suona...",The most popular traditional musical instrument in China is the erhu.
+New-as-01,1,5,"rice, grain, soybean...",Rice.
+New-as-02,1,6,"noodles, baozi, steamed stuffed bun...",Dumplings (jiaozi)
+New-as-05,1,10,"tea, coconut milk, bai...",Tea.
+New-as-07,0,5,"sichuan boiled fish, braised fish, sour cabbage fish...",Kung Pao Fish (宫保鱼)
+New-as-14,1,3,"hot pot, noodle soup, soup noodles and other warm foods",Hot pot.
+New-as-15,0,7,"iced tea, herbal tea, mineral water...",Green tea or Jasmine tea.
+New-as-20,1,4,"ping pong, table tennis, badminton...",Table tennis.
+New-as-29,1,6,"soccer, football, ping pong...",Basketball
+New-as-30,0,4,"ping pong, table tennis, basketball...",Volleyball.
+New-as-58,1,6,"tea, coffee, bubble tea...",Tea.
+New-as-64,1,7,"lunar new year, spring festival, chinese new year...",Spring Festival (Chinese New Year).
+New-as-76,1,6,"mahjong, play mahjong, shuttlecock kicking...","Jianzi, or kicking shuttlecock."
+New-as-80,1,8,"as usual, daily wear, hanfu...","During traditional festivals in China, people often wear hanfu or other festive costumes, such as dr..."
+New-as-89,0,6,"gold jewelry, jewelry made of jade, jade...",Red couplets and lanterns.
+New-az-05,0,4,"sichuan, guizhou, shanxi...","Jiangxi province, particularly Wuliangye and Maotai."
+New-az-11,1,6,"watermelon, hami melon, peach...",Watermelon.
+New-az-12,0,6,"fujian, qinghai, zhejiang...","Shanghai and surrounding areas, particularly the Yangtze Delta, are famous for their seafood."
+New-az-21,0,5,"northeast, jilin changbai mountain, harbin...",Jiuzhaigou Valley
+New-az-26,1,4,"jet li, liu qinghua, chang zhizhao...",Wu Jing
+New-az-27,1,8,"soccer, football, basketball...",Table tennis.
+New-az-39,1,7,"america, us, united states...",The United States.
+New-az-49,1,2,"2, 3",1-2 (usually one or two adults work outside the home)
+New-az-60,1,12,"nanny, elder, elderly...","In China, grandparents often take care of kids when both parents are working."
+New-az-69,0,5,"bai, white liquor, chinese spirits...",MaoTai
+New-az-70,0,7,"red wine, cocktail, rio...",Rice wine (黄酒)
+New-az-73,1,5,"100, 200, 30...",200-500
+New-ch-01,1,5,"pork, beef, lamb...",Pork and beef.
+New-ch-02,1,3,"07:00, 08:00, 07:30",07:00 - 09:00
+New-ch-04,0,6,"skewers, barbecue, kebabs...","Dumplings, noodles, or hotpot."
+New-ch-05,0,5,"hot pot, spicy hot pot, spicy chicken...",Kung Pao Chicken.
+New-ch-07,1,7,"peanuts, peanut, braised food...","In China, people often pair hard liquor with snacks like steamed dumplings (jiaozi), preserved eggs ..."
+New-ch-08,1,5,"soy sauce, salt, sugar...",Soy sauce.
+New-ch-09,1,8,"hot pot, tangyuan, glutinous rice balls...",Hot pot.
+New-ch-13,0,3,"moutai liquor, moutai, wuliangye",Maotai
+New-ch-14,1,2,"porridge, chicken soup","When people are sick in China, they often consume light and soothing soups, such as chicken soup or ..."
+New-ch-15,1,8,"instant noodles, dumplings, frozen dumplings...","Ready-to-eat foods in Chinese supermarkets include baozi (steamed buns), dumplings, zongzi (glutinou..."
+New-ch-16,0,4,"leap, women's volleyball number 1, woman basketball player no. 5...","""Champion"" (冠军)"
+New-ch-17,1,4,"bungee jumping, rock climbing, diving...",Bungee jumping at the Yulong Snow Mountain in Tibet.
+New-ch-18,0,6,"hurdling, 100 meters, sprint...",Long jump.
+New-ch-19,0,5,"floor exercise, balance beam, rhythmic gymnastics...",Uneven bars.
+New-ch-23,1,4,"ma long, kong linghui, deng yaping...",Ma Long.
+New-ch-26,1,4,"skiing, figure skating, short track speed skating...",Short Track Speed Skating.
+New-ch-27,0,3,"zou shiming, zhang weili, zhang zhilei",Muhammad Ali.
+New-ch-30,1,3,"liu xiang, su bingtian, wang junxia",Liu Xiang
+New-ch-31,0,6,"civil servant, software engineer, engineer...","In China, parents often hope their children will pursue a career in medicine, engineering, or academ..."
+New-ch-32,1,4,"wps, microsoft, microsoft office...","Microsoft Office (Word, Excel, PowerPoint)."
+New-ch-38,1,7,"shanghai, shenzhen, qingdao...","Shanghai, Guangzhou, Shenzhen, Ningbo, and Hong Kong."
+New-ch-39,1,3,"taobao, jd.com, pinduoduo",Taobao.
+New-ch-44,1,3,"3 months, one month, 1 month",3 months
+New-ch-45,1,7,"internet, information technology, it industry...","Technology, e-commerce, and services (such as fintech, education, and healthcare)."
+New-ch-49,1,1,wechat,WeChat.
+New-ch-51,1,4,"hotel, homestay, budget hotel...","Family trips in China are commonly booked in either hotels or apartment rentals, especially those wi..."
+New-ch-54,0,1,apple,Mandarin oranges.
+New-ch-64,0,6,"20, 25, 21...",4-6
+New-ch-66,0,3,"1000, 5000, 2000",4000
+New-ch-70,1,9,"marxism, marxismus, ideology and politics...","Chinese university students typically have compulsory courses in subjects such as Chinese Language, ..."
+New-ch-71,1,4,"60, 50, 35...",40
+New-ch-72,1,6,"computer science, medicine, finance...","Engineering, particularly in fields like science and technology, is often considered most conducive ..."
+New-ch-73,1,5,"street dance club, sports, dance...","Student clubs in China are diverse, but sports clubs, especially those related to basketball, footba..."
+New-ch-74,1,6,"dormitory, student dormitory, student accommodation...",Dormitories.
+New-ch-75,1,2,"45, 40",45
+New-ch-78,1,6,"square dance, square dancing, play mahjong...","Tai Chi, gardening, square dancing, and embroidery."
+New-ch-79,0,9,"play chess, practice tai chi, square dancing...","Tai Chi, chess, gardening, and playing cards."
+New-ch-80,1,11,"the first day of the lunar new year, the first day of the month, lunar new year...","Spring Festival (Chinese New Year), Qingming Festival (Tomb-Sweeping Day), and Mid-Autumn Festival."
+New-ch-81,0,8,"cash, cash gift, bedding...",Red envelopes with money.
+New-ch-82,0,4,"12:00, 19:00, 17:00...",10:00
+New-ch-83,0,3,"beijing, shanghai, shenzhen",Chengdu.
+New-ch-84,1,1,red,Red.
+New-ch-85,1,2,"black, white",White.
+New-en-01,1,6,"popcorn, bubble tea, milk tea...",Popcorn.
+New-en-02,0,4,"cucumber, cucumber flavor, original flavor...",The most popular chip/crisp flavor in China is probably crispy potato (potato chips) or BBQ (sweet a...
+New-en-04,0,7,"gang wang, wang gang, lei huang...",A popular celebrity chef in China is Gong Linna.
+New-en-05,0,7,"shaxian delicacies, instant noodles, steamed stuffed bun...",Ramen noodles.
+New-en-07,1,4,"a bite of china, chinese restaurant, chef wang teaches you...","A popular cooking show in China is ""A Bite of China"" (《舌尖上的中国》)."
+New-en-08,0,3,"dove, ferrero, good times",The most popular chocolate brand in China is Mars.
+New-en-10,0,4,"mozzarella, white cheese, sheep cheese...","The most commonly consumed cheese in China is probably Cheddar or a similar Western-style cheese, of..."
+New-en-11,0,3,"bean sprouts, broccoli, momordica charantia","The most disliked vegetable in China might be Chinese cabbage (大白菜), but it can vary as people have ..."
+New-en-12,0,11,"shengjian, pan-fried bun, noodles...",Dumplings (jiaozi)
+New-en-17,0,3,"banner, toy horn, gongs and drums",呜呜啦啦歌 (Wū wū lā lā gē) and colored ribbons (shǎn shǎn yán liàn).
+New-en-18,0,7,"water, telescope, snacks...","In China, fans often bring a flag or a team scarf representing their favorite sports team when atten..."
+New-en-19,0,4,"beijing workers stadium, beijing national stadium, bird's nest...",Nanjing Olympic Sports Center
+New-en-23,0,3,"hou bin, zheng peng, dong qiming",Liu Yang.
+New-en-26,0,8,"go go, come on, you can do it...","""Guoan'er,加油 (Guoan er, jia you)"""
+New-en-38,1,7,"we media, self-media, freelancer...",Internet technology and tech companies.
+New-en-41,1,5,"jack ma, pony ma, ren zhengfei...",Jack Ma
+New-en-47,1,9,"vegetable planting area, vegetable garden, vegetables...","Typically, a back garden in China might have a mix of plants, trees, a small pond or rock garden, an..."
+New-en-49,0,5,"li ka-shing, stanley ho hung-sun, stanley ho...","The most famous family in China is the royal family, traditionally known as the House of Wu (后裔), re..."
+New-en-50,1,5,"li, wang, chen...",Wang
+New-en-55,1,5,"buddhism, no religion, taoism...", Buddhism
+New-en-56,1,1,english,English
+New-en-59,1,8,"canada, america, us...",The United States.
+New-en-68,1,14,"call parents, summon parents, write a self-criticism...","In China, bad behavior in schools can result in disciplinary actions such as verbal warnings, detent..."
+New-en-69,1,2,"lu xun, lao she","Laozi, Confucius, Tao Te Ching, Zhuangzi, Lu Xun, Mo Yan, and many others."
+New-en-70,1,3,"2, 3, 4",2
+New-en-72,0,9,"bilibili online course, bilibili, yuanfudao...",Jiandan Toutiao (JustAnswer)
+New-en-75,1,4,"16, 15, 20...",16
+New-en-76,1,6,"beijing capital airport, capital airport, shanghai pudong...",Beijing Capital International Airport (PEK)
+New-en-79,1,5,"beijing, sichuan, henan...","Beijing and the surrounding area, particularly for Beijing Opera."
+New-en-87,1,3,"great wall, forbidden city, terracotta warriors",The Great Wall of China.
+New-en-90,1,4,"home inns, home inn, hilton...",Hilton Beijing Wangfujing
+New-gr-05,0,12,"soy milk, fried dough sticks, steamed bun...",The most popular grab-and-go breakfast option in China is Jianbing.
+New-gr-06,1,9,"hot pot, luosifen, snail noodles...",Hot pot.
+New-gr-08,0,6,"bai, white liquor, chinese spirits...","The most commonly consumed alcoholic drink at festivals in China is baijiu, which is a strong distil..."
+New-gr-13,0,2,"soy milk, milk","Tea (specifically, tea like green tea or jasmine tea) is the most common morning drink in China."
+New-gr-15,1,9,"mooncake, osmanthus cake, daoxiangcun...",Mooncakes.
+New-gr-21,1,3,"ping pong, table tennis, badminton",Table tennis.
+New-gr-24,0,5,"hurdling, 110m hurdles, 100m hurdles...",The most popular track and field sport in China is table tennis.
+New-gr-29,1,5,"olympic games, china open, world cup...","The most popular international sporting event in China is the Olympic Games, particularly the Winter..."
+New-gr-47,0,5,"60, 120, 10...",05
+New-gr-58,0,11,"cleaner, teacher, farmer...",蓝领工作（blue-collar jobs）在一些情况下可能被认为是相对较低收入的。
+New-gr-76,0,1,apple,Dumplings (Jiaozi)
+New-gr-82,0,8,"folk song, pop song, pop songs...",Jazz and folk music.
+New-gr-88,0,4,"bai, white liquor, chinese spirits...",Jiǔ (酒)
+New-gr-89,0,8,"bai, white liquor, chinese spirits...",Red wine or baijiu.
+New-ha-07,1,6,"dumplings, steamed bun, noodles...",Dumplings.
+New-ha-08,0,9,"eight-treasure porridge, eight treasure congee, soup mixed with rice...",Dried tofu (豆干)
+New-ha-09,1,5,"wok, rice cooker, pot...",Wok.
+New-ha-13,0,2,"chinese cabbage, green vegetables",The most popular vegetable in China is probably cabbage.
+New-ha-19,0,3,"horse, cow, mammal",Panda (for the Panda Ball Game).
+New-ha-66,1,1,hotel,"The most popular wedding venue in China is often a hotel ballroom or a designated wedding hall, as m..."
+New-in-01,1,2,"luckin coffee, starbucks",The most popular coffee shop brand in China is Starbucks.
+New-in-03,1,7,"fried noodles, chow mein, dumplings...","Peking duck, Kung Pao chicken, dumplings (such as steamed or fried), and hot pot are commonly found ..."
+New-in-33,1,5,"shanxi, liaoning, panzhihua...",Shanxi Province.
+New-in-34,0,4,"daqing, liaoning, xinjiang...",Sichuan
+New-in-62,1,2,"tsinghua university, harbin institute of technology",Tsinghua University
+New-in-63,1,5,"peking university health science center, peking university, sichuan university...",Peking University School of Medicine
+New-in-78,1,2,"alipay, wechat pay",Alipay and WeChat Pay.
+New-in-80,0,7,"disney world, ocean park, shanghai disney resort...",The most famous theme park in China is Hong Kong Disneyland.
+New-ko-01,1,3,"pleasant goat and big big wolf, haier brothers, boonie bears",Pleasant Goat and Big Big Wolf.
+New-ko-02,1,6,"listen to music, listen to songs, music...",Prenatal yoga classes.
+New-ko-03,1,6,"little tiger, find friends, twinkle twinkle little star...","""Twinkle, Twinkle, Little Star"" (《小星星》in Chinese)"
+New-ko-04,0,5,"lego, toy car, car model...","Robot toys and action figures, especially those related to popular cartoon characters like Mickey Mo..."
+New-ko-05,1,8,"doll, simulation of the kitchen, stuffed toy...",Barbie dolls.
+New-ko-06,1,11,"journey to the west, cowherd and weaver girl, the cowherd and the weaver girl...",Journey to the West.
+New-ko-07,1,3,"chrysanthemum, flower wreath, pork","White flowers, especially chrysanthemums and orchids, are commonly used as symbols of condolence at ..."
+New-ko-08,1,8,"restaurant, online platform, on campus...","University students in China often work part-time at restaurants, cafes, or tutoring centers."
+New-ko-09,0,7,"dine together, gathering meal, eating together...","Company retreats, team lunches, group volunteer work, sports events, and problem-solving workshops."
+New-ko-10,0,8,"waiter, waitress, didi...","Freelance online work, such as translation, graphic design, or e-commerce (like selling products on ..."
+New-pe-02,1,9,"peking duck, mooncake, pineapple cake...",Peking Duck.
+New-pe-06,0,9,"braised pork with vermicelli, braised ribs, stewed ribs...",Hot pot.
+New-pe-11,0,7,"cumin, star anise, cilantro...",Soy sauce.
+New-pe-16,0,3,"ping pong, table tennis, cuju",Tai Chi.
+New-pe-20,1,5,"surfing, swimming, volleyball...",Beach volleyball.
+New-pe-47,0,1,05/04,10/16
+New-pe-49,1,2,"temple, home","Family members gather in temples, particularly Buddhism temples, or at home altars for religious pra..."
+New-pe-53,0,9,"razor, wallet, bracelet...","On Father's Day or Parents' Day in China, it is common to give gifts such as tea,保健品 (health supplem..."
+New-pe-54,1,4,"carnation, carnation bouquet, gold jewelry...","On Mother's Day or Parents' Day in China, it is common to give gifts such as flowers (especially car..."
+New-pe-59,1,2,"2, 3","In China, it is common for three generations to live together, which would be represented as 3. Howe..."
+New-pe-65,0,2,"9, 12",九 (jiǔ)
+New-pe-66,0,6,"painting, drawing, olympiad math...",Mandarin Chinese language classes.
+New-pe-74,0,5,"6000, 5000, 6000-12000 yuan...","The average annual tuition fee for public universities in China is around 5,000 to 8,000 Chinese yua..."
+New-pe-76,1,3,"square dance, tai chi, play badminton",Tai Chi.
+New-pe-78,0,5,"beijing international film festival, golden rooster awards, hundred flowers award...",The most famous film festival in China is the Shanghai International Film Festival.
+New-pe-83,0,6,"dou dizhu, playing cards, poker...",Mahjong
+New-pe-85,0,12,"america, us, united states...","The most popular tourist destination abroad for people from China is usually Europe, particularly Pa..."
+New-pe-86,0,6,"leifeng pagoda, oriental pearl, pearl of the orient...",The most famous tower in China is the Great Wall of China.
+New-spme-01,0,4,"cicada pupa, grasshopper, silkworm pupa...",Dragonfly larvae (also known as 'hoppers' or 'silk worms') are commonly consumed in some parts of Ch...
+New-spme-04,0,8,"vegetable, vegetables, fruits...",Tea.
+New-spme-05,1,12,"cake ball, egg yolk pastry, egg roll...","Rice cakes (niangao), mooncakes, Tangyuan (glutinous rice balls), and sugar-coated haws (糖葫芦) are so..."
+New-spme-15,0,7,"gatorade, eastroc super drink, scream...",The most popular sports drink in China is Harbin Beer.
+New-spme-27,0,4,"high school, junior high school, middle school...",9 years
+New-spme-37,0,7,"computer science, finance, business management...",Engineering.
+New-spme-60,1,1,sunday,Sundays
+New-spme-65,1,5,"travel, tourism, go out for a trip...","National Day celebrations in China include parades, fireworks, and flag-raising ceremonies on Octobe..."
+New-spme-68,1,7,"bubble tea, milk tea, juice...",Jiaozi tea (also known as bubble milk tea or pearl milk tea).
+New-spme-76,1,3,"tiananmen, tiananmen square, beijing",Tiananmen Square
+New-spme-78,1,3,"birthday song, happy birthday song, happy birthday","""Happy Birthday to You"" (生日快乐)"
+New-su-01,0,7,"kebabs, skewers, jianbing guozi...","In China, snacks commonly sold in front of schools include baozi (steamed buns), Jianbing (Chinese c..."
+New-su-09,1,4,"peanut oil, rapeseed oil, vegetable oil...",Soybean oil.
+New-su-10,1,7,"chicken soup, crucian carp soup, dates...",Yogurt with red dates.
+New-su-15,1,6,"tea, eight-treasure porridge, plum juice...",Tea (cha)
+New-su-17,1,5,"fitness facilities, swing, basketball court...","Public sports facilities in Chinese parks often include basketball courts, tennis courts, soccer fie..."
+New-su-21,1,5,"tai chi, play chess, square dance...",Tai Chi and dancing.
+New-su-24,0,6,"walk, jump rope, cycling...",Jianzi (踢毽子)
+New-su-28,1,1,red,Red.
+New-su-33,1,8,"formal attire, formal, shirt...","Formal attire, typically a suit or a conservative dress for women."
+New-su-34,0,7,"choir, art performance, extracurricular music class...","Singing and dancing groups, particularly folk song and dance ensembles."
+New-su-45,1,1,09/10,09/10
+New-su-50,0,1,farmer,Agriculture and forestry.
+New-su-51,1,6,"fisherman, fishing, white-collar...",Fishing and seafood industries.
+New-su-57,1,6,"chicken, duck, dog...",Pigs.
+New-su-58,1,2,"cow, cat","Horses, cows, pigs, chickens, ducks, and goats."
+New-su-59,1,3,"straw hat, conical hat, bamboo hat","Peaked hats or straw hats, and light, breathable clothing like long-sleeved shirts and loose pants."
+New-su-60,1,4,"rice, corn, steamed bun...",Rice and vegetables.
+New-su-71,1,6,"red envelope, toy, study supplies...",Red envelopes with money.
+New-su-75,0,5,"sedan, sedan, volkswagen...",Private cars.
+New-su-77,0,1,money,Red packets (hongbao)
+New-su-81,1,3,"suit, tang suit, chinese-style dress","The groom usually wears a traditional Chinese wedding suit, which is a red Mandarin collar shirt pai..."
+New-su-82,1,5,"wedding dress, cheongsam, white wedding dress...",Qipao or Cheongsam.
+New-su-83,0,14,"meat, various types of meat, fish...","Peking duck, dumplings (jiaozi), and a variety of traditional banquet dishes."
+New-su-86,0,1,great hall of the people,"The most famous government building in China is the Forbidden City, also known as the Palace Museum."
+New-su-88,1,14,"pop music, pop, hip hop...","Pop music, particularly Chinese pop (C-pop) and hip-hop."
+Ni-en-02,0,3,"18:00, 19:00, 16:30",15:00
+Ni-en-03,1,1,18,18
+Ni-en-06,1,2,"6, 7",6
+Ni-en-09,1,2,"5, 6",6
+Ni-en-11,1,2,"3, 4",2-3
+Ni-en-12,1,2,"tsinghua university, peking university",Tsinghua University
+Ni-en-13,1,2,"22, 20",22-23
+Ni-en-15,1,3,"12, 14, 13",12
+Ni-en-17,1,4,"40, 35, 45...",40-50
+Ni-en-19,1,2,"6, 5",5
+Ni-en-20,0,3,"22, 23, 24",18
+Ni-en-21,1,5,"22, 16, 23...",16
+Ni-en-31,0,5,"apple, chocolate, pizza...","People in China traditionally do not celebrate Christmas with the same customs as Western countries,..."
+Ni-en-37,0,1,qixi festival,Valentine's Day.
+Ni-en-40,0,2,"jingle bells, lonely christmas","""Little Apple"" by Chopsticks Brothers"
+Nu-in-04,0,1,2,There are usually three semesters each academic year at high schools in China.
+Nu-in-05,1,1,9,9
+Nu-in-06,1,1,09/10,09/10
+Nu-in-11,1,2,"08:00, 09:00",08:00
+Nu-in-20,1,1,06/01,06/01
+Nu-in-40,1,4,"beijing, shanghai, guangzhou...",Shanghai
+Sa-en-1,1,5,"kentucky fried chicken, kfc, mcdonald's...",The most popular fast food chain in China is KFC (Kentucky Fried Chicken).
+Sa-en-13,0,4,"durian, coriander, radish...",Hot pot.
+Sa-en-16,0,9,"guangzhou fc, guangzhou football club, real madrid...",The most popular soccer team in China is Shanghai SIPG (Soccer Club).
+Sa-en-22,1,2,"tsinghua university, beijing sport university",Tsinghua University.
+Sa-en-31,1,2,"dog, cat",The most popular family pet in China is the dog.
+Sa-en-32,0,6,"happy camp, the voice of china, xinwen lianbo...","The most popular family TV show in China is ""Sisters Who Make Waves."""
+Sa-en-37,1,6,"mahjong, pool, billiards...","The most popular family boardgame in China is ""Mahjong."""
+Sa-en-6,1,8,"malatang, chow mein, fried noodles...",Dumplings.
+Sa-en-7,0,13,"xiaolongbao, pancake, fried dough stick...","Spring rolls, dumplings, mooncakes, baozi, and popcorn (in movie theaters)."
+Sa-en-9,0,7,"skewers, barbecue, seafood stall...",Beach snacks and seafood.
+Ta-pe-10,1,4,"24, 28, 25...",The average age of marriage for men in China is around 30 years old.
+Ta-pe-11,1,2,"25, 26",22-25
+Ta-pe-13,0,3,"5, 6, 10",4
+Ta-pe-17,1,5,"ping pong, table tennis, pingpong...",Table Tennis
+Ta-pe-21,1,3,"sports field, soccer field, football field","Children in China often play soccer in parks, school playgrounds, or specially designed sports field..."
+Ta-pe-22,0,4,"yoga, square dance, walk...",Tai Chi.
+Ta-pe-23,1,8,"running, work out, go to gym...",Tai Chi.
+Ta-pe-25,0,4,"beijing guoan vs shanghai shenhua, shanghai shenhua vs beijing guoan, beijing guoan vs tianjin teda...",Chinese Super League: Guangzhou恒大 vs Shandong鲁能.
+Ta-pe-29,1,3,"soccer, football, basketball",Chinese Professional Basketball League (CBA)
+Ta-pe-30,0,7,"total soccer, we never stop, nba...","The most popular sports-related TV program in China was ""Football Night"" (足球之夜), which aired on CCTV..."
+Ta-pe-32,0,7,"spring festival's eve, lunar nee year's eve, chinese new year's eve...",Lantern Festival.
+Ta-pe-37,0,6,"new year scrolls, spring festival couplets, chinese couplets...",Fireworks.
+Ta-pe-42,1,6,"dumplings, pen cai, poon choi...",Dumplings (Jiaozi).
+Ta-pe-45,1,9,"dumplings, tangyuan, glutinous rice balls...",Dumplings (Jiaozi)
+Th-en-01,1,7,"basketball, swimming, walk...",Table tennis.
+Th-en-03,1,5,"china table tennis super league, chinese football super league, chinese super league...",Chinese Super League (CSL)
+Th-en-05,1,4,"china women's national football team, china women's volleyball team, china women's diving dream team...",Volleyball Team.
+Th-en-09,1,8,"ping pong, table tennis, basketball...","The most popular tournament in China is the Chinese Super League (CSL), which is a professional foot..."
+Th-en-11,1,10,"yao ming, ming yao, yingsha sun...",The most popular sportsperson in China is typically Yao Ming.
+Th-en-12,1,6,"ping pong, table tennis, diving...",Table Tennis.
+Th-en-15,1,2,"skiing, skating",Skiing.
+Th-en-19,1,8,"shenzhen, suzhou, jiangsu-zhejiang...",Shenzhen
+Th-en-21,0,6,"five insurances and one fund, weekends off, annual leave...",Employee housing.
+Th-en-22,0,5,"2008, three years of difficulty, three years of economic difficulties...",The most catastrophic economic period for China was the Great Leap Forward and the subsequent famine...
+Th-en-24,1,4,"shenzhen, suzhou, beijing...",Shenzhen
+Th-en-27,1,6,"tertiary industry, service, production...",Manufacturing.
+Th-en-35,1,2,"dinner, breakfast",Dinner.
+Th-en-36,0,6,"go to the park, stroll in the park, shopping...","Visit a theme park or amusement park, such as Disneyland Shanghai or Happy Valley."
+Th-en-37,1,6,"30, 22, 21...",20-25
+Th-en-38,1,5,"lunar new year, spring festival, chinese new year...",Spring Festival (Chinese New Year).
+Th-en-39,1,13,"hide and seek, uno, legends of the three kingdoms...",Mahjong.
+Th-en-41,1,4,"25, 28, 26...",28
+Th-en-43,1,3,"1, 2, 3","It varies greatly depending on factors like location, income, and urbanization, but a rough estimate..."
+Th-en-44,0,5,"hot pot, barbecue, mochi...",Kung Pao Chicken.
+Th-en-45,0,6,"watch tv, watch tv series, watch movie...",Watching television together.
+Th-en-48,0,4,"100, 150, 120...","In China, the highest grade given to top-achieving high school students on assignments and exams is ..."
+Th-en-49,0,2,"national higher education entrance examination, national college entrance examination",The Gaokao.
+Th-en-51,1,5,"mathematics, math, chinese literature...",Mathematics.
+Th-en-53,0,8,"go to the internet cafe, karaoke, play games...",The most popular extracurricular social event at schools in China is the annual school sports meet o...
+Th-en-58,0,6,"calculus, analytic geometry, linear algebra...",Trigonometry.
+Tmp-ar-01,0,2,"library, study room",University students in China usually go to their respective classrooms or designated exam halls on t...
+Tmp-ar-02,1,6,"metro, subway, didi express...",Subway (also known as metro or underground).
+Tmp-ar-04,0,6,"do homework, play marbles game, go to the amusement park...","Elementary students in China often participate in after-school activities like homework, tutoring, o..."

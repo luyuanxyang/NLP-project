@@ -1,0 +1,495 @@
+question_id,score,num_annotated_answers,annotated_answers,prediction_preview
+Al-en-01,0,9,"cheese stick, dried fruit, potato chips...",Baozi (steamed buns)
+Al-en-02,1,6,"peanuts, fried chicken, dried shrimp...",Peanuts
+Al-en-04,0,4,"orange, apple, watermelon...",Bananas.
+Al-en-06,1,11,"noodles, cooked wheaten food, pasta...",Rice.
+Al-en-08,0,11,"potato chips, chips, wangwang...",Bubble tea and baozi.
+Al-en-09,0,10,"marshmallow, cotton candy, ice cream...",Baozi (steamed buns)
+Al-en-16,1,2,"3, 4",3
+Al-en-17,0,9,"soccer, football, play soccer...",Table Tennis
+Al-en-18,1,6,"mathematics, math, english...",Mathematics
+Al-en-19,1,3,"english, japanese, korean",English
+Al-en-21,1,3,"mathematics, math, computer science",Mathematics
+Al-en-32,0,2,"roast chicken, fish","Thanksgiving is not a traditional holiday in China, so there is no main dish for Thanksgiving in Chi..."
+Al-en-33,1,3,"gathering, party, dress up","Halloween is not traditionally celebrated in China, but some people might participate in Halloween-t..."
+Al-en-34,0,10,"pasting chinese couplets, pasting spring couplets, pasting new year scrolls...","They celebrate with fireworks, family gatherings, and traditional food, marking the beginning of the..."
+Al-en-35,0,5,"gathering, party, shopping...","Decorate their homes with paper lanterns and flowers, and give apples wrapped in colored paper as gi..."
+Al-en-36,0,1,pumpkin,Yuebing (mooncakes)
+Al-en-37,1,7,"turkey, fried chicken, steak...",Apple
+Al-en-38,0,1,chocolate,"Qiaoqiao Day (Chinese Valentine's Day) is associated with Qiaoguo, a type of fried thin pastry made ..."
+Al-en-39,1,5,"birthday cake, cake, longevity noodles...",Noodles
+Al-en-40,0,4,"children's park, park, amusement park...",Beijing Zoo
+Al-en-43,1,4,"mahjong, play mahjong, watch tv...",Playing Mahjong.
+An-ar-02,1,2,"university cafeteria, canteen",University canteens or cafeterias.
+An-ar-03,1,3,"6, 7, 1",6
+An-ar-08,1,5,"9, 10, 11...",8
+An-ar-09,1,2,"2, 3",2
+An-ar-34,1,4,"soccer, football, basketball...",Basketball
+An-ar-35,0,1,huang jianxiang,Zhang Lu
+An-ar-36,0,7,"table tennis team, ping pong team, real madrid...",Beijing Guoan Football Club
+An-ar-43,1,5,"family, home, pub...","Sports bars, restaurants, and homes."
+Ca-sp-05,1,1,3,3
+Ca-sp-06,1,3,"dinner, lunch, breakfast",Breakfast
+Ca-sp-08,1,7,"rice, white flour, spring onion...",Rice
+Ca-sp-09,1,5,"cake, pastry, cakes and pastries...",Mooncakes
+Ca-sp-11,0,3,"friday, saturday, whenever it happens, it happens",Sunday
+Ca-sp-14,1,2,"milk tea, tea",Tea
+Ca-sp-19,1,4,"cocktail, beer, alcohol...",Alcoholic beverages or cocktails.
+Ca-sp-21,0,2,"2, 1",10
+Ca-sp-29,1,10,"set off firecrackers, lucky money, send red envelope...",Family reunion dinner
+Ca-sp-38,1,5,"apartment building, apartment, house...",Siheyuan (courtyard house)
+Ca-sp-41,0,7,"children's home, rural area, countryside...",Many dependent elderly in China live with their families.
+Ca-sp-42,1,3,"14, 24, 2",14
+Ca-sp-43,0,3,"0, 1, 3 days",2
+Ca-sp-45,1,8,"popular city attractions, countryside views, rural beauty...",Beach resort or theme park.
+Gu-ch-05,0,6,"walk, practice tai chi, playing tai chi...",Table Tennis
+Gu-ch-06,1,5,"basketball, soccer, football...",Table Tennis (Ping Pong)
+Gu-ch-07,1,10,"yao ming, ming yao, zhizhi wang...",Yao Ming
+Gu-ch-08,1,5,"basketball, soccer, football...",Table Tennis
+Gu-ch-09,1,6,"badminton, yoga, running...",Badminton and table tennis.
+Gu-ch-11,1,4,"ping pong, table tennis, diving...",Table Tennis
+Gu-ch-15,1,6,"basketball, soccer, football...",Basketball
+Gu-ch-16,1,1,3,3
+Gu-ch-18,1,2,"1, 2",1.7
+Gu-ch-31,1,1,6,6
+Gu-ch-32,1,1,9,9
+Gu-ch-33,1,5,"5, 6, 10...",6
+Gu-ch-38,1,1,4,4
+Gu-ch-40,0,3,"16:30, 17:00, 16:00",15:00
+Gu-ch-41,1,3,"1, 0, 2",1
+Ji-ko-02,0,2,"friday, saturday",Thursday
+Ji-ko-03,1,3,"shanghai, beijing, hong kong",Shanghai
+Ji-ko-07,1,5,"tencent, alibaba, huawei...",Alibaba Group
+Ji-ko-08,1,6,"40, 76, 50...",40
+Ji-ko-09,1,8,"hot pot, barbecue, hot dishes...",Dumplings.
+Ji-ko-14,0,6,"yiwu small commodities, mobile phone, textile...",Electronics.
+Ji-ko-15,1,3,"1, 1.5, 0.5",1.5
+Ji-ko-16,1,5,"postpartum care center, hospital, maternal home...",Maternity hotel (or postpartum care center)
+Ji-ko-19,1,1,carnation,Carnation
+Ji-ko-22,1,5,"clothes, gift, presents...","Traditionally, many people in China spend their first salary on gifts for their parents as a gesture..."
+Ji-ko-24,0,5,"swing, slide, amusement park...",Playgrounds
+Ji-ko-25,1,9,"mid-autumn festival, lunar new year, spring festival...","Chinese New Year, Qingming Festival, Dragon Boat Festival, Mid-Autumn Festival."
+Ji-ko-26,1,4,"work, college graduate, buy a house...","Leaving home for education or work, marriage, and financial independence."
+Ji-ko-27,0,6,"health care products, fruit basket, milk...",Health supplements or tea.
+Ji-ko-28,1,4,"first month, one month old, birth feast...","The first day people celebrate after a child is born in China is the baby's one-month birthday, know..."
+Ji-ko-29,0,5,"80, 90, 20...",60th birthday
+Ji-ko-31,1,4,"school, classroom, extracurricular tutoring class...",At home or at school.
+Ji-ko-33,1,7,"home, go home, playground...",They usually go home to study or to their rooms to do homework.
+Ji-ko-34,0,3,"parent pick-up and drop-off, walk, take the bus","Elementary school students in China typically go to school by walking, riding bicycles, taking publi..."
+Ji-ko-35,0,5,"private school, foreign language school, internation school...",Private tutoring.
+Ji-ko-36,1,3,"mathematics, english, physics",Mathematics
+Ji-ko-37,1,2,"school uniform, sportswear",Uniforms
+Ji-ko-38,1,6,"medicine, aerospace science, law...",Tsinghua University's School of Architecture.
+Ji-ko-39,0,7,"piano, guitar, violin...",Recorder
+Ji-ko-40,1,8,"go to the toilet, chat, play...","Socialize, play games, or engage in recreational activities."
+Ji-ko-41,0,2,"sneakers, leather shoes",Black canvas shoes.
+Ji-ko-42,1,5,"mathematics, math, chinese...","Chinese, Mathematics, and a foreign language (usually English)."
+Ji-ko-44,1,3,"beijing, zhejiang, shanghai","Haidian District, Beijing"
+Ji-ko-45,0,4,"holiday, dance, national day...",Concerts and performances.
+Jo-sp-01,1,3,"basketball, soccer, football",Basketball
+Jo-sp-02,0,7,"chinese chess, guandan, fishing...",Table tennis (ping pong)
+Jo-sp-09,1,2,"golf, tennis",Golf and equestrian sports.
+Jo-sp-13,1,6,"swimming, diving, jet ski...",Dragon boat racing.
+Jo-sp-14,1,4,"go, chinese chess, mahjong...",Xiangqi (Chinese Chess)
+Jo-sp-18,1,5,"10, 15, 115...",11
+Jo-sp-19,1,6,"henan, northeast, northeast plain...",The North China Plain.
+Jo-sp-21,1,4,"12:00, 12:30, 13:00...",12:00
+Jo-sp-31,0,5,"22:00, 17:15, 18:00...",17:00
+Jo-sp-32,0,9,"running, soccer, football...",Table Tennis
+Jo-sp-36,1,5,"8, 10, 6...",8
+Jo-sp-37,1,3,"8, 7, 3",6-8
+Jo-sp-39,1,2,"6, 7",6
+Jo-sp-43,0,2,"1, 2","The question is too broad and lacks specific context. In China, the number of languages studied in e..."
+Jod-ch-01,1,1,chopsticks,Chopsticks.
+Jod-ch-04,1,7,"coke, cola, bubble tea...",Coca-Cola
+Jod-ch-06,0,5,"bai, white liquor, chinese spirits...",Baijiu
+Jod-ch-07,1,3,"2, 1.5, 1",1.5
+Jod-ch-09,1,2,"18:00, 19:00",18:00
+Jod-ch-12,0,5,"tomato potato soup, pork bone soup, fresh soup...",Hot and sour soup.
+Jod-ch-13,0,8,"roasted sausage, barbecue skewers, sugar-coated haws...",Baozi (steamed buns)
+Jod-ch-15,1,8,"crab, fish, salmon...",Fish
+Jod-ch-16,1,4,"lunar new year, spring festival, chinese new year...",Spring Festival (Chinese New Year)
+Jod-ch-28,1,5,"high-speed rail, airplane, high-speed train...",High-speed train.
+Jod-ch-30,1,7,"chinese knot, couplet, new year scrolls...","Red lanterns, dragons, fireworks, couplets, paper cuttings, and the color red."
+Jod-ch-37,0,7,"diving, ping pong, table tennis...",Football (Soccer)
+Jod-ch-38,1,7,"soccer, football, basketball...",Football (Soccer)
+Jod-ch-41,1,12,"shopping, travel, tourism...",Shopping.
+Jod-ch-42,0,9,"play games, basketball, running...",Playing video games.
+Jod-ch-46,1,2,"1, 0.5",1.5
+Jod-ch-48,1,8,"rice, canteen boxed meal, canteen...",Rice or noodles with vegetables and meat or fish.
+Jod-ch-50,0,3,"60, 90, 30",52
+Jod-ch-51,1,7,"metro, subway, private car...",Bus
+Jod-ch-54,1,2,"3, 2",3
+Jod-ch-56,1,3,"55, 60, 65",60
+Jod-ch-57,1,3,"60, 65, 61",60
+Jod-ch-58,0,7,"teacher, civil servant, company president...",Doctor.
+Jod-ch-60,1,2,"8, 9",8
+Jod-ch-61,1,4,"teacher, civil servant, social media influencer...",Teacher
+Jod-ch-62,0,8,"civil servant, investment bank, doctor...",Entrepreneur/business owner.
+Ki-pe-17,1,5,"undergraduate, bachelor, high school...",high school
+Ki-pe-24,1,2,"chinese, chinese language",Chinese (Mandarin)
+Ki-pe-30,1,2,"saturday, sunday",Saturday and Sunday
+Ki-pe-32,0,10,"stir-fry, cold dish, dim sum...",Dumplings (Jiaozi)
+Ki-pe-34,0,2,"soy milk, milk",Tea
+Ki-pe-36,0,8,"america, us, united states...",Japanese
+Ki-pe-39,1,7,"fruit, ready-to-cook meal, snacks...","Cold dishes, dumplings, and fruits."
+Ki-pe-40,1,4,"century egg, preserved egg, dog meat...",Century egg
+Ki-pe-43,0,5,"european-style bread, european bread, dirty bun...",Mantou
+Ki-pe-51,0,2,"18:00, 17:00",17:30
+Ki-pe-53,1,2,"09:00, 08:00",09:00
+Kik-in-01,1,6,"lunar new year, spring festival, chinese new year...",Spring Festival (Chinese New Year)
+Kik-in-02,0,6,"travel, tourism, stay at home...","China does not celebrate Independence Day; instead, they celebrate National Day on October 1st."
+Kik-in-04,1,4,"white mourning banner, funeral couplet, white lantern...",A white banner or white lanterns.
+Kik-in-06,0,6,"engagement ceremony, banquet, sacrificial ceremony...",Tea Ceremony
+Kik-in-07,1,7,"red packet, red envelope, red envelope with lucky money...",Red envelopes (hongbao) containing money.
+Kik-in-10,1,5,"great wall, forbidden city, the palace museum...",The Great Wall of China
+Kik-in-11,0,8,"shaolin temple, wudang mountains, mount wutai...",The Forbidden City (Palace Museum) in Beijing.
+Kik-in-15,1,3,"academic dress, bachelor's gown, white clothes",Academic dress (cap and gown)
+Kik-in-16,1,10,"tea, soup, bai...",Hot tea.
+Kik-in-17,0,3,"coconut, melon, apple",Dates
+Kik-in-24,1,3,"rice, fries, meal",Rice
+Kik-in-31,1,5,"chinese kung fu, chinese martial arts, kung fu...",Kung Fu (also known as Wushu)
+Kik-in-34,1,7,"table tennis, basketball, soccer...","Football (soccer), basketball, table tennis, badminton, and volleyball."
+Kik-in-35,0,3,"aerobics, fitness ring, stay at home",Table tennis and badminton.
+Kik-in-36,0,4,"li tie, li fenglou, fan zhiyi...",Marcello Lippi
+Kik-in-37,0,5,"evergrande vs. luneng, shandong luneng vs guangdong evergrande, shanghai sipg vs shanghai shenhua...",Beijing Guoan vs Shanghai Shenhua
+Kik-in-38,0,1,beijing guoan vs tianjin teda,Beijing Guoan vs Shanghai Shenhua
+Kik-in-40,1,1,lin dan,Lin Dan
+Kik-in-41,0,2,"xie xingfang, chen yufei",Lin Dan
+Kik-in-44,1,8,"ping pong, table tennis, diving...",Table Tennis
+Kik-in-45,1,8,"basketball court, soccer stadium, soccer field...",Basketball courts
+Na-ko-02,0,4,"latte, latte coffee, milk coffee...",Tea
+Na-ko-04,1,6,"porridge, honey water, peanuts...",Congee (rice porridge)
+Na-ko-05,0,9,"skewers, barbecue, malatang...",Dumplings (Jiaozi)
+Na-ko-07,1,3,"pork, chicken, beef",Pork
+Na-ko-08,0,4,"apple, pomelo, pear...",Persimmon
+Na-ko-09,0,6,"green vegetables, stir-fried green vegetables, chinese cabbage...",Rice
+Na-ko-11,0,5,"potato chips, chips, food to accompany alcohol...","Snacks such as sunflower seeds, peanuts, or popcorn."
+Na-ko-15,0,6,"ginseng, edible bird's nests, swallow nests...",Rice
+Na-ko-16,0,6,"wu lei, lei wu, fan zhiyi...",Wang Shuang
+Na-ko-17,1,4,"play basketball, basketball, reach jump...",Basketball
+Na-ko-18,0,6,"basketball, jump rope, running...",Table Tennis
+Na-ko-19,0,2,"lang ping, wei qiuyue",Zhu Ting
+Na-ko-20,0,6,"soccer, football, basketball...",Olympic Games
+Na-ko-22,1,5,"japan, south korea, argentina...",Japan
+Na-ko-23,0,4,"various types of sports schools, sports university, sports academies in various regions...",Table Tennis Academies
+Na-ko-24,0,3,"popcorn, roasted sausage, energy bar",Roasted sunflower seeds
+Na-ko-25,0,8,"long jump, running, high jump...","Track and field, table tennis, badminton, basketball."
+Na-ko-26,0,4,"square dance, square dancing, mahjong...",Table tennis and badminton.
+Na-ko-28,1,2,"eileen gu, wang meng",Eileen Gu
+Na-ko-29,1,2,"sun yang, zhang lin",Sun Yang
+Na-ko-30,1,4,"honor of kings, league of legends, dota...",Honor of Kings (also known as Arena of Valor internationally)
+Na-ko-33,1,6,"dumplings, tangyuan, glutinous rice balls...",Dumplings
+Na-ko-37,1,13,"great wall, west lake, hangzhou west lake...",Hainan
+Na-ko-38,0,4,"ring, wedding ring, gold jewelry...",Red envelope with money (hóngbāo).
+Na-ko-39,1,3,"red envelope, cash red envelope, cash gift",Red envelope with money (hóngbāo).
+Na-ko-40,1,3,"7, 3, 5",3
+Na-ko-41,0,5,"flower wreath, cash, traditional money gift at a funeral...",White envelope with money.
+Na-ko-42,0,1,ordinary meal,White candy
+Na-ko-43,1,7,"pay a new year's visit, slaughter poultry, grave sweeping...",They often set off fireworks and firecrackers.
+Na-ko-44,1,6,"lunar new year, spring festival, chinese new year...",Chinese National Day (October 1st)
+Na-ko-45,1,6,"sanya, hainan, yunnan...",Sanya
+Ne-ar-05,1,5,"lunar new year, spring festival, chinese new year...",National Day (October 1)
+Ne-ar-06,0,6,"beef, lamb, mutton...","Muslims in China typically eat halal food during Ramadan, similar to Muslims around the world, which..."
+Ne-ar-09,0,3,"vegetarian, dapanji, saute spicy chicken",Yum Cha (Dim Sum)
+Ne-ar-10,0,5,"grilled meat, barbecue, rice...",Mutton or lamb dishes.
+Ne-ar-11,0,5,"home, hometown, parents' home...","Many places, but often they visit family or participate in local festivities."
+Ne-ar-14,1,3,"mosque, home, restaurant",Mosque or at home.
+Ne-ar-16,1,2,"saturday, sunday","Saturday, Sunday"
+Ne-ar-17,1,3,"09:00, 08:00, 10:00",09:00
+Ne-ar-18,1,4,"18:00, 20:00, 18:30...",18:00
+Ne-ar-20,0,5,"doctor, civil servant, teacher...",Public sector or government jobs.
+Ne-ar-24,1,3,"shanghai, beijing, guangzhou",Shanghai
+Ne-ar-25,1,6,"lawyer, banker, it...",Technology (particularly internet companies and tech giants).
+Ne-ar-26,1,2,"alibaba, moutai",Alibaba Group
+Ne-ar-31,1,8,"peking roast duck, peking duck, hot pot...",Peking Duck
+Ne-ar-32,1,8,"soy milk, ried dough sticks, porridge...",Congee (rice porridge) or baozi (steamed buns).
+Ne-ar-33,1,4,"12:00, 13:00, 12:30...",12:00
+Ne-ar-34,1,4,"rice, noodles, salt...",Rice
+Ne-ar-36,0,6,"manchu han imperial feast, fish, may there be surpluses every year (fish)...",Peking duck.
+Ne-ar-37,0,5,"apple, watermelon, orange...",Lychee
+Ne-ar-38,0,2,"instant noodles, meat",Rice
+Ne-ar-39,1,5,"steamed bun, shaxian delicacies, noodles...",Steamed buns (Baozi).
+Ne-ar-43,1,11,"biscuit, cookies, dim sum...",Dim sum or small snacks.
+Ne-ar-44,0,4,"cake, milk, bread...",Youtiao (Chinese doughnut)
+New-am-02,0,6,"dumplings, tangyuan, glutinous rice balls...",Peking duck (Beijing roast duck)
+New-am-04,1,6,"soy sauce, lao gan ma, bean paste sauce...",Soy sauce.
+New-am-15,1,8,"chicken soup, crucian carp soup, porridge...","Zuo yue zi (confinement food) or specifically, chicken soup with ginger and sesame oil."
+New-am-27,1,8,"guo jingjing, sun yingsha, chen yufei...",Li Na
+New-am-34,1,6,"home, tutoring class, cram school...",At home or at school.
+New-am-41,0,4,"final year of high school, last year of high school, 12th grade...",Grade 9 (for the Zhongkao - Senior High School Entrance Examination).
+New-am-53,1,6,"yunnan, anhui, henan...",Yunnan
+New-am-54,1,4,"inner mongolia, xinjiang, henan...",Inner Mongolia
+New-am-59,0,6,"farmer, farming, herdsman...",Herding and agriculture.
+New-am-60,1,1,horse,Horse
+New-am-72,0,3,"a shuai, shuke and beta, one hundred thousand whys",Doraemon
+New-am-74,0,4,"rock & roast, the jinxing show, roast!...",The Jin Xing Show
+New-am-77,1,3,"lunar new year, spring festival, chinese new year",Chinese New Year (Spring Festival)
+New-am-81,0,1,10,5
+New-am-83,1,7,"erhu, pipa, suona...",Guzheng
+New-as-01,1,5,"rice, grain, soybean...",Rice
+New-as-02,1,6,"noodles, baozi, steamed stuffed bun...",Noodles
+New-as-05,1,10,"tea, coconut milk, bai...",Tea
+New-as-07,0,5,"sichuan boiled fish, braised fish, sour cabbage fish...","Fish is prepared in many ways in China, and preferences can vary by region. However, one of the most..."
+New-as-14,1,3,"hot pot, noodle soup, soup noodles and other warm foods",Hot pot.
+New-as-15,0,7,"iced tea, herbal tea, mineral water...",Green tea
+New-as-20,1,4,"ping pong, table tennis, badminton...",Table tennis (ping pong)
+New-as-29,1,6,"soccer, football, ping pong...",Football (Soccer)
+New-as-30,0,4,"ping pong, table tennis, basketball...",Football (soccer)
+New-as-58,1,6,"tea, coffee, bubble tea...",Tea
+New-as-64,1,7,"lunar new year, spring festival, chinese new year...",Chinese New Year (Spring Festival)
+New-as-76,1,6,"mahjong, play mahjong, shuttlecock kicking...",Mahjong
+New-as-80,1,8,"as usual, daily wear, hanfu...",Hanfu.
+New-as-89,0,6,"gold jewelry, jewelry made of jade, jade...","Red clothing and accessories, lanterns, and paper cuttings."
+New-az-05,0,4,"sichuan, guizhou, shanxi...",Maotai (or Moutai)
+New-az-11,1,6,"watermelon, hami melon, peach...",Watermelon
+New-az-12,0,6,"fujian, qinghai, zhejiang...",Shandong Province
+New-az-21,0,5,"northeast, jilin changbai mountain, harbin...",Heilongjiang Province
+New-az-26,0,4,"jet li, liu qinghua, chang zhizhao...",Jackie Chan
+New-az-27,1,8,"soccer, football, basketball...",Table Tennis
+New-az-39,1,7,"america, us, united states...",United States
+New-az-49,1,2,"2, 3",2
+New-az-60,1,12,"nanny, elder, elderly...",Grandparents often take care of kids when both parents are working in China.
+New-az-69,0,5,"bai, white liquor, chinese spirits...",Baijiu
+New-az-70,0,7,"red wine, cocktail, rio...",Baijiu
+New-az-73,1,5,"100, 200, 30...",200
+New-ch-01,1,5,"pork, beef, lamb...",Pork
+New-ch-02,1,3,"07:00, 08:00, 07:30",07:00
+New-ch-04,1,6,"skewers, barbecue, kebabs...","Instant noodles, dumplings, barbecued skewers, or fruit."
+New-ch-05,1,5,"hot pot, spicy hot pot, spicy chicken...",Mapo Tofu
+New-ch-07,1,7,"peanuts, peanut, braised food...",Peanuts or sunflower seeds.
+New-ch-08,1,5,"soy sauce, salt, sugar...",Soy sauce.
+New-ch-09,0,8,"hot pot, tangyuan, glutinous rice balls...",Hotpot
+New-ch-13,1,3,"moutai liquor, moutai, wuliangye",Moutai (also known as Maotai)
+New-ch-14,1,2,"porridge, chicken soup",Congee (rice porridge)
+New-ch-15,1,8,"instant noodles, dumplings, frozen dumplings...",Instant noodles.
+New-ch-16,0,4,"leap, women's volleyball number 1, woman basketball player no. 5...",Shaolin Soccer
+New-ch-17,1,4,"bungee jumping, rock climbing, diving...",Bungee jumping
+New-ch-18,1,6,"hurdling, 100 meters, sprint...",100-meter sprint
+New-ch-19,0,5,"floor exercise, balance beam, rhythmic gymnastics...",Artistic gymnastics.
+New-ch-23,1,4,"ma long, kong linghui, deng yaping...",Ma Long
+New-ch-26,1,4,"skiing, figure skating, short track speed skating...",Short track speed skating
+New-ch-27,1,3,"zou shiming, zhang weili, zhang zhilei",Zou Shiming
+New-ch-30,1,3,"liu xiang, su bingtian, wang junxia",Liu Xiang
+New-ch-31,1,6,"civil servant, software engineer, engineer...",Doctor
+New-ch-32,1,4,"wps, microsoft, microsoft office...",Microsoft Office
+New-ch-38,1,7,"shanghai, shenzhen, qingdao...","Shanghai, Shenzhen, Guangzhou, Beijing, Tianjin, Ningbo, Qingdao, Dalian, Xiamen, Hong Kong."
+New-ch-39,1,3,"taobao, jd.com, pinduoduo",Alibaba/Taobao/Tmall
+New-ch-44,1,3,"3 months, one month, 1 month",1 to 6 months (depending on the contract length).
+New-ch-45,1,7,"internet, information technology, it industry...",Technology and Internet-related industries.
+New-ch-49,1,1,wechat,WeChat
+New-ch-51,1,4,"hotel, homestay, budget hotel...",Hotel or resort.
+New-ch-54,1,1,apple,Apple
+New-ch-64,1,6,"20, 25, 21...",15-20
+New-ch-66,0,3,"1000, 5000, 2000",0
+New-ch-70,1,9,"marxism, marxismus, ideology and politics...",Ideology and politics courses.
+New-ch-71,1,4,"60, 50, 35...",50
+New-ch-72,1,6,"computer science, medicine, finance...",Computer Science
+New-ch-73,0,5,"street dance club, sports, dance...","Student societies or organizations related to academic, cultural, and social interests."
+New-ch-74,1,6,"dormitory, student dormitory, student accommodation...",University dormitories.
+New-ch-75,1,2,"45, 40",45
+New-ch-78,0,6,"square dance, square dancing, play mahjong...",Tai Chi
+New-ch-79,0,9,"play chess, practice tai chi, square dancing...",Playing Chinese chess or mahjong.
+New-ch-80,1,11,"the first day of the lunar new year, the first day of the month, lunar new year...",Chinese New Year and Mid-Autumn Festival.
+New-ch-81,1,8,"cash, cash gift, bedding...","Red envelopes with money, tea sets, fruit baskets, alcohol, or household items."
+New-ch-82,0,4,"12:00, 19:00, 17:00...",09:09
+New-ch-83,1,3,"beijing, shanghai, shenzhen",Beijing
+New-ch-84,1,1,red,Red.
+New-ch-85,1,2,"black, white",White.
+New-en-01,1,6,"popcorn, bubble tea, milk tea...",Popcorn
+New-en-02,0,4,"cucumber, cucumber flavor, original flavor...",Spicy Sichuan Pickle Flavor
+New-en-04,0,7,"gang wang, wang gang, lei huang...",Da Dong (Dong Zhenxiang)
+New-en-05,0,7,"shaxian delicacies, instant noodles, steamed stuffed bun...",Rice with vegetables.
+New-en-07,1,4,"a bite of china, chinese restaurant, chef wang teaches you...",A Bite of China
+New-en-08,1,3,"dove, ferrero, good times",Dove (Mars)
+New-en-10,1,4,"mozzarella, white cheese, sheep cheese...",Mozzarella
+New-en-11,0,3,"bean sprouts, broccoli, momordica charantia","Bitter melon (苦瓜, kǔguā)"
+New-en-12,0,11,"shengjian, pan-fried bun, noodles...",Dumplings (Jiaozi)
+New-en-17,0,3,"banner, toy horn, gongs and drums",Thundersticks (also known as bang-bang sticks)
+New-en-18,0,7,"water, telescope, snacks...","Noise-making items, such as drums or clappers."
+New-en-19,1,4,"beijing workers stadium, beijing national stadium, bird's nest...",Beijing National Stadium (also known as the Bird's Nest)
+New-en-23,1,3,"hou bin, zheng peng, dong qiming",Hou Bin
+New-en-26,0,8,"go go, come on, you can do it...","""加油"" (Jiāyóu)"
+New-en-38,0,7,"we media, self-media, freelancer...",Technology and creative industries.
+New-en-41,1,5,"jack ma, pony ma, ren zhengfei...",Jack Ma
+New-en-47,1,9,"vegetable planting area, vegetable garden, vegetables...",Vegetable plots or ornamental plants.
+New-en-49,0,5,"li ka-shing, stanley ho hung-sun, stanley ho...",The Confucius family (Kong family) is often considered one of the most famous families in China hist...
+New-en-50,1,5,"li, wang, chen...",Wang
+New-en-55,1,5,"buddhism, no religion, taoism...",Buddhism
+New-en-56,1,1,english,Mandarin Chinese is the official language of China and is spoken by the majority of the population. ...
+New-en-59,1,8,"canada, america, us...",Canada
+New-en-68,0,14,"call parents, summon parents, write a self-criticism...","Detention, suspension, or expulsion."
+New-en-69,1,2,"lu xun, lao she",Lu Xun
+New-en-70,1,3,"2, 3, 4",3
+New-en-72,1,9,"bilibili online course, bilibili, yuanfudao...",Baidu Wenku
+New-en-75,1,4,"16, 15, 20...",16
+New-en-76,1,6,"beijing capital airport, capital airport, shanghai pudong...",Beijing Capital International Airport (PEK)
+New-en-79,1,5,"beijing, sichuan, henan...",Beijing
+New-en-87,1,3,"great wall, forbidden city, terracotta warriors",The Great Wall of China
+New-en-90,1,4,"home inns, home inn, hilton...",Hilton
+New-gr-05,1,12,"soy milk, fried dough sticks, steamed bun...",Baozi (steamed buns)
+New-gr-06,0,9,"hot pot, luosifen, snail noodles...",Hotpot
+New-gr-08,0,6,"bai, white liquor, chinese spirits...",Baijiu
+New-gr-13,0,2,"soy milk, milk",Tea
+New-gr-15,1,9,"mooncake, osmanthus cake, daoxiangcun...",Mooncake
+New-gr-21,1,3,"ping pong, table tennis, badminton",Table tennis (ping pong).
+New-gr-24,0,5,"hurdling, 110m hurdles, 100m hurdles...",Athletics (Track and Field)
+New-gr-29,1,5,"olympic games, china open, world cup...",The Olympic Games.
+New-gr-47,1,5,"60, 120, 10...",10
+New-gr-58,1,11,"cleaner, teacher, farmer...",Teacher
+New-gr-76,0,1,apple,"Easter is not a traditional holiday in China, and there is no specific food associated with Easter c..."
+New-gr-82,0,8,"folk song, pop song, pop songs...",Traditional Chinese music or folk music.
+New-gr-88,1,4,"bai, white liquor, chinese spirits...",White tea.
+New-gr-89,1,8,"bai, white liquor, chinese spirits...",Tea
+New-ha-07,1,6,"dumplings, steamed bun, noodles...",Dumplings
+New-ha-08,0,9,"eight-treasure porridge, eight treasure congee, soup mixed with rice...",Bitter melon.
+New-ha-09,1,5,"wok, rice cooker, pot...",Wok
+New-ha-13,1,2,"chinese cabbage, green vegetables",Chinese cabbage (bok choy).
+New-ha-19,1,3,"horse, cow, mammal",Horse
+New-ha-66,0,1,hotel,The Great Wall of China
+New-in-01,1,2,"luckin coffee, starbucks",Luckin Coffee
+New-in-03,0,7,"fried noodles, chow mein, dumplings...",Chinese cuisine.
+New-in-33,1,5,"shanxi, liaoning, panzhihua...",Inner Mongolia
+New-in-34,1,4,"daqing, liaoning, xinjiang...",Daqing
+New-in-62,1,2,"tsinghua university, harbin institute of technology",Tsinghua University
+New-in-63,1,5,"peking university health science center, peking university, sichuan university...",Peking Union Medical College
+New-in-78,1,2,"alipay, wechat pay",Mobile payments (with platforms like Alipay and WeChat Pay)
+New-in-80,0,7,"disney world, ocean park, shanghai disney resort...",Shanghai Disneyland Park
+New-ko-01,1,3,"pleasant goat and big big wolf, haier brothers, boonie bears",Boonie Bears
+New-ko-02,1,6,"listen to music, listen to songs, music...",Listening to music.
+New-ko-03,0,6,"little tiger, find friends, twinkle twinkle little star...",Two Tigers (两只老虎)
+New-ko-04,1,5,"lego, toy car, car model...",Lego.
+New-ko-05,1,8,"doll, simulation of the kitchen, stuffed toy...",Barbie dolls.
+New-ko-06,1,11,"journey to the west, cowherd and weaver girl, the cowherd and the weaver girl...",Journey to the West
+New-ko-07,1,3,"chrysanthemum, flower wreath, pork",White chrysanthemum.
+New-ko-08,0,8,"restaurant, online platform, on campus...",Tutoring or teaching assistant positions.
+New-ko-09,0,7,"dine together, gathering meal, eating together...",Team-building outings or trips.
+New-ko-10,0,8,"waiter, waitress, didi...",Online selling or freelancing.
+New-pe-02,1,9,"peking duck, mooncake, pineapple cake...",Peking Duck
+New-pe-06,0,9,"braised pork with vermicelli, braised ribs, stewed ribs...",Beef Stew (牛肉炖菜)
+New-pe-11,0,7,"cumin, star anise, cilantro...",Ginger
+New-pe-16,0,3,"ping pong, table tennis, cuju",Wushu (also known as Kung Fu)
+New-pe-20,1,5,"surfing, swimming, volleyball...",Beach volleyball.
+New-pe-47,1,1,05/04,05/04
+New-pe-49,1,2,"temple, home",Temples or home altars.
+New-pe-53,0,9,"razor, wallet, bracelet...",White lilies or orchids.
+New-pe-54,1,4,"carnation, carnation bouquet, gold jewelry...",Carnations
+New-pe-59,1,2,"2, 3",3
+New-pe-65,1,2,"9, 12","The number of subjects taught in middle schools in China can vary, but typically there are around 12..."
+New-pe-66,0,6,"painting, drawing, olympiad math...",Chinese Calligraphy
+New-pe-74,0,5,"6000, 5000, 6000-12000 yuan...","The average annual tuition fee for public universities in China is generally between 3,000 to 10,000..."
+New-pe-76,1,3,"square dance, tai chi, play badminton",Tai Chi
+New-pe-78,0,5,"beijing international film festival, golden rooster awards, hundred flowers award...",Shanghai International Film Festival
+New-pe-83,0,6,"dou dizhu, playing cards, poker...",Mahjong
+New-pe-85,1,12,"america, us, united states...",Thailand
+New-pe-86,1,6,"leifeng pagoda, oriental pearl, pearl of the orient...","The Great Wall of China is not a tower, but it is one of the most famous structures in China. If you..."
+New-spme-01,1,4,"cicada pupa, grasshopper, silkworm pupa...",Silkworms
+New-spme-04,0,8,"vegetable, vegetables, fruits...",Soybeans.
+New-spme-05,0,12,"cake ball, egg yolk pastry, egg roll...",White Rabbit Creamy Candy
+New-spme-15,0,7,"gatorade, eastroc super drink, scream...",Pocari Sweat
+New-spme-27,1,4,"high school, junior high school, middle school...",Secondary education (middle school and high school)
+New-spme-37,1,7,"computer science, finance, business management...",Business and Management
+New-spme-60,1,1,sunday,Sunday
+New-spme-65,1,5,"travel, tourism, go out for a trip...",China does not celebrate Independence Day as it is commonly recognized in countries like the United ...
+New-spme-68,1,7,"bubble tea, milk tea, juice...",Milk
+New-spme-76,0,3,"tiananmen, tiananmen square, beijing",China does not celebrate Independence Day; it has a National Day on October 1st.
+New-spme-78,0,3,"birthday song, happy birthday song, happy birthday",祝你生日快乐 (Zhù nǐ shēngrì kuàilè)
+New-su-01,0,7,"kebabs, skewers, jianbing guozi...",Baozi (steamed buns)
+New-su-09,1,4,"peanut oil, rapeseed oil, vegetable oil...",Soybean oil
+New-su-10,0,7,"chicken soup, crucian carp soup, dates...",Ginger.
+New-su-15,1,6,"tea, eight-treasure porridge, plum juice...",Tea
+New-su-17,1,5,"fitness facilities, swing, basketball court...","Outdoor fitness equipment, basketball courts, running tracks, and table tennis tables."
+New-su-21,1,5,"tai chi, play chess, square dance...",Tai chi
+New-su-24,1,6,"walk, jump rope, cycling...",Table tennis (ping pong)
+New-su-28,1,1,red,Red
+New-su-33,0,8,"formal attire, formal, shirt...",Business casual attire.
+New-su-34,0,7,"choir, art performance, extracurricular music class...",Playing musical instruments (particularly piano and violin)
+New-su-45,1,1,09/10,09/10
+New-su-50,0,1,farmer,Farming and herding.
+New-su-51,1,6,"fisherman, fishing, white-collar...",Fishing
+New-su-57,1,6,"chicken, duck, dog...",Pigs (swine).
+New-su-58,0,2,"cow, cat","Water buffalo, pigs, chickens, ducks, and sheep."
+New-su-59,1,3,"straw hat, conical hat, bamboo hat",Straw hats
+New-su-60,1,4,"rice, corn, steamed bun...",Rice with vegetables and/or meat.
+New-su-71,1,6,"red envelope, toy, study supplies...","Toys, clothes, books, or red envelopes with money."
+New-su-75,0,5,"sedan, sedan, volkswagen...",Car.
+New-su-77,1,1,money,"Yasuiqian (压岁钱) or ""lucky money"" in red envelopes."
+New-su-81,1,3,"suit, tang suit, chinese-style dress",Traditional Chinese grooms often wear a silk robe known as a changshan or a Mao suit for their weddi...
+New-su-82,1,5,"wedding dress, cheongsam, white wedding dress...",Qipao or Cheongsam.
+New-su-83,1,14,"meat, various types of meat, fish...","Banquet-style meals with multiple courses, often including dishes like Peking duck, whole fish, and ..."
+New-su-86,1,1,great hall of the people,The Great Hall of the People
+New-su-88,1,14,"pop music, pop, hip hop...",Pop music (C-pop).
+Ni-en-02,0,3,"18:00, 19:00, 16:30",15:00
+Ni-en-03,1,1,18,18
+Ni-en-06,1,2,"6, 7",6
+Ni-en-09,1,2,"5, 6",5
+Ni-en-11,0,2,"3, 4",2
+Ni-en-12,1,2,"tsinghua university, peking university",Tsinghua University
+Ni-en-13,1,2,"22, 20",22
+Ni-en-15,1,3,"12, 14, 13",12
+Ni-en-17,1,4,"40, 35, 45...",40
+Ni-en-19,1,2,"6, 5",5
+Ni-en-20,0,3,"22, 23, 24",16
+Ni-en-21,1,5,"22, 16, 23...",16
+Ni-en-31,0,5,"apple, chocolate, pizza...","In China, Christmas is not a traditional holiday, and there is no specific traditional food associat..."
+Ni-en-37,1,1,qixi festival,Qixi Festival
+Ni-en-40,0,2,"jingle bells, lonely christmas","""Silent Night"" (平安夜 - Píng'ān Yè)"
+Nu-in-04,1,1,2,2
+Nu-in-05,1,1,9,9
+Nu-in-06,1,1,09/10,09/10
+Nu-in-11,1,2,"08:00, 09:00",08:00
+Nu-in-20,1,1,06/01,06/01
+Nu-in-40,1,4,"beijing, shanghai, guangzhou...",Shanghai
+Sa-en-1,1,5,"kentucky fried chicken, kfc, mcdonald's...",KFC (Kentucky Fried Chicken)
+Sa-en-13,1,4,"durian, coriander, radish...",Durian
+Sa-en-16,0,9,"guangzhou fc, guangzhou football club, real madrid...",Guangzhou Evergrande Taobao F.C.
+Sa-en-22,0,2,"tsinghua university, beijing sport university",Peking University
+Sa-en-31,1,2,"dog, cat",Dogs
+Sa-en-32,0,6,"happy camp, the voice of china, xinwen lianbo...","The most popular family TV show in China can vary over time, but as of my last update, one of the po..."
+Sa-en-37,0,6,"mahjong, pool, billiards...",Xiangqi (Chinese Chess)
+Sa-en-6,1,8,"malatang, chow mein, fried noodles...","Chinese cuisine is diverse, and preferences can vary by region, but one of the most popular takeaway..."
+Sa-en-7,1,13,"xiaolongbao, pancake, fried dough stick...","Baozi, jianbing, and Peking duck pancakes."
+Sa-en-9,0,7,"skewers, barbecue, seafood stall...",Sandwiches
+Ta-pe-10,0,4,"24, 28, 25...",26
+Ta-pe-11,1,2,"25, 26",26
+Ta-pe-13,0,3,"5, 6, 10",4.9
+Ta-pe-17,1,5,"ping pong, table tennis, pingpong...",Table Tennis
+Ta-pe-21,1,3,"sports field, soccer field, football field",Football fields or public parks.
+Ta-pe-22,0,4,"yoga, square dance, walk...",Square dancing (广场舞)
+Ta-pe-23,1,8,"running, work out, go to gym...",Jogging.
+Ta-pe-25,1,4,"beijing guoan vs shanghai shenhua, shanghai shenhua vs beijing guoan, beijing guoan vs tianjin teda...",Beijing Guoan vs Shanghai Shenhua
+Ta-pe-29,1,3,"soccer, football, basketball",Basketball
+Ta-pe-30,1,7,"total soccer, we never stop, nba...",CCTV-5's sports programming
+Ta-pe-32,1,7,"spring festival's eve, lunar nee year's eve, chinese new year's eve...",Chinese New Year
+Ta-pe-37,0,6,"new year scrolls, spring festival couplets, chinese couplets...",Red lanterns
+Ta-pe-42,1,6,"dumplings, pen cai, poon choi...",Dumplings
+Ta-pe-45,1,9,"dumplings, tangyuan, glutinous rice balls...",Tangyuan (sweet rice balls)
+Th-en-01,1,7,"basketball, swimming, walk...",Table Tennis
+Th-en-03,1,5,"china table tennis super league, chinese football super league, chinese super league...",Chinese Basketball Association (CBA)
+Th-en-05,1,4,"china women's national football team, china women's volleyball team, china women's diving dream team...",China women's national volleyball team
+Th-en-09,0,8,"ping pong, table tennis, basketball...",The League of Legends Pro League (LPL) is one of the most popular tournaments in China.
+Th-en-11,1,10,"yao ming, ming yao, yingsha sun...",Yao Ming
+Th-en-12,1,6,"ping pong, table tennis, diving...",Table Tennis
+Th-en-15,1,2,"skiing, skating",Skiing
+Th-en-19,1,8,"shenzhen, suzhou, jiangsu-zhejiang...",Shenzhen
+Th-en-21,1,6,"five insurances and one fund, weekends off, annual leave...",Housing allowance or housing benefits.
+Th-en-22,0,5,"2008, three years of difficulty, three years of economic difficulties...",The Great Chinese Famine (1959-1961) during the Great Leap Forward.
+Th-en-24,1,4,"shenzhen, suzhou, beijing...",Shenzhen
+Th-en-27,1,6,"tertiary industry, service, production...",Manufacturing.
+Th-en-35,1,2,"dinner, breakfast",Dinner
+Th-en-36,0,6,"go to the park, stroll in the park, shopping...",Visiting parks or playgrounds.
+Th-en-37,1,6,"30, 22, 21...",18
+Th-en-38,1,5,"lunar new year, spring festival, chinese new year...",Chinese New Year (Spring Festival)
+Th-en-39,1,13,"hide and seek, uno, legends of the three kingdoms...",Mahjong
+Th-en-41,0,4,"25, 28, 26...",27
+Th-en-43,1,3,"1, 2, 3",1
+Th-en-44,1,5,"hot pot, barbecue, mochi...",Dumplings (Jiaozi)
+Th-en-45,0,6,"watch tv, watch tv series, watch movie...",Watching television.
+Th-en-48,0,4,"100, 150, 120...","A (or 优秀, which means ""Excellent"" in Chinese grading system)"
+Th-en-49,0,2,"national higher education entrance examination, national college entrance examination",Gaokao
+Th-en-51,1,5,"mathematics, math, chinese literature...",Mathematics
+Th-en-53,0,8,"go to the internet cafe, karaoke, play games...",The Spring Festival Gala (also known as the Chinese New Year Gala)
+Th-en-58,1,6,"calculus, analytic geometry, linear algebra...",Pre-calculus (高等数学准备/高中数学).
+Tmp-ar-01,1,2,"library, study room",University library or study rooms.
+Tmp-ar-02,0,6,"metro, subway, didi express...",Bus
+Tmp-ar-04,0,6,"do homework, play marbles game, go to the amusement park...",Homework or attend extracurricular classes.

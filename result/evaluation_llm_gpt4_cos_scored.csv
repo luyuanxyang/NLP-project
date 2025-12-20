@@ -1,0 +1,497 @@
+id,en_question,score,true_answer,pred_answer,cos score
+Al-en-01,What is a common snack for preschool kids in China?,2,"['dried fruit', 'sweets', 'potato chips', 'cheese stick', 'chips', 'ad calcium milk', 'candy', 'ice cream', 'sweet']",biscuits,0.440899342
+Al-en-02,What is a popular food to go with beer in China?,4,"['pistachio', 'dried shrimp', 'barbecue', 'roast chicken', 'fried chicken', 'peanuts']",skewers,0.439159751
+Al-en-04,What is the most popular fruit in China?,5,"['orange', 'apple', 'pear', 'watermelon']",Watermelon,0.747308135
+Al-en-06,What is a common school cafeteria food in China?,4,"['steamed bun', 'steamed stuffed bun', 'tomato scrambled eggs', 'spicy hot pot', 'rice', 'stir-fry', 'noodles', 'scrambled eggs with tomatoes', 'bun', 'cooked wheaten food', 'pasta']",Rice with stir-fried vegetables,0.588970602
+Al-en-08,What are the most commonly eaten snacks at shopping malls in China?,2,"['wangwang', 'sweets', 'melon seeds', 'potato chips', 'cake', 'chips', 'sunflower seeds', 'pastry', 'candy', 'sweet', 'spicy strips']",Bubble tea and roasted chestnuts,0.362682223
+Al-en-09,What is a popular snack at an amusement park in China?,1,"['cotton candy', 'bombing the giant squid', 'starch sausage', 'candied haw', 'fruit', 'marshmallow', 'tanghulu', 'spicy stir-fried squid', 'ice cream', 'sugar-coated haws']",popcorn,0.39237842
+Al-en-16,"At what age do kids start preschool in China? (Provide Arabic numerals (e.g., 12) only.)",5,"['4', '3']",3,0.64077878
+Al-en-17,What is a popular afterschool sport for elementary schools in China?,2,"['basketball', 'rubber band skipping', 'jump rope', 'football', 'running', 'soccer', 'play football', 'badminton', 'play soccer']",Table tennis,0.496198952
+Al-en-18,For which subject do elementary students get private education in China?,5,"['mathematics', 'math', 'english', 'physics', 'literature', 'chinese']",Mathematics and English,0.498728156
+Al-en-19,What is a popular second language for high school students in China?,5,"['english', 'japanese', 'korean']",English,0.557213247
+Al-en-21,Which subject is the most important for gifted education in China?,5,"['mathematics', 'math', 'computer science']",Mathematics,0.549452126
+Al-en-32,What is the main dish for Thanksgiving in China?,1,"['roast chicken', 'fish']",China doesn't celebrate Thanksgiving.,0.161755249
+Al-en-33,What do people do to celebrate Halloween in China?,4,"['party', 'dress up', 'gathering']",Parties and costumes.,0.627597809
+Al-en-34,What do people do to celebrate New Year's Day in China?,3,"['visit relatives', 'dumplings', 'pasting chinese couplets', ""pay a new year's visit"", 'have the reunion dinner', 'set off firecrackers', 'pasting spring couplets', 'pasting new year scrolls', 'watch the spring festival gala', 'spring outing']","Fireworks, family dinner",0.47127834
+Al-en-35,What do people do to celebrate Christmas in China?,3,"['send apples', 'have a big meal', 'party', 'gathering', 'shopping']","They often exchange gifts, decorate with Christmas lights, and enjoy a special meal. However, it's not a public holiday and not widely celebrated like in Western countries.",0.225362629
+Al-en-36,What food is associated with Halloween in China?,1,['pumpkin'],Halloween snacks,0.483850271
+Al-en-37,What food is associated with Christmas in China?,5,"['pizza', 'roast chicken', 'mulled wine', 'steak', 'fried chicken', 'turkey', 'apple']",Apple,0.627186537
+Al-en-38,What food is associated with Valentine's day in China?,5,['chocolate'],Chocolate,0.712319851
+Al-en-39,What do people eat on their birthday in China?,5,"['longevity noodles', 'cake', 'noodles', 'home-style cooking', 'birthday cake']",Longevity noodles,0.862871766
+Al-en-40,What is a popular outdoor place for families to have fun with little kids in China?,4,"['amusement park', 'park', ""children's park"", 'outdoor playground']",Public parks or zoos,0.519333482
+Al-en-43,What is a popular indoor activity for families in China?,5,"['dou dizhu', 'mahjong', 'play mahjong', 'watch tv']",watching TV,0.776786387
+An-ar-02,Where do university students have lunch in China?,5,"['canteen', 'university cafeteria']",In the university canteen.,0.78777492
+An-ar-03,Which month is the final exam term usually scheduled at high schools in China? (Provide Arabic numerals (1~12) only.),5,"['1', '6', '7']",6,0.625335276
+An-ar-08,"How many hours a day do students in China usually spend at high school? (Provide Arabic numerals in integers (0~24), without any decimal points.)",5,"['9', '8', '15', '11', '10']",10,0.657500505
+An-ar-09,"How many languages do students study at high school in China? (Provide Arabic numerals (e.g., 5) only.)",5,"['3', '2']",2,0.563979983
+An-ar-34,What is the most popular sport played in a team at school in China?,5,"['football', 'soccer', 'basketball', 'volleyball']",Basketball,0.622309983
+An-ar-35,Who is the most popular sport commentator in China?,5,['huang jianxiang'],Huang Jianxiang,0.683002055
+An-ar-36,What is the most popular sport team in China?,5,"['real madrid', 'table tennis team', 'manchester united', 'ping pong team', 'guangzhou evergrande', 'shandong luneng', 'national diving team']",The Chinese National Table Tennis Team,0.655223846
+An-ar-43,What are the common places or venues where individuals in China usually gather to watch sports broadcasts?,4,"['bar', 'barbecue restaurant', 'pub', 'family', 'home']","Sports bars, homes, and public squares.",0.426533222
+Ca-sp-05,"How many meals per day do people from China usually have? (Provide Arabic numerals (e.g., 5) only.)",5,['3'],3,0.64077884
+Ca-sp-06,Which is the most important meal of the day to people from China?,5,"['breakfast', 'lunch', 'dinner']",Dinner,0.689749658
+Ca-sp-08,What is the most common ingredient used in China's diet?,5,"['garlic', 'scallions', 'rice', 'ginger', 'spring onion', 'noodles', 'white flour']",Rice,0.719281018
+Ca-sp-09,What do people from China usually eat for dessert?,2,"['mooncake', 'cake', 'osmanthus cake', 'pastry', 'cakes and pastries']",Red bean soup,0.243498981
+Ca-sp-11,Which day of the week do people usually organize a family meal in China?,2,"['friday', 'whenever it happens, it happens', 'saturday']",Sunday,0.508709133
+Ca-sp-14,Which is the most popular hot drink in China?,4,"['milk tea', 'tea']",Green tea,0.60013628
+Ca-sp-19,What do young people from China usually drink at the night club?,4,"['cocktail', 'foreign liquor', 'beer', 'alcohol']",Beer or Baijiu,0.474355549
+Ca-sp-21,At which month do people usually take holidays in China? (Provide Arabic numerals (1~12) only.),5,"['1', '2']",2,0.563979983
+Ca-sp-29,What tradition is there in China for New Year's Eve?,5,"[""staying up late on new year's eve"", 'set off fireworks', 'have the reunion dinner', 'making dumplings', 'set off firecrackers', 'watch the spring festival gala', 'eat dumplings', 'family reunion', 'lucky money', 'send red envelope']",Having a family reunion dinner,0.751255691
+Ca-sp-38,Which is the typical type of house for a family in China?,5,"['apartment building', 'self-built house', 'house', 'apartment', 'villa']",Apartment,0.662927508
+Ca-sp-41,Where do the dependent elderly usually live in China?,3,"['rural area', ""children's home"", 'hiring nursing staff to take care', 'countryside', 'rural hometown', 'home', 'nursing home']",With their adult children.,0.330387801
+Ca-sp-42,"How long (in weeks) is China's maternity leave for mums? (Provide Arabic numerals (e.g., 20) only.)",1,"['2', '24', '14']",18,0.348448515
+Ca-sp-43,"How long (in weeks) is China's paternity leave for dads? (Provide Arabic numerals (e.g., 20) only.)",1,"['1', '0', '3 days']",3–4,0.317605913
+Ca-sp-45,What type of destination is commonly chosen for a family vacation in China?,4,"['mountain', 'beach', 'countryside views', 'seaside', 'ancient town', 'popular city attractions', 'rural beauty', 'garden']",Beach or historical sites,0.586078107
+Gu-ch-05,What sports do seniors like the most in China?,5,"['square dancing', 'walk', 'square dance', 'tai chi', 'playing tai chi', 'practice tai chi']",Tai Chi,0.715894699
+Gu-ch-06,What sports do men like to play the most in China?,5,"['basketball', 'table tennis', 'football', 'soccer', 'ping pong']",Basketball and soccer,0.488510817
+Gu-ch-07,Who is the most famous basketball player in China?,5,"['wang zhizhi', 'mu tiezhu', 'yi jianlian', 'zheng haixia', 'yao ming', 'ming yao', 'tiezhu mu', 'haixia zheng', 'jianlian yi', 'zhizhi wang']",Yao Ming,0.685984552
+Gu-ch-08,What is the most popular sports among children in China?,5,"['basketball', 'table tennis', 'football', 'running', 'soccer']",Basketball,0.622309983
+Gu-ch-09,What sports do women like to play the most in China?,5,"['table tennis', 'square dance', 'running', 'ping pong', 'badminton', 'yoga']",Badminton and Table Tennis,0.588326156
+Gu-ch-11,What sports event has China won the most gold medals at the Olympics?,5,"['table tennis', 'weightlifting', 'ping pong', 'diving']",Table Tennis,0.67690444
+Gu-ch-15,What sports do male students in university like to play the most in China?,5,"['basketball', 'football', 'video game', 'soccer', 'badminton', 'swimming']",Basketball,0.622309983
+Gu-ch-16,"How many people are there in a family on average in China? (Provide Arabic numerals (e.g., 12) only.)",5,['3'],3,0.64077884
+Gu-ch-18,"How many children do couples usually have in China? (Provide Arabic numerals (e.g., 12) only.)",4,"['1', '2']",1,0.545344532
+Gu-ch-31,"What is the duration of elementary school in years in China? (Provide Arabic numerals (e.g., 12) only.)",5,['6'],6,0.625335276
+Gu-ch-32,"What is the duration of compulsory education in years in China? (Provide Arabic numerals (e.g., 12) only.)",5,['9'],9,0.677209914
+Gu-ch-33,"From which age do students start learning their second language in China? (Provide Arabic numerals (e.g., 12) only.)",5,"['3', '6', '5', '11', '10']",6,0.625335336
+Gu-ch-38,"What is the duration of undergraduate education in China? (Provide Arabic numerals (e.g., 12) only.)",5,['4'],4,0.571916521
+Gu-ch-40,"What time do younger elementary school students finish school in China? (Provide in HH:MM format (e.g., 18:00, 09:00).)",5,"['16:00', '16:30', '17:00']",16:00,0.793867826
+Gu-ch-41,"How many musical instruments do elementary school students in China typically play? (Provide Arabic numerals (e.g., 12) only.)",5,"['1', '0', '2']",1,0.545344532
+Ji-ko-02,What day of the week do people in China prefer to have company dinners?,5,"['friday', 'saturday']",Friday,0.711890161
+Ji-ko-03,Which region/city has the highest number of financial companies in China?,5,"['beijing', 'hong kong', 'shanghai']",Shanghai,0.683403552
+Ji-ko-07,What is the most famous private company in China?,5,"['jd.com', 'jd.com, inc.', 'alibaba', 'huawei', 'tencent']",Alibaba Group,0.617901087
+Ji-ko-08,"What is the maximum number of hours one can work per week in China? (Provide Arabic numerals (e.g., 12) only.)",2,"['40', '72', '60', '50', '76', '45']",44,0.424020559
+Ji-ko-09,What do people typically eat during company get-together in China?,4,"['dumplings', 'barbecue', 'fruit', 'hot pot', 'dim sum', 'cake', 'cold dish', 'hot dishes']",Hot pot or Peking duck,0.629322171
+Ji-ko-14,What is the representative export item of China?,2,"['shoes', 'rice', 'yiwu small commodities', 'textile', 'mobile phone', 'clothes']",Electronics,0.321189582
+Ji-ko-15,"How long (in hours) is the typical lunch break in China? (Provide Arabic numerals up to one decimal point (e.g., 2, 3.5) only.)",3,"['1', '0.5', '1.5']",2,0.288127005
+Ji-ko-16,Where do mothers stay for a certain period after childbirth for recovery in China?,5,"['family', 'maternal home', 'postpartum care center', 'home', 'hospital']",home,0.55207634
+Ji-ko-19,What is China's most commonly given flower on Parents' Day?,5,['carnation'],Carnation,0.763545752
+Ji-ko-22,What do people especially spend their first salary on in China's society?,4,"['gift', 'presents', 'treat friends/family to a meal', 'clothes', 'shopping']",A gift for parents,0.59245348
+Ji-ko-24,What is the most preferred recreational facility among children in China?,4,"['little train', 'amusement park', 'swing', 'disney', 'slide']",Public playgrounds or amusement parks,0.572529495
+Ji-ko-25,What are the family-related holidays in China?,5,"['double ninth festival', 'lunar new year', 'mid-autumn festival', 'chinese new year', 'dragon boat festival', ""mother's day"", ""father's day"", 'qingming festival', 'spring festival']","Chinese New Year, Mid-Autumn Festival, Qingming Festival, and Dragon Boat Festival.",0.578264773
+Ji-ko-26,What are the key milestones associated with children's independence from their parents in China's society?,4,"['work', 'buy a house', 'get married', 'college graduate']","Starting school, graduating from university, getting a job, and getting married.",0.521580517
+Ji-ko-27,What is the common gift you give when visiting elderly parents in China?,3,"['health care products', 'money', 'fruit basket', 'food', 'alcohol', 'milk']",Fruit or tea,0.526467741
+Ji-ko-28,When is the first day that people celebrate after a child is born in China?,5,"['one month old', 'first month', 'birth feast', 'hundred days']",One-month birthday,0.653293848
+Ji-ko-29,Which age's birthday is celebrated the most grandly in China's society?,5,"['90', '20', '60', '18', '80']",60th birthday,0.57098943
+Ji-ko-31,Where do middle and high school students in China usually study for exams?,3,"['classroom', 'school', 'can study anywhere', 'extracurricular tutoring class']",At home or in school libraries,0.434313387
+Ji-ko-33,Where do high school students in China usually go after dinner?,3,"['extracurricular tutoring class', 'go home', 'playground', 'school classroom', 'dormitory', 'student accommodation', 'home']",They usually go to their rooms to study or do homework.,0.48123008
+Ji-ko-34,How do elementary school students in China go to school?,4,"['take the bus', 'walk', 'parent pick-up and drop-off']","Mostly by walking or biking, some are dropped off by parents.",0.57470715
+Ji-ko-35,What is the most common form of private education in China?,2,"['foreign language school', 'private school', 'international exchange', 'internation school', 'kindergarten']",Tutoring or cram schools,0.47441411
+Ji-ko-36,Which subject’s academy/private educational institute do middle or high students most frequently attend in China?,5,"['english', 'mathematics', 'physics']",Mathematics academy,0.430258781
+Ji-ko-37,What type of clothing do middle and high school students wear to school in China?,5,"['school uniform', 'sportswear']",School uniforms,0.765120625
+Ji-ko-38,Which major is considered the most difficult to gain admission to in China?,5,"['computer science', 'law', 'finance', 'aerospace science', 'medicine', 'architecture']",Medicine,0.626985073
+Ji-ko-39,What is the most commonly learned musical instrument by elementary school students in China?,5,"['piano', 'erhu', 'guitar', 'electronic keyboard', 'violin', 'harmonica', 'vertical flute']",Piano,0.654740453
+Ji-ko-40,What do high school students typically do during break time in schools in China?,4,"['go to the toilet', 'study', 'exercise', 'do homework', 'chat', 'sleep', 'play', 'sports']","They usually study, chat with friends, or play games on their phones.",0.293639451
+Ji-ko-41,What kind of shoes do students wear in schools in China?,5,"['leather shoes', 'sneakers']",Sneakers,0.644819319
+Ji-ko-42,What are the required subjects in China's university entrance exam?,4,"['mathematics', 'math', 'english', 'literature', 'chinese']","Chinese, Mathematics, English, and a choice between Science (Physics, Chemistry, Biology) and Humanities (Politics, History, Geography).",0.370859325
+Ji-ko-44,Which region (within a city) in China has the highest academic fervor?,4,"['beijing', 'zhejiang', 'shanghai']",Haidian District in Beijing,0.507419825
+Ji-ko-45,What do people look forward to the most at university festivals in China?,2,"['holiday', 'national day', 'dance', 'party']",Performances and food stalls,0.282504678
+Jo-sp-01,What is the second most popular sport in China?,5,"['soccer', 'basketball', 'football']",Basketball,0.622309983
+Jo-sp-02,What is the most popular sport played without a ball in China?,2,"['guandan', 'square dance', 'jump rope', 'fishing', 'shuttlecock kicking', 'chinese chess', 'swimming']",Badminton,0.497683495
+Jo-sp-09,What sports are most associated with the upper class in China?,5,"['tennis', 'golf']",Golf and Tennis,0.555814028
+Jo-sp-13,What is the most popular water sport in China?,5,"['scuba diving', 'jet ski', 'dragon boat racing', 'diving', 'swimming', 'parasailing']",Swimming,0.687409282
+Jo-sp-14,What is the most popular mental sport in China?,5,"['dou dizhu', 'chinese chess', 'mahjong', 'go']",Go (Weiqi),0.497199804
+Jo-sp-18,"How many holiday days per year does a standard worker gets in China? (Provide Arabic numerals (e.g., 12) only.)",5,"['116', '15', '115', '11', '10']",11,0.682156384
+Jo-sp-19,What region in China has been traditionally associated with agriculture?,5,"['northeast', 'the middle-lower yangtze plain', 'henan', 'north china plain', 'guangdong', 'northeast plain']",North China Plain,0.799601257
+Jo-sp-21,"What time, if any, do people usually leave work for lunch in China? (Provide in HH:MM format (e.g., 18:00, 09:00).)",5,"['12:30', '11:30', '13:00', '12:00']",12:00,0.78490752
+Jo-sp-31,"What time do high school students tend to leave school in China? (Provide in HH:MM format (e.g., 18:00, 09:00).)",3,"['17:15', '18:00', '21:00', '20:00', '22:00']",17:00,0.606740415
+Jo-sp-32,What sport do elementary school students tend to practice at school in China?,1,"['sit and reach', 'basketball', 'kick shuttlecock', 'jump rope', 'football', 'running', 'soccer', 'tug of war', 'standing long jump']",Table Tennis,0.428206503
+Jo-sp-36,"How long (in weeks) are summer vacations at elementary schools in China? (Provide in Arabic numerals (e.g., 7, 8) only.)",5,"['6', '9', '8', '7', '10']",8,0.638644338
+Jo-sp-37,"How long (in weeks) are summer vacations at universities in China? (Provide in Arabic numerals (e.g., 7, 8) only.)",5,"['8', '3', '7']",8,0.638644278
+Jo-sp-39,"At what age does elementary education begin in China? (Provide in Arabic numerals (e.g., 7, 8) only.)",5,"['6', '7']",6,0.625335276
+Jo-sp-43,"How many languages are studied in elementary education besides China's official language? (Provide in Arabic numerals (e.g., 7, 8) only.)",5,"['1', '2']",1,0.545344532
+Jod-ch-01,What eating utensils do people commonly used in China?,5,['chopsticks'],Chopsticks,0.718217373
+Jod-ch-04,What soft drink do people in China like to have?,5,"['milk tea', 'coke', 'bubble tea', 'green tea', 'tea', 'cola', 'oriental leaf']",Coca-Cola,0.667370141
+Jod-ch-06,What is the most popular traditional alcohol in China?,4,"['moutai liquor', 'white liquor', 'moutai', 'chinese spirits', 'bai']",Baijiu,0.515983164
+Jod-ch-07,"How long (in hours) on average does it take for people in China to have dinner at a restaurant? (Provide Arabic numerals up to one decimal point (e.g., 2, 3.5) only.)",5,"['1', '1.5', '2']",1.5,0.734664917
+Jod-ch-09,"What time do people usually have dinner in China? (Provide in HH:MM format (e.g., 18:00, 09:00).)",5,"['19:00', '18:00']",18:00,0.783519864
+Jod-ch-12,What kind of soup do people from China like to have?,2,"['pork bone soup', 'fresh soup', 'stock', 'tomato potato soup', 'tomato egg soup']",Hot and sour soup,0.550782681
+Jod-ch-13,What street food do people from China like to eat?,2,"['candied haw', 'gluten', 'tanghulu', 'stinky tofu', 'roasted sausage', 'barbecue skewers', 'sugar-coated haws', 'fried skewers']",Jianbing (Chinese crepes),0.317590117
+Jod-ch-15,What kind of seafood do people from China like to eat?,5,"['crab', 'prawn', 'lobster', 'shrimp', 'salmon', 'perch', 'seabass', 'fish']","Shrimp, crab, and fish.",0.598318875
+Jod-ch-16,What is the biggest festival in China?,5,"['chinese new year', 'spring festival', 'lunar new year', 'mid-autumn festival']",Chinese New Year,0.721024394
+Jod-ch-28,What is the most commonly used public transport by people when travelling between cites in China?,5,"['airplane', 'high-speed train', 'high-speed rail', 'self-driving', 'railway']",High-speed train,0.70754981
+Jod-ch-30,What are the specific decorations or symbols associated with the most biggest festival in China?,3,"['spring festival couplets', 'couplet', 'chinese couplets', 'chinese knot', 'new year scrolls', 'lantern', 'firecrackers']","Red lanterns, couplets, dragon and lion dances, and the character ""Fu"" which means fortune.",0.360420406
+Jod-ch-37,What sports do women like to watch the most in China?,3,"['basketball', 'mahjong', 'table tennis', ""women's volleyball"", 'ping pong', 'diving', 'swimming']",Basketball and badminton,0.459231436
+Jod-ch-38,What sports do men like to watch the most in China?,5,"['basketball', 'football', 'formula 1', 'soccer', 'diving', 'f1', 'formula one']",Soccer and Basketball,0.509697795
+Jod-ch-41,What is the common leisure activity that females in their 20s in China engage in?,5,"['online game', 'travel', 'play mahjong', 'live action role playing', 'karaoke', 'friends gathering', 'murder mystery game', 'script murder', 'tourism', 'movie', 'larp', 'shopping']",Shopping and karaoke.,0.607897162
+Jod-ch-42,What is the common leisure activity that males in their 20s in China engage in?,4,"['basketball', 'online game', 'running', 'hiking', 'play games', 'work out', 'mountaineering', 'escape room', 'sports']",Playing video games,0.61186713
+Jod-ch-46,"How long (in hours) do people usually take a break after lunch on a weekday in China? (Provide Arabic numerals up to one decimal point (e.g., 2, 3.5) only.)",3,"['1', '0.5']",1.5,0.399989814
+Jod-ch-48,What do people eat for lunch during the working days in China?,4,"['takeaway', 'takeout fast food', 'takeout', 'canteen boxed meal', 'bring own meal', 'rice', 'canteen', 'noodles']",Rice or noodles with vegetables and meat.,0.521934569
+Jod-ch-50,"What is the average commute time (in minutes) for people in China? (Provide Arabic numerals (e.g., 1) only.)",2,"['60', '90', '30']",52,0.292074919
+Jod-ch-51,What is the most common transportation that people take to get to work in China?,5,"['car', 'private car', 'public transport', 'metro', 'shared bicycle', 'bus', 'subway']",Public bus or subway,0.594049454
+Jod-ch-54,"How long (in days) is the marriage leave in China? (Provide Arabic numerals (e.g., 12) only.)",5,"['3', '2']",3,0.64077878
+Jod-ch-56,"What is the typical retirement age for women in China? (Provide Arabic numerals (e.g., 12) only.)",5,"['60', '65', '55']",55,0.76669395
+Jod-ch-57,"What is the typical retirement age for men in China? (Provide Arabic numerals (e.g., 12) only.)",5,"['60', '65', '61']",60,0.729061007
+Jod-ch-58,Which profession is the most respected in China?,2,"['police', 'ceo', 'company president', 'civil servant', 'chief executive officer', 'teacher', 'firefighter']",Doctor,0.335469186
+Jod-ch-60,What is the duration (in hours) of a typical workday in China? (Provide Arabic numerals (0~24) only.),5,"['9', '8']",8,0.638644218
+Jod-ch-61,Which occupation is most preferred among females in China?,5,"['teacher', 'nurse', 'social media influencer', 'civil servant']",Teacher,0.67426616
+Jod-ch-62,Which occupation is most preferred among males in China?,3,"['doctor', 'investment bank', 'doing business (being a boss)', 'white-collar (office worker)', 'civil servant', 'software engineer', 'programmer', 'be an official (civil servant)']",Engineer,0.536666214
+Ki-pe-17,"On average, how far do students typically pursue their education in China? (e.g., elementary, high school)",4,"['diploma', 'junior college', 'undergraduate', 'bachelor', 'high school']",Most students pursue their education up to university level.,0.395626664
+Ki-pe-24,What language is taught in schools in China besides English?,5,"['chinese language', 'chinese']",Chinese,0.578693986
+Ki-pe-30,What days of the week are schools closed in China?,5,"['saturday', 'sunday']",Saturday and Sunday,0.691806912
+Ki-pe-32,What food do the hosts usually prepare for the guests in China?,3,"['duck', 'chicken', 'rice', 'dim sum', 'cold dish', 'stir-fry', 'fish', 'dishes', 'dish with generous amounts of meat and fish', 'plenty of meat and fish']",Dumplings or Peking Duck,0.498002052
+Ki-pe-34,What is the usual drink in the breakfast in China?,5,"['milk', 'soy milk']",Soy milk,0.784026265
+Ki-pe-36,"Except the food original from China, which country's food is more popular in China?",3,"['japan', 'uk', 'thailand', 'united states', 'us', 'france', 'america', 'united kingdom']",Japanese food,0.50630188
+Ki-pe-39,What food is usually prepared for a family picnic in China?,2,"['instant noodles', 'egg', 'fruit', 'cake', 'snacks', 'ready-to-cook meal', 'sandwich']",Rice balls and dumplings,0.346053749
+Ki-pe-40,Which food from China is considered disgusting by the rest of the world?,5,"['dog meat', 'stinky tofu', 'preserved egg', 'century egg']",Century eggs,0.839282155
+Ki-pe-43,What is the name of the popular bread in China?,1,"['master bao', 'european bread', 'zixi bread', 'dirty bun', 'european-style bread']",Mantou,0.366307378
+Ki-pe-51,"What time of day are government offices closed in China? (Provide in HH:MM format (e.g., 18:00, 09:00).)",5,"['18:00', '17:00']",17:00,0.785224438
+Ki-pe-53,"What is the normal start time of government offices in China? (Provide in HH:MM format (e.g., 18:00, 09:00).)",3,"['09:00', '08:00']",8:30,0.592149436
+Kik-in-01,What national holiday has the longest duration in China?,5,"['1st of october', 'national day', 'lunar new year', 'chinese new year', 'october 1st', 'spring festival']",Chinese New Year,0.721024394
+Kik-in-02,What are the common activities people from China do to celebrate Independence day?,1,"['military parade', 'travel', 'fireworks', 'watch the parade', 'tourism', 'stay at home']",China does not celebrate Independence Day.,0.275274992
+Kik-in-04,What is installed in front of the house when a family member dies in China?,5,"['memorial hall', 'funeral couplet', 'white mourning banner', 'white lantern']",A white mourning banner,0.893759072
+Kik-in-06,What event is usually held before a wedding in China?,2,"['engagement ceremony', 'banquet', 'buy dowry', 'pick up the bride', 'wedding photo shoot', 'sacrificial ceremony']",Tea Ceremony,0.472305089
+Kik-in-07,What is usually shared to the children during (Lunar) New Year in China?,5,"['red packet', 'sweets', 'red envelope', 'red envelope with lucky money', 'candy', 'snacks', 'sweet']",Red envelopes with money,0.764209509
+Kik-in-10,What is the most popular tourist attraction for foreign visitors in China?,5,"['mausoleum of the first qin emperor', 'great wall', 'terracotta warriors', 'the palace museum', 'forbidden city']",The Great Wall of China,0.673193216
+Kik-in-11,"What is the most popular religious sites (temple, church, etc.) for tourism in China?",5,"['lingyin temple', 'yonghe temple', 'mount wutai', 'shaolin temple', 'putuo temple', 'blagoveshchensk', 'wudang mountains', 'temple of heaven']",Shaolin Temple,0.756559551
+Kik-in-15,What clothes do women usually wear on graduation commencement ceremony in China?,5,"[""bachelor's gown"", 'academic dress', 'white clothes']",Academic gown and cap,0.669418335
+Kik-in-16,What drink is commonly consumed in China when the weather is cold?,4,"['milk tea', 'corn juice', 'coffee', 'bubble tea', 'tea', 'white liquor', 'soup', 'chinese spirits', 'soy milk', 'bai']",Hot tea,0.626655102
+Kik-in-17,What fruit is more commonly sold and found during Ramadan in China?,1,"['apple', 'melon', 'coconut']",Dates,0.290324867
+Kik-in-24,What carbohydrate is usually served with chicken in a fast-food restaurant in China?,5,"['fries', 'rice', 'meal']",Rice,0.719280958
+Kik-in-31,What is the most famous martial art sports in China?,5,"['five-step fist', 'chinese martial arts', 'kung fu', 'tai chi', 'chinese kung fu']",Kung Fu,0.697832465
+Kik-in-34,What sports are often broadcasted on national television in China?,5,"['basketball', 'table tennis', 'football', 'soccer', 'badminton', 'diving', 'volleyball']","Football, basketball, and table tennis.",0.463014454
+Kik-in-35,What sports were popular among people from China during the COVID-19 pandemic?,1,"['stay at home', 'aerobics', 'fitness ring']",Table tennis and badminton,0.284814745
+Kik-in-36,Who is the most popular soccer coach in China?,1,"['fan zhiyi', 'bora milutinovic', 'li fenglou', 'li tie']",Marcello Lippi,0.304054022
+Kik-in-37,What soccer teams in China are famous for their intense rivalry? (e.g. ___ vs ___),3,"['evergrande vs. luneng', 'shanghai sipg vs shanghai shenhua', 'shandong luneng vs shanghai shenhua', 'zhejiang team vs qingdao hainiu', 'shandong luneng vs guangdong evergrande']",Beijing Guoan vs Shanghai Shenhua,0.630494714
+Kik-in-38,What are the names of soccer supporters in China who are famous for their intense rivalry? (e.g. ___ vs ___),3,['beijing guoan vs tianjin teda'],Beijing Guoan vs Shanghai Shenhua,0.593368709
+Kik-in-40,Who is the most famous male badminton player in China?,5,['lin dan'],Lin Dan,0.782993317
+Kik-in-41,Who is the most famous female badminton player in China?,2,"['chen yufei', 'xie xingfang']",Wang Yihan,0.355655134
+Kik-in-44,What sport gets the most support from the government in China?,5,"['table tennis', 'football', 'soccer', 'ping pong', 'badminton', 'diving', 'skiing', 'gymnastics']",Table Tennis,0.6769045
+Kik-in-45,What sports field facilities are usually available at schools in China?,4,"['athletics field', 'basketball court', 'soccer field', 'runway', 'sports field', 'soccer stadium', 'ping pong table', 'horizontal bar']",Basketball courts and table tennis tables,0.600992441
+Na-ko-02,What cafe beverage do people from China most commonly enjoy?,2,"['latte', 'latte coffee', 'starbucks', 'milk coffee']",coffee,0.590174496
+Na-ko-04,What is the preferred hangover cure food for people from China?,3,"['milk', 'tea', 'noodles', 'porridge', 'honey water', 'peanuts']",Congee with pickled vegetables,0.413827807
+Na-ko-05,What is the typical delivery food in China?,2,"['rice bowl', 'barbecue', 'luosifen', 'shaxian delicacies', 'skewers', 'claypot rice', 'malatang', 'snail noodles', 'rice with toppings']",Dumplings,0.428535819
+Na-ko-07,What type of meat is consumed most by people from China?,5,"['pork', 'beef', 'chicken']",Pork,0.753324926
+Na-ko-08,What fruit do people from China often eat in the autumn season?,5,"['apple', 'pear', 'grape', 'pomelo']",Pears and apples,0.694545805
+Na-ko-09,What side dish is the most commonly served on a dining table in China?,2,"['stir-fried green vegetables', 'green vegetables', 'chili pepper', 'pickled mustard tuber', 'chinese cabbage', 'stir-fried meat']",Rice,0.396257788
+Na-ko-11,What do people from China eat while watching a soccer game?,2,"['mineral water', 'potato chips', 'chips', 'fried chicken', 'food to accompany alcohol']",Sunflower seeds or popcorn,0.333604664
+Na-ko-15,What is the representative nourishing food in China?,2,"['ginseng', 'red dates', 'goji berries', 'swallow nests', ""edible bird's nests"", 'dates']",Chicken soup with ginseng,0.601619244
+Na-ko-16,Who is the most famous soccer player in China?,5,"['zhiyi fan', 'fan zhiyi', 'lei wu', 'shihao wei', 'wei shihao', 'wu lei']",Wu Lei,0.769427776
+Na-ko-17,What sports do male students enjoy during lunch time at school in China?,4,"['reach jump', 'basketball', 'vertical jump', 'play basketball']",Basketball and table tennis,0.517368138
+Na-ko-18,What is the most common sport girls participate in during physical education classes in China?,5,"['basketball', 'jump rope', 'running', 'shuttlecock kicking', 'badminton', 'volleyball']",Badminton,0.68503201
+Na-ko-19,Who is the most popular volleyball player in China?,2,"['lang ping', 'wei qiuyue']",Zhu Ting,0.30114463
+Na-ko-20,What sports event do people from China passionately support the most in international competitions?,3,"['basketball', 'table tennis', 'football', 'soccer', 'ping pong', 'volleyball']",Table Tennis and Badminton,0.585938096
+Na-ko-22,Which country is considered the biggest rival in soccer matches for China?,5,"['japan', 'spain', 'argentina', 'brazil', 'south korea']",Japan,0.610712945
+Na-ko-23,What type of sports academies do children attend the most in China?,2,"['sports academies in various regions', 'various types of sports schools', 'beijing sport university', 'sports university']",Table tennis and badminton academies.,0.590136051
+Na-ko-24,What is the most commonly eaten food in sports stadiums while watching games in China?,1,"['energy bar', 'roasted sausage', 'popcorn']",Sunflower seeds,0.406874627
+Na-ko-25,What are the typical sports played in China's school sports day?,2,"['sprint', 'high jump', 'running', 'tug of war', 'relay race', 'long-distance running', '800 meters running', 'long jump']","Track and field, basketball, and table tennis.",0.335377991
+Na-ko-26,What are the popular sports among the middle-aged population in China?,2,"['square dancing', 'mahjong', 'square dance', 'hiking']",Tai Chi and Badminton,0.304454327
+Na-ko-28,Who is the most popular winter sports player in China?,5,"['eileen gu', 'wang meng']",Wang Meng,0.75765872
+Na-ko-29,Who is the most famous swimmer in China?,5,"['sun yang', 'zhang lin']",Sun Yang,0.730136693
+Na-ko-30,What is the most popular e-sports game in China?,5,"['honor of kings', 'defense of the ancients', 'league of legends', 'dota']",League of Legends,0.622048676
+Na-ko-33,What symbolic food do people from China eat on (Lunar) New Year?,5,"['sweet rice balls', 'tangyuan', 'glutinous rice balls', 'dumplings', 'chicken', 'fish']",Dumplings,0.686978996
+Na-ko-37,What is the most popular domestic vacation spot for people from China?,4,"['palace museum', 'hainan island', 'hainan', 'shanghai', 'west lake', 'great wall', 'beijing', 'the bund, shanghai', 'dali', 'dali ancient town', 'terracotta warriors', 'hangzhou west lake', 'forbidden city']",Sanya,0.411221385
+Na-ko-38,What is the most common wedding gift between bride and groom in China?,1,"['ring', 'wedding ring', 'bride price', 'gold jewelry']",Red envelope with money,0.265438646
+Na-ko-39,What is typically given as a congratulatory gesture when attending a friend's wedding in China?,5,"['red envelope', 'cash red envelope', 'cash gift']",Red envelope with money,0.805061877
+Na-ko-40,"How long (in days) does a funeral typically last in China? (Provide Arabic numerals (e.g., 12) only.)",5,"['3', '5', '7']",3,0.64077878
+Na-ko-41,What should you prepare as a condolence offering when attending a funeral in China?,5,"['cash', 'traditional money gift at a funeral', 'food', 'no need to bring a gift', 'flower wreath']",White envelope with money,0.45122838
+Na-ko-42,What type of food is commonly provided at funeral parlors in China?,2,['ordinary meal'],tea and snacks,0.408363402
+Na-ko-43,What do people do in China in the morning of the (Lunar) New Year?,4,"[""pay a new year's visit"", 'set off firecrackers', 'grave sweeping', 'slaughter poultry', 'burn incense', ""pay one's respect at someone's gravesite"", 'send red envelope']",They set off fireworks and firecrackers to scare away evil spirits.,0.593670785
+Na-ko-44,When is the day with China's most severe nationwide traffic congestion?,5,"['the first day of spring festival', 'national day', 'lunar new year', 'chinese new year', 'spring festival', 'the first day of national day']",The first day of Chinese New Year holiday.,0.6172629
+Na-ko-45,What is the most popular honeymoon destination in China?,5,"['hainan', 'yunnan', 'maldives', 'thailand', 'sanya', 'xiamen']","Sanya, Hainan Island",0.678029358
+Ne-ar-05,What is the most important national holiday in China?,5,"['national day', 'lunar new year', 'mid-autumn festival', 'chinese new year', 'spring festival']",Chinese New Year,0.721024394
+Ne-ar-06,What do people from China eat in Ramadan?,1,"['mutton', 'chicken', 'suhor', 'noodles', 'lamb', 'beef']",Most Chinese people do not observe Ramadan as the majority of the population is not Muslim.,0.15247345
+Ne-ar-09,What do people from China eat in Eid ul Fitr?,2,"['dapanji', 'saute spicy chicken', 'vegetarian']","Most Chinese people do not celebrate Eid ul Fitr as it is a Muslim holiday. However, Chinese Muslims might eat traditional foods such as beef, mutton, and sweet rice pudding.",0.130535111
+Ne-ar-10,What do people from China eat in Eid ul Adha?,3,"['fried dough twist', 'barbecue', 'rice', 'pilaf', 'grilled meat']","Most Chinese people do not celebrate Eid ul Adha as it is a Muslim holiday. However, Chinese Muslims might eat dishes like roasted lamb or beef, and special sweets.",0.197970897
+Ne-ar-11,Where do people from China go to celebrate New Year's Day?,3,"[""grandparents' house"", 'hometown', ""parents' home"", 'restaurant', 'home']",Visit family,0.417932898
+Ne-ar-14,Where do a family gather for Eid festivities in China?,5,"['mosque', 'home', 'restaurant']",At home or a relative's house,0.501053691
+Ne-ar-16,"When is the weekend in China (e.g. Monday, Tuesday)?",5,"['saturday', 'sunday']","Saturday, Sunday",0.689311445
+Ne-ar-17,"At what time do most people start work in China? (Provide in HH:MM format (e.g., 18:00, 09:00).)",5,"['10:00', '09:00', '08:00']",9:00,0.775787175
+Ne-ar-18,"At what time do most people finish work in China? (Provide in HH:MM format (e.g., 18:00, 09:00).)",5,"['17:30', '20:00', '18:00', '18:30']",18:00,0.783519924
+Ne-ar-20,What is considered to be a secure job in China?,4,"['doctor', 'civil servant', 'lawyer', 'state-owned enterprise job', 'teacher']",Government employee,0.651729524
+Ne-ar-24,Which city is the primary commercial hub in China?,5,"['beijing', 'guangzhou', 'shanghai']",Shanghai,0.683403432
+Ne-ar-25,What is the industry that pays the best in China?,3,"['it', 'finance', 'medical', 'lawyer', 'internet', 'banker']",Technology industry,0.289696038
+Ne-ar-26,What is the most famous public corporation in China?,5,"['alibaba', 'moutai']",Alibaba Group,0.617901206
+Ne-ar-31,What is the most famous dish in China?,5,"['goubuli bun', 'peking roast duck', 'hot pot', 'goubuli baozi', 'kung pao chicken', 'mapo tofu', 'peking duck', 'tomato scrambled eggs']",Peking Duck,0.750291884
+Ne-ar-32,What do people usually have for breakfast in China?,3,"['milk cereal', 'egg-filled pancake', 'ried dough sticks', 'noodles', 'porridge', 'soy milk', 'cooked wheaten food', 'pasta']",Congee with pickled vegetables or dim sum.,0.356688678
+Ne-ar-33,"When do people usually have lunch in China? (Provide in HH:MM format (e.g., 18:00, 09:00).)",5,"['11:40', '12:30', '13:00', '12:00']",12:00,0.78490752
+Ne-ar-34,What is typically indispensable in meals in China?,5,"['noodles', 'salt', 'staple food', 'rice']",Rice,0.719280958
+Ne-ar-36,What is a typical festive meal in China?,5,"['dumplings', 'may there be surpluses every year (fish)', 'hot pot', 'chicken', 'manchu han imperial feast', 'fish']",dumplings,0.732102454
+Ne-ar-37,Which fruit do people usually offer tourists/visitors from abroad in China?,1,"['apple', 'grape', 'orange', 'watermelon']",Tea,0.331194103
+Ne-ar-38,Which food do people usually offer as charity in China?,3,"['instant noodles', 'meat']",Rice and noodles,0.531287551
+Ne-ar-39,What is the cheapest fast food in China?,3,"['rice bowl', 'steamed bun', 'shaxian delicacies', 'noodles', 'rice with toppings']",Street food like Baozi or Jianbing,0.397800118
+Ne-ar-43,What do people usually have with tea in China?,5,"['fruit', 'melon seeds', 'seeds', 'dim sum', 'candied fruit', 'sunflower seeds', 'cookies', 'preserved fruit', 'snacks', 'biscuit', 'fruits']",Dim sum,0.74294132
+Ne-ar-44,What do people have with coffee in China?,2,"['milk', 'bread', 'coffee mate', 'cake']",cookies,0.407550156
+New-am-02,What is the most popular traditional food in China?,5,"['sweet rice balls', 'tangyuan', 'glutinous rice balls', 'dumplings', 'rougamo', 'roujiamo']",Dumplings,0.686978996
+New-am-04,What is the most popular dipping sauce in China?,5,"['lao gan ma', 'soy sauce', 'sesame oil', 'vinegar', 'bean paste sauce', 'sesame sauce']",Soy sauce,0.745269239
+New-am-15,What food is usually prepared when mothers give birth in China?,4,"['pork knuckle', 'crucian carp soup', 'milk powder', 'fish soup', 'chicken soup', 'noodles', 'pork shank', 'porridge']",Chicken soup with Chinese herbs,0.654832244
+New-am-27,Who is the most popular female sportperson in China?,5,"['li na', 'guo jingjing', 'deng yaping', 'sun yingsha', 'zhu ting', 'eileen gu', 'chen yufei', 'fu yuanhui']",Li Na,0.58867979
+New-am-34,Where do most elementary school students prepare for their exams in China?,5,"['library', 'school', 'training class', 'tutoring class', 'home', 'cram school']",At home or in tutoring centers.,0.58519423
+New-am-41,"In China, at which grade level do students take their first national-level examination?",1,"['12th grade', 'last year of high school', 'final year of high school', '12']",Grade 9,0.39983964
+New-am-53,Which region in China is widely known for its coffee/tea industry?,5,"['yunnan', 'anhui', 'hangzhou', ""fujian's tea"", 'zhejiang', 'henan']",Yunnan Province,0.534090579
+New-am-54,Which region in China is widely known for its livestock industry?,5,"['xinjiang', 'tibet', 'inner mongolia', 'henan']",Inner Mongolia,0.671030104
+New-am-59,What is the main occupation of people living in deserts in China?,5,"['raise camels', 'environmental protection', 'farmer', 'herdsman', 'farming', 'tourism']",Herding and farming,0.593500316
+New-am-60,Which animal is typically used for transportation in China?,5,['horse'],horse,0.669554293
+New-am-72,What is the most popular comic book for children to read in China?,1,"['a shuai', 'shuke and beta', 'one hundred thousand whys']","""Doraemon""",0.224512219
+New-am-74,What is the most popular talk show in China?,5,"['roast!', 'day day up', 'the jinxing show', 'rock & roast']","""The Jin Xing Show""",0.556206226
+New-am-77,What is the most famous religious holiday in China?,1,"['chinese new year', 'spring festival', 'lunar new year']",Buddha's Birthday,0.374779761
+New-am-81,"What is the busiest month for weddings in China? (Provide Arabic numerals (e.g., 1) only.)",5,['10'],10,0.657500565
+New-am-83,What is the most popular traditional musical instrument in China?,5,"['erhu', 'guzheng', 'drum', 'suona', 'guqin', 'pipa', 'flute']",Pipa,0.72662431
+New-as-01,What is the main agricultural product produced in China?,5,"['tea leaves', 'grain', 'wheat', 'rice', 'soybean']",Rice,0.719280958
+New-as-02,What is the most popular wheat-based food item in China?,5,"['steamed bun', 'steamed stuffed bun', 'dumplings', 'noodles', 'baozi', 'bread']",Noodles,0.710064173
+New-as-05,What is the most typical drink offered to guests when they visit households in China?,5,"['coke', 'coffee', 'tea', 'white liquor', 'orange juice', 'chinese spirits', 'cola', 'coconut milk', 'soft drink', 'bai']",Tea,0.699600637
+New-as-07,What is the most popular dish cooked with fish in China?,2,"['steamed seabass', 'sour cabbage fish', 'braised fish', 'sichuan boiled fish', 'steamed bass']",Sweet and Sour Fish,0.640641391
+New-as-14,What food do people from China like to eat during rainy weather?,5,"['hot pot', 'noodle soup', 'soup noodles and other warm foods']",Hot soup or hot pot,0.699228168
+New-as-15,What drink is commonly consumed in China when the weather is hot?,4,"['milk tea', 'iced mung bean soup', 'bubble tea', 'herbal tea', 'mineral water', 'iced tea', 'chilled mung bean soup']",Iced green tea,0.681276143
+New-as-20,What is the most popular indoor sport in China?,5,"['table tennis', 'e-sports', 'ping pong', 'badminton']",Table Tennis,0.6769045
+New-as-29,What sport do men in China like to watch?,5,"['basketball', 'table tennis', 'football', 'soccer', 'ping pong', 'badminton']",Football and Basketball,0.508509696
+New-as-30,What sport do women in China like to watch?,5,"['table tennis', 'basketball', 'ping pong', 'swimming']",Basketball,0.622309983
+New-as-58,What is the most popular beverage that people from China like to drink in their workplace?,4,"['milk tea', 'coke', 'coffee', 'bubble tea', 'tea', 'cola']",Green tea,0.60013634
+New-as-64,On which holiday do all family members tend to reunite in China?,5,"['tomb-sweeping day', 'mid-autumn festival', 'lunar new year', 'chinese new year', 'mid-autumn', 'qingming', 'spring festival']",Chinese New Year,0.721024454
+New-as-76,What traditional games do families play during traditional holidays in China?,5,"['mahjong', 'play mahjong', 'jump rope', 'chinese chess', 'shuttlecock kicking', 'dou dizhu']",Mahjong or Chinese Chess,0.625362277
+New-as-80,What type of clothing do people from China wear during traditional festivals?,5,"['new clothes', 'cheongsam', 'brightly colored clothes', 'qipao', 'daily wear', 'hanfu', 'han-style clothing', 'as usual']",Traditional Hanfu or Qipao,0.616186619
+New-as-89,What traditional festival accessories do people from China wear?,2,"['jade pendant', 'jade', 'jewelry made of jade', 'chinese knot', 'gold jewelry', 'ethnic minority costumes']",traditional clothes,0.56921953
+New-az-05,What is the most famous region for alcohol production in China?,5,"['sichuan', 'guizhou', 'maotai town, guizhou', 'shanxi']",Sichuan,0.59083575
+New-az-11,What fruit do people from China often eat in the summer season?,5,"['hami melon', 'watermelon', 'peach', 'longan', 'apple', 'mangosteen']",Watermelon,0.747308135
+New-az-12,Which region in China is known for its seafood?,3,"['guangzhou', 'coastal city', 'zhejiang', 'qinghai', 'fujian', 'shandong coastal area']",Guangdong Province,0.557813048
+New-az-21,Which region in China is the most popular skiing destination?,2,"['northeast', 'harbin', 'jilin songhua lake', 'jilin changbai mountain', 'xinjiang keketuohai']",Yabuli,0.320657045
+New-az-26,Who is the most popular martial arts player in China?,5,"['liu qinghua', 'chang zhizhao', 'wu jing', 'jet li']",Jet Li,0.73399049
+New-az-27,Which sport has been one of the fastest-growing in China over the last decade?,5,"['athletics', 'basketball', 'table tennis', 'football', 'winter sports', 'soccer', 'ping pong', 'skiing']",Basketball,0.622309983
+New-az-39,Which country is the most popular destination for students from China studying abroad?,5,"['uk', 'australia', 'usa', 'united states', 'us', 'america', 'united kingdom']",United States,0.589192033
+New-az-49,"How many people work in a typical family in China? (Provide Arabic numerals (e.g., 1) only.)",5,"['3', '2']",2,0.563979983
+New-az-60,"In China, who takes care of kids when both parents are working?",5,"['grandmother', 'maternal grandmother', 'elderly', 'maternal grandparents', 'grandparents', 'nursery', 'elder', 'grandfather', 'kindergarten', 'paternal grandparents', 'nanny']",Grandparents,0.748104274
+New-az-69,What is the preferred alcoholic beverage for men from China?,4,"['beer', 'white liquor', 'chinese spirits', 'erguotou', 'bai']",Baijiu,0.515983164
+New-az-70,What is the preferred alcoholic beverage for women from China?,5,"['red wine', 'cocktail', 'milk beer', 'rio', 'white liquor', 'chinese spirits', 'bai']",Red wine,0.7393471
+New-az-73,"How many people on average typically attend a wedding in China? (Provide Arabic numerals (e.g., 1) only.)",5,"['30', '200', '500', '100', '150']",200,0.705485165
+New-ch-01,What kind of meat do people usually eat when they have barbecue in China?,4,"['pork belly', 'chicken', 'lamb', 'pork', 'beef']",Lamb skewers,0.654512584
+New-ch-02,"When do people usually have breakfast in China? (Provide in HH:MM format (e.g., 18:00, 09:00).)",5,"['07:00', '07:30', '08:00']",7:00,0.768583536
+New-ch-04,What kinds of food do people usually eat for late-night snacks in China?,4,"['instant noodles', 'fried rice noodles', 'barbecue', 'crawfish', 'skewers', 'kebabs']","Instant noodles, dumplings, and street barbecue.",0.508389294
+New-ch-05,What is the most famous spicy dish in China?,5,"['hot pot', 'spicy chicken', 'mapo tofu', 'spicy hot pot', 'stir-fried pork with chili peppers']",Mapo Tofu,0.826547503
+New-ch-07,What food items do people typically pair with hard liquor in China?,4,"['beef', 'steamed bun', 'peanut', 'braised meat', 'pork', 'braised food', 'peanuts']",Peanuts and pickled vegetables,0.589336932
+New-ch-08,What seasoning is indispensable in cooking in China?,5,"['salt', 'msg', 'sugar', 'soy sauce', 'monosodium glutamate']",Soy sauce,0.745269179
+New-ch-09,What food do people typically consume when the weather is cold in China?,5,"['sweet rice balls', 'tangyuan', 'dumplings', 'glutinous rice balls', 'hot pot', 'mutton soup', 'lamb soup', 'beef soup']",Hot pot or dumplings,0.669763088
+New-ch-13,What is the most famous alcohol brand in China?,5,"['wuliangye', 'moutai', 'moutai liquor']",Moutai,0.735634744
+New-ch-14,What foods do people usually eat when they are sick in China?,4,"['porridge', 'chicken soup']",Congee or noodle soup,0.47228837
+New-ch-15,What prepared/ready-to-eat food do people typically buy at supermarkets in China?,5,"['instant noodles', 'vegetarian chicken', 'dumplings', 'luosifen', 'zongzi', 'frozen dumplings', 'boxed meals', 'snail noodles']","Instant noodles, dumplings, and baozi (steamed buns).",0.545300961
+New-ch-16,What is the most famous sports-related movie in China?,2,"['to the fore', ""women's volleyball number 1"", 'woman basketball player no. 5', 'leap']","""Shaolin Soccer""",0.230446443
+New-ch-17,What extreme sport do people generally wish to try the most in China?,5,"['parachuting', 'rock climbing', 'diving', 'bungee jumping']",Bungee jumping,0.738469362
+New-ch-18,Which track and field event is the most popular to watch during competitions in China?,4,"['400 meters', '800 meters', 'sprint', '100 meters', 'hurdling', '400-meter relay race']",100-meter sprint,0.624629438
+New-ch-19,Which gymnastics event is the most popular to watch during competitions in China?,5,"['balance beam', 'floor exercise', 'parallel bars', 'vault', 'rhythmic gymnastics']",Balance Beam,0.790016234
+New-ch-23,Who is the most famous table tennis player in China?,5,"['kong linghui', 'ma long', 'deng yaping', 'xu xin']",Ma Long,0.719458044
+New-ch-26,"In the Winter Olympics, which event is the most popular to watch in China?",5,"['curling', 'skiing', 'figure skating', 'short track speed skating']",Short Track Speed Skating,0.784259856
+New-ch-27,Who is the most famous boxer in China?,5,"['zou shiming', 'zhang weili', 'zhang zhilei']",Zou Shiming,0.807819605
+New-ch-30,Who is the most famous track and field athlete in China?,5,"['wang junxia', 'liu xiang', 'su bingtian']",Liu Xiang,0.709291995
+New-ch-31,What job do parents most hope their children will pursue in China?,5,"['doctor', 'civil servant', 'software engineer', 'lawyer', 'engineer', 'teacher']",Doctor or Lawyer,0.543785453
+New-ch-32,What office software do people typically use in the workplace in China?,5,"['wechat', 'wps', 'microsoft office', 'microsoft']",Microsoft Office,0.648380935
+New-ch-38,Which cities or regions are known for their import and export activities in China?,5,"['guangzhou', 'dongguan', 'shenzhen', 'qingdao', 'zhuhai', 'shandong peninsula', 'shanghai']","Shanghai, Guangzhou, and Shenzhen",0.605094373
+New-ch-39,What platform is commonly used in the e-commerce industry in China?,3,"['jd.com', 'pinduoduo', 'taobao']",Alibaba,0.493305117
+New-ch-44,"How long is the typical probation period for new employees before signing a formal contract in China? (e.g., 1 month).",5,"['3 months', '1 month', 'one month']",3 months,0.748946428
+New-ch-45,Which industries do young people typically choose to start businesses in China?,4,"['information technology', 'it industry', 'self-media', 'restaurant', 'internet', 'technology', 'catering']","Technology, e-commerce, and food and beverage.",0.430544168
+New-ch-49,What is the most common way for family members to communicate remotely in China?,5,['wechat'],WeChat,0.688943684
+New-ch-51,What form of accommodation is typically booked for family trips in China?,4,"['express hotel', 'hotel', 'homestay', 'budget hotel']",Hotel rooms,0.660333753
+New-ch-54,Which fruit is usually prepared the most for family dinners in China?,1,['apple'],oranges,0.301989704
+New-ch-64,"How many hours of classes do university students typically have per week in China? (Provide Arabic numerals (e.g., 1) only.)",5,"['20', '21', '8', '9', '25', '10']",20,0.68683672
+New-ch-66,"What is the typical tuition fee per semester for public high schools in China?  (Provide Arabic numerals (e.g., 1) only.)",1,"['5000', '2000', '1000']",0,0.265306801
+New-ch-70,What compulsory courses do university students have in common in China?,3,"['english', 'college english', 'pe', 'marxismus', 'marxism', 'physical education', 'ideological and political education', 'sports', 'ideology and politics']","Mandarin, PE",0.507567108
+New-ch-71,"What is the average class size in high schools in China? (Provide Arabic numerals (e.g., 1) only.)",5,"['60', '40', '35', '50']",50,0.737016141
+New-ch-72,Which major is considered most conducive to employment in China?,5,"['economy', 'computer science', 'law', 'finance', 'engineering', 'medicine']",Computer Science,0.575148761
+New-ch-73,What type of clubs are most popular among university students in China?,3,"['guitar', 'street dance club', 'dance', 'badminton club', 'sports']","Academic clubs, sports clubs, and arts clubs.",0.376466095
+New-ch-74,What types of accommodation do university students in China typically live in?,5,"['6-person dormitory', 'student dormitory', 'dormitory', 'student accommodation', 'apartment', '4 people']",Dormitories,0.738688409
+New-ch-75,"How long is each class period for middle school students in China (minutes)?  (Provide Arabic numerals (e.g., 1) only.)",5,"['40', '45']",45,0.765916228
+New-ch-78,What leisure activities do retired women typically like in China?,4,"['square dancing', 'kick shuttlecock', 'play mahjong', 'travel', 'square dance', 'tourism']","Playing Mahjong, practicing Tai Chi, and dancing in public squares.",0.57565546
+New-ch-79,What leisure activities do retired men typically like in China?,3,"['square dancing', 'travel', 'browse the internet', 'surf the internet', 'go online', 'tourism', 'fishing', 'practice tai chi', 'play chess']","Playing Mahjong, practicing Tai Chi, and bird keeping.",0.539711833
+New-ch-80,"During which holidays do people typically visit religious sites (temples, churches, etc.) in China?",5,"['the first day of the month', 'the fifteenth day of the lunar month', 'tomb-sweeping day', 'double ninth festival', 'lunar new year', 'chinese new year', ""buddha's birthday"", 'christmas', 'the first day of the lunar new year', 'qingming festival', 'spring festival']","Chinese New Year, Qingming Festival",0.640836895
+New-ch-81,What are the typical housewarming gifts in China?,3,"['plant', 'cash', 'tea set', 'fruit basket', 'tableware', 'cash gift', 'flower', 'bedding']","Rice, oil, tea, or alcohol.",0.428252101
+New-ch-82,"At what time do weddings typically start in China? (Provide in HH:MM format (e.g., 18:00, 09:00).)",1,"['19:00', '18:18', '17:00', '12:00']",9:00,0.548038661
+New-ch-83,Which city in China hosts festivals the most?,5,"['shenzhen', 'beijing', 'shanghai']",Shanghai,0.683403552
+New-ch-84,What color of clothing do people typically wear when attending weddings in China?,5,['red'],Red,0.676830828
+New-ch-85,What color of clothing do people typically wear when attending funerals in China?,5,"['white', 'black']",White or black,0.635469675
+New-en-01,Which snack is eaten in the cinema in China?,5,"['milk tea', 'starch sausage', 'popcorn', 'coke', 'bubble tea', 'cola']",Popcorn,0.701800764
+New-en-02,What is the most popular chip/crisp flavour in China?,5,"['cucumber', 'spicy and numbing', 'cucumber flavor', 'original flavor']",Cucumber,0.703808367
+New-en-04,Who is a popular celebrity chef in China?,1,"['lei huang', 'huang lei', 'shi zhengliang', 'zhengliang shi', 'nicholas tse', 'wang gang', 'gang wang']",Chef Dong,0.31884563
+New-en-05,Which food is a cost-effective and quick meal option in China?,3,"['instant noodles', 'steamed bun', 'steamed stuffed bun', 'fried dough stick', 'shaxian delicacies', 'porridge', 'soy milk']",Noodles or dumplings,0.508085251
+New-en-07,What are the most popular cooking shows in China?,3,"['chinese restaurant', 'chef wang teaches you', 'chef nic', 'a bite of china']","""A Bite of China"", ""MasterChef China"", and ""Go Fridge""",0.521414578
+New-en-08,What is the most popular chocolate brand in China?,5,"['good times', 'dove', 'ferrero']",Dove,0.746412754
+New-en-10,What is the most eaten cheese in China?,1,"['sheep cheese', 'mozzarella', 'white cheese', 'cheese stick']",no specific cheese,0.565774977
+New-en-11,What is the most disliked vegetable in China?,4,"['momordica charantia', 'bean sprouts', 'broccoli']",Bitter melon,0.356762975
+New-en-12,What food is most commonly found in food courts in China?,5,"['pan-fried bun', 'barbecue', 'skewers', 'stinky tofu', 'noodles', 'roasted sausage', 'grilled squid', 'kebabs', 'shengjian', 'braised chicken with rice']",Noodles,0.710064173
+New-en-17,What are the most common cheering tools used by sports fans in China?,3,"['banner', 'gongs and drums', 'toy horn']","Clappers, drums, and flags.",0.559502304
+New-en-18,What do fans bring with them when attending a live game in China?,3,"['water', 'camera', 'banner', 'telescope', 'whistle', 'snacks', 'national flag']",Flags and banners,0.631509721
+New-en-19,What is the most well known sporting stadium in China?,5,"['beijing national stadium', ""bird's nest"", 'the national stadium', 'beijing workers stadium']",The Bird's Nest (Beijing National Stadium),0.6896891
+New-en-23,Who is the most famous Paralympian in China?,5,"['zheng peng', 'dong qiming', 'hou bin']",Hou Bin,0.72494185
+New-en-26,What is the best recognized sporting chant in China?,3,"['go go', 'come on', 'you can do it', 'china team', 'go china', 'go for it', 'chinese team', 'cheer up']","""Jiayou""",0.305888742
+New-en-38,Which industries are known for more flexible working hours in China?,3,"['it', 'self-media', 'software engineer', 'programmer', 'freelancer', 'internet', 'we media']",Technology and creative industries,0.294554889
+New-en-41,Who is the most well known and successful entrepreneur in China?,5,"['pony ma', 'jack ma', 'lei jun', 'ren zhengfei', 'liu qiangdong']",Jack Ma,0.695502937
+New-en-47,What can typically be found in the back garden of houses in China?,4,"['vegetable planting area', 'vegetable jar', 'fruit', 'earth', 'grass', 'soil', 'vegetables', 'vegetable garden', 'brick']",Vegetable plots or fruit trees,0.617123842
+New-en-49,What is the name of the most famous family in China?,1,"['stanley ho hung-sun', 'stanley ho', 'ho hung san, stanley', 'li ka-shing', 'aisin gioro']",No famous family,0.188109815
+New-en-50,What is the most common family name in China?,5,"['li', 'zhang', 'wang', 'zhao', 'chen']",Li,0.676918566
+New-en-55,Which religion is most commonly practiced by families in China?,5,"['no religion', 'christianity', 'islam', 'buddhism', 'taoism']",Buddhism,0.616411924
+New-en-56,What is the most popular foreign language spoken by families in China?,5,['english'],English,0.557213247
+New-en-59,Which country is the most popular destination for families from China to emigrate to?,5,"['australia', 'uk', 'usa', 'canada', 'united states', 'us', 'america', 'united kingdom']",United States,0.589192033
+New-en-68,What repercussions are there for bad behavior in schools in China?,3,"['disciplinary warning', 'write a self-criticism', 'corporal punishment', 'drop out', 'punishment', 'expel from school', 'discipline', 'warning', 'summon parents', 'call parents', 'academic probation', 'disciplinary probation', 'record a demerit', 'expulsion from school']","Detention, extra homework, or parent-teacher meetings.",0.488134503
+New-en-69,Which writers are commonly studied in literature class in China?,3,"['lao she', 'lu xun']","Lu Xun, Mo Yan, and Ba Jin",0.545906246
+New-en-70,"How many school breaks are there in a year for high schools in China? (Provide Arabic numerals (e.g., 1) only.)",5,"['4', '3', '2']",2,0.563979983
+New-en-72,Which online resource do students usually use to study in China?,5,"['bilibili', 'netease open courses', 'bilibili online course', 'baidu', 'china national knowledge infrastructure', 'mooc', 'cnki', 'yuanfudao', 'massive open online course']",Baidu,0.717882514
+New-en-75,"What is the average length of a semester in terms of weeks of teaching at universities in China? (Provide Arabic numerals (e.g., 1) only.)",5,"['20', '16', '18', '15']",16,0.703042686
+New-en-76,Which airport in China is the busiest during the holiday season?,5,"['hongqiao airport', 'shanghai pudong international airport', 'capital airport', 'beijing capital airport', 'shanghai pudong', 'beijing daxing']",Shanghai Pudong,0.727537453
+New-en-79,Which region of China is well known for its theatrical performances?,5,"['sichuan', 'anhui', 'hubei huangmei', 'beijing', 'henan']",Beijing,0.70201385
+New-en-87,What is the most famous historic landmark in China?,5,"['terracotta warriors', 'great wall', 'forbidden city']",The Great Wall of China,0.673193395
+New-en-90,What is the most famous hotel brand in China?,1,"['home inns', 'hilton', 'home inn', 'sheraton']",Shangri-La,0.42275548
+New-gr-05,What is the most popular grab-and-go breakfast option in China?,5,"['kentucky fried chicken', 'kfc', 'steamed bun', 'cheung fun', 'steamed vermicelli roll', ""mcdonald's"", 'bread', 'rice noodle roll', 'milk', 'soy milk', 'fried dough sticks', 'glutinous rice ball']",Baozi (Steamed buns),0.629129052
+New-gr-06,What is the most popular food in China among young people?,5,"['milk tea', 'kfc', 'luosifen', 'bubble tea', 'hot pot', ""mcdonald's"", 'fast food', 'kentucky fried chicken', 'snail noodles']",Hot Pot,0.752712905
+New-gr-08,What type of alcoholic drink is most commonly consumed at festivals in China?,4,"['yellow wine', 'beer', 'white liquor', 'huangjiu', 'chinese spirits', 'bai']",Baijiu,0.515983164
+New-gr-13,What is the most common morning drink in China?,5,"['milk', 'soy milk']",Soy milk,0.784026265
+New-gr-15,What is the most popular traditional dessert in China?,5,"['shaved snow', 'sweet rice balls', 'mooncake', 'tangyuan', 'glutinous rice balls', 'daoxiangcun', 'red bean bun', 'osmanthus cake', 'shaved ice']",Mooncake,0.775695682
+New-gr-21,What is the most popular racket sport in China?,5,"['table tennis', 'ping pong', 'badminton']",Table Tennis,0.676904559
+New-gr-24,What is the most popular track and field sport in China?,3,"['high jump', '100m hurdles', '110m hurdles', 'running', 'hurdling']",Sprinting,0.491083413
+New-gr-29,Which international sporting event is the most popular in China?,5,"['nba', 'china open', 'olympic games', 'world cup', 'national basketball association']",The Olympic Games,0.639028549
+New-gr-47,"How long (in minutes) are typical work breaks in China, excluding lunch and dinner breaks? (Provide Arabic numerals (e.g., 1) only.)",5,"['30', '15', '120', '60', '10']",15,0.703299224
+New-gr-58,Which job is considered underpaid in China?,5,"['labourer', 'salesperson', 'cleaner', 'construction worker', 'salesman', 'farmer', 'builder', 'temporary worker', 'physical labor jobs', 'teacher', 'saleswoman']",Teacher,0.6742661
+New-gr-76,What is the most common food served during Easter in China?,1,['apple'],"Easter is not traditionally celebrated in China, so there's no specific food for this occasion.",0.048036851
+New-gr-82,What is the most popular music genre among the elderly population in China?,3,"[""phoenix legend's song"", 'folk song', 'pop songs', 'soothing and relaxing classical music', 'pop song', 'square dance song', 'square dance tune', 'chinese opera']",Traditional Chinese music,0.508633912
+New-gr-88,What drink is usually offered at funerals in China?,5,"['white liquor', 'tea', 'chinese spirits', 'bai']",White liquor or tea,0.688131332
+New-gr-89,What drink is usually offered at weddings in China?,5,"['coke', 'white liquor', 'tea', 'orange juice', 'chinese spirits', 'alcohol', 'cola', 'bai']",Baijiu,0.515983224
+New-ha-07,What food originated from China and can be found all over the world?,5,"['lao gan ma chili sauce', 'lao gan ma', 'steamed bun', 'dumplings', 'sweet and sour chicken', 'noodles']",Dumplings,0.686978996
+New-ha-08,What food is typically disliked by children but enjoyed by the elderly in China?,5,"['ochro', 'vegetables', 'vegetable', 'soup mixed with rice', 'carrot', 'eight-treasure porridge', 'momordica charantia', 'eight treasure congee', 'okra']",Bitter melon,0.476903886
+New-ha-09,What cooking utensil is most commonly used in China?,5,"['pot', 'wok', 'rice cooker', 'iron pot', 'steamer']",Wok,0.69153285
+New-ha-13,Which is the most popular vegetable in China?,4,"['chinese cabbage', 'green vegetables']",cabbage,0.671571374
+New-ha-19,Which animal is used for sports in China?,5,"['mammal', 'cow', 'horse']",Horse,0.677411437
+New-ha-66,What is the most popular wedding venue in China?,5,['hotel'],Banquet halls in hotels,0.504126191
+New-in-01,Which coffee shop brand is the most popular in China?,5,"['starbucks', 'luckin coffee']",Starbucks,0.65558058
+New-in-03,What type of food from China is typically served in restaurants overseas?,2,"['chow mein', 'dumplings', 'steamed bun', 'fried noodles', 'fried rice', 'mapo tofu', 'egg fried rice']",Sweet and Sour Pork,0.319417089
+New-in-33,What region in China is usually associated with mining?,5,"['inner mongolia', 'liaoning', 'shanxi', 'panzhihua', 'western']",Inner Mongolia,0.671030104
+New-in-34,What region in China is usually associated with oil?,5,"['northeast', 'xinjiang', 'daqing', 'liaoning']",Xinjiang region,0.612088382
+New-in-62,What university in China is popular because of its engineering major? (Provide the official name.),5,"['harbin institute of technology', 'tsinghua university']",Tsinghua University,0.673256695
+New-in-63,What university in China is popular because of its school of medicine? (Provide the official name.),5,"['central south university', 'peking university health science center', 'peking union medical college', 'peking university', 'sichuan university']",Peking University Health Science Center,0.810449302
+New-in-78,What is the most popular payment method in China?,5,"['alipay', 'wechat pay']",WeChat Pay or Alipay,0.677905023
+New-in-80,What is the most famous theme park in China?,4,"['shanghai disney resort', 'ocean park', 'disney world', 'hong kong ocean park', 'ocean park hong kong', 'beijing happy valley', 'universal studios']",Shanghai Disneyland,0.765785038
+New-ko-01,What is the most popular children's animation that is commonly watched by kids in China?,1,"['boonie bears', 'pleasant goat and big big wolf', 'haier brothers']",Peppa Pig,0.312033534
+New-ko-02,What is the most popular prenatal education activity for pregnant women in China?,4,"['listen to music', 'listen to songs', 'tell a story', 'music', 'prenatal yoga', 'listen to stories']",Listening to classical music,0.568312228
+New-ko-03,What is the most popular children's song in China that families sing together?,2,"['happy birthday song', 'find friends', 'little donkey', 'twinkle twinkle little star', 'birthday song', 'little tiger']","""Two Tigers""",0.566263616
+New-ko-04,Which toys are most popular among boys in China?,3,"['lego', 'model car', 'toy car', 'ultraman', 'car model']",Transformers and Lego sets,0.512081861
+New-ko-05,Which toys are most popular among girls in China?,5,"['teddy bear', 'plush toy', 'simulation of the kitchen', 'toy dog', 'barbie', 'doll', 'barbie doll', 'stuffed toy']",Dolls and stuffed animals,0.665169477
+New-ko-06,What is the most popular folk tale in China that is typically told to children?,5,"['nv wa mends the sky', 'the cowherd and the weaver girl', 'sima guang smashes the vat', 'cowherd and weaver girl', 'the boy who cried wolf', 'nüwa mends the heavens', 'butterfly lovers', ""chang'e flying to the moon"", ""andersen's fairy tales"", 'journey to the west', 'kong rong shares the pears']",The Monkey King or Journey to the West,0.610589743
+New-ko-07,What is the customary symbol of condolence used at funerals in China?,4,"['flower wreath', 'pork', 'chrysanthemum']",White chrysanthemums,0.630103171
+New-ko-08,Where do university students in China tend to work part-time the most?,4,"['tiktok', 'on campus', 'convenience store', 'restaurant', 'online platform', 'training institution', 'cafe', 'tutoring institution']",Restaurants and tutoring centers,0.606513023
+New-ko-09,What are the most frequently practiced team-building activities in companies based in China?,3,"['eating together', 'travel', 'karaoke', 'gathering meal', 'dine together', 'tourism', 'ktv']",Team dinners and outdoor activities,0.537388265
+New-ko-10,What are the most common activities people do as a side job in China?,3,"['delivery guy', 'delivery person', 'distribute flyers', 'do odd jobs', 'didi', 'waitress', 'didi driver', 'waiter']","Tutoring, selling goods online, and driving for ride-share services.",0.4019728
+New-pe-02,What is the most famous edible souvenir for tourists in China?,1,"['pineapple cake', 'mooncake', 'candied haw', 'tanghulu', 'mung bean cake', 'xiaolongbao', 'peking duck', 'sugar-coated haws', 'lanzhou hand-pulled noodles']",White Rabbit Candy,0.460712373
+New-pe-06,What is the most popular stew in China?,2,"[""braised pig's trotters"", ""stewed pig's trotters"", 'potato with braised pork', 'braised pork', 'stewed ribs', 'braised pork with vermicelli', 'cabbage stewed with pork', 'stewed chicken', 'braised ribs']",Hot pot,0.426285207
+New-pe-11,What is the most common spice/herb used in dishes from China?,2,"['five-spice powder', 'cinnamon', 'cilantro', 'thirteen spices', 'bay leaf', 'cumin', 'star anise']",Ginger,0.41005522
+New-pe-16,What is the most famous traditional sport in China?,2,"['table tennis', 'ping pong', 'cuju']",Tai Chi,0.323653847
+New-pe-20,What sport is popular to play on the beach in China?,5,"['surfing', 'beach volleyball', 'building sandcastles', 'swimming', 'volleyball']",Beach volleyball,0.743546069
+New-pe-47,"When is Student's Day celebrated in China? (Provide in MM/DD format (e.g., 12/31).)",5,['05/04'],4-May,0.705369771
+New-pe-49,Where do families gather to pray together in China?,5,"['temple', 'home']",At home or temples,0.62439096
+New-pe-53,What gifts do fathers get on Father's Day (or Parents' Day) in China?,3,"['bracelet', 'belt', 'wallet', 'watch', 'flower', 'red envelope', 'razor', 'phone', 'mobile phone']","Ties, wallets, or tea sets.",0.431766629
+New-pe-54,What gifts do mothers get on Mother's Day (or Parents' Day) in China?,4,"['carnation', 'flower', 'carnation bouquet', 'gold jewelry']",Flowers and skincare products,0.536095798
+New-pe-59,"How many generations typically live together in a household in China? (Provide Arabic numerals (e.g., 12) only.)",5,"['3', '2']",3,0.64077878
+New-pe-65,"How many subjects are taught in middle schools in China? (Provide Arabic numerals (e.g., 12) only.)",1,"['9', '12']",varies,0.200123638
+New-pe-66,What is the most popular after school curricular in elementary schools in China?,4,"['olympiad math', 'drawing', 'mathematics', 'math', 'piano', 'painting']",Learning to play a musical instrument,0.403622568
+New-pe-74,How much is the average annual tuition fee for public universities in China?,5,"['5000', '10000', '6000-12000 yuan', '6000', '6000-12000 rmb']","Around 5,000 to 10,000 RMB",0.630061626
+New-pe-76,What is a popular activity to do in parks in China?,5,"['tai chi', 'square dance', 'play badminton']",Practicing Tai Chi,0.717871845
+New-pe-78,What is the name of the most famous film festival held in China?,2,"['golden rooster awards', 'hundred flowers award', 'golden horse', 'beijing international film festival', 'golden horse awards']",Shanghai International Film Festival,0.573599696
+New-pe-83,What is the popular card game played during social gatherings in China?,5,"['legends of the three kingdoms', 'playing cards', 'poker', 'tractor', 'dou dizhu', 'ltk']",Poker,0.633522153
+New-pe-85,Where is the most popular tourist destination abroad for people from China?,5,"['japan', 'australia', 'maldives', 'usa', 'thailand', 'united states', 'singapore', 'turkey', 'malaysia', 'us', 'america', 'southeast asia']",Thailand,0.630057156
+New-pe-86,What is the name of the most famous tower in China?,1,"['canton tower', 'oriental pearl', 'pearl of the orient', 'giant wild goose pagoda', 'big wild goose pagoda', 'leifeng pagoda']",Great Wall,0.396726787
+New-spme-01,What edible insect is eaten most often in China?,5,"['silkworm chrysalis', 'grasshopper', 'cicada pupa', 'silkworm pupa']",Silkworm larvae,0.686703861
+New-spme-04,Which agricultural product is exported most often in China?,2,"['vegetable', 'fruit', 'grain', 'rice', 'corn', 'cotton', 'vegetables', 'fruits']",soybeans,0.403754443
+New-spme-05,What are the most popular sweets in China?,2,"['tang yuan', 'cake ball', 'sweetheart cake', 'egg roll', 'rolling donkey', 'cake', 'red bean bun', 'egg tart', 'egg yolk pastry', 'yuanxiao', 'wife cake', 'lüdagun']",White Rabbit Candy and Tanghulu,0.360157847
+New-spme-15,What is the most popular sports drink in China?,5,"['gatorade', 'coke', 'mizone', 'eastroc super drink', 'red bull', 'scream', 'cola']",Gatorade,0.719607651
+New-spme-27,What is the average education level for people in China?,4,"['middle school', 'high school', 'primary school', 'junior high school']",High school,0.649618745
+New-spme-37,Which profession is most commonly studied abroad by students from China?,3,"['information technology', 'economy', 'accounting', 'computer science', 'business management', 'finance', 'art']",Business or Engineering,0.409962922
+New-spme-60,"Which day of the week do most families in China practice religious activities? (e.g. Monday, Tuesday)",2,['sunday'],Most families in China do not designate a specific day of the week for religious activities.,0.27129361
+New-spme-65,What is the most popular way to celebrate Independence Day in China?,1,"['travel', 'set off fireworks', 'fireworks', 'go out for a trip', 'tourism']",China does not celebrate Independence Day.,0.301205307
+New-spme-68,What is the most popular beverage among children in China?,5,"['milk tea', 'soda water', 'bubble tea', 'wahaha', 'juice', 'yakult', 'vitamin a&d and calcium drink']",juice,0.706474483
+New-spme-76,What is the most popular place in China to celebrate Independence Day?,1,"['beijing', 'tiananmen', 'tiananmen square']",China does not celebrate Independence Day.,0.310824513
+New-spme-78,What is the name of the song that is typically sung at birthday parties in China?,5,"['birthday song', 'happy birthday song', 'happy birthday']","""Happy Birthday to You""",0.660988748
+New-su-01,What snacks are usually sold in front of schools in China?,2,"['egg pancake', 'jianbing guozi', 'spicy strips', 'latiao', 'skewers', 'roasted sausage', 'kebabs']","fried chicken, bubble tea",0.329134464
+New-su-09,What oil is usually used for cooking in China?,5,"['vegetable oil', 'soybean oil', 'rapeseed oil', 'peanut oil']",Soybean oil,0.807416379
+New-su-10,What food is commonly consumed by pregnant women in China?,3,"['crucian carp soup', 'egg', 'nutrient-rich food', 'nutritionally balanced food', 'red dates', 'chicken soup', 'dates']",Fish soup,0.658071041
+New-su-15,What is the most popular traditional non-alcoholic drink in China?,5,"['green tea', 'eight-treasure porridge', 'tea', 'plum juice', 'juice', 'black tea']",Tea,0.699600637
+New-su-17,What sports facilities are generally available in parks in China?,3,"['basketball court', 'football field', 'swing', 'fitness facilities', 'soccer field']","Basketball courts, table tennis tables, badminton courts, and exercise equipment.",0.533981323
+New-su-21,What are the common activities that seniors usually do in parks in China?,4,"['walk', 'square dance', 'tai chi', ""park's fitness equipment"", 'play chess']","Tai Chi, dancing, playing chess, and singing.",0.5579108
+New-su-24,What sports do parents and children commonly play together in China?,5,"['walk', 'table tennis', 'jump rope', 'cycling', 'ping pong', 'badminton']",Badminton and table tennis,0.577399611
+New-su-28,What color is associated with the national soccer team of China?,5,['red'],Red,0.676830828
+New-su-33,What is the common dress code for school teachers in China?,4,"['formal attire', 'trousers', 'not dressed in a strange or unusual way', 'shirt', 'not inappropriately', 'appropriate', 'formal', 'not weird']",Formal or business casual attire,0.651235759
+New-su-34,What is the most popular extracurricular activity related to music in schools in China?,2,"['short video challenge', 'radio calisthenics', 'extracurricular music class', 'choir competition', 'listen to music and copy lyrics', 'choir', 'art performance']",Playing the piano,0.384612232
+New-su-45,"What date is Education Day celebrated in China? (Provide in MM/DD format (e.g., 12/31).)",5,['09/10'],10-Sep,0.687678099
+New-su-50,What is the main occupation of people in mountainous areas in China?,5,['farmer'],Farming and livestock rearing,0.504892349
+New-su-51,What is the main occupation of people in coastal areas in China?,2,"['fisherman', 'white-collar', 'breeding', 'tourism', 'fishing', 'cultivation']",varied jobs,0.268382162
+New-su-57,What is the most common livestock raised in China?,5,"['duck', 'pig', 'chicken', 'dog', 'fish', 'cat']",Pigs,0.739372194
+New-su-58,What animals are commonly used for agriculture in China?,2,"['cow', 'cat']","Water buffalo, pigs, chickens, and ducks.",0.384318411
+New-su-59,What do farmers in China typically wear to protect themselves from the heat whilst farming?,4,"['bamboo hat', 'straw hat', 'conical hat']",Straw hats and loose clothing,0.698626816
+New-su-60,What do farmers in China usually eat for lunch?,3,"['steamed bun', 'meat dish', 'rice', 'corn']",Rice with vegetables and tofu,0.547167242
+New-su-71,What gifts do parents generally give to their children for their birthdays in China?,4,"['study supplies', 'toy', 'money', 'electronic products', 'cake', 'red envelope']","Toys, clothes, or red envelopes with money.",0.545761585
+New-su-75,What type of vehicle do most families in China generally own?,3,"['byd', 'sedan', 'volkswagen', 'build your dreams']",Electric scooter or small compact car,0.319394052
+New-su-77,What is usually given to the children during Eid in China?,4,['money'],Red envelopes with money,0.418001831
+New-su-81,What clothes do grooms usually wear at weddings in China?,5,"['tang suit', 'suit', 'chinese-style dress']",Traditional Chinese Tang suit or Western-style suit,0.600394249
+New-su-82,What clothes do brides usually wear at weddings in China?,4,"['cheongsam', 'white wedding dress', 'wedding dress', 'chinese-style dress', 'dragon and phoenix red dress suit']",Red qipao or cheongsam,0.611477792
+New-su-83,What food is usually served at weddings in China?,4,"['braised pork balls in gravy', ""lion's head meatball"", 'wedding candy', 'red dates', 'four joy meatballs', 'peanut', 'sixi balls', 'stewed pork ball in brown sauce', 'meat', 'various types of meat', 'vegetables', 'dates', 'fish', 'beverage']",fish and dumplings,0.468098342
+New-su-86,What is the most famous government building in China?,5,['great hall of the people'],The Great Hall of the People,0.805668473
+New-su-88,What is the most popular music genre among the younger population in China?,5,"['chinese style', 'rhythm blues', 'pop', 'chinoiserie', 'hip hop rap', 'edm', 'rap', 'pop music', 'national style', 'hip hop', 'electronic dance music']",Pop music,0.692669988
+Ni-en-02,"What time do middle school students in China typically finish school each day? (Provide in HH:MM format (e.g., 18:00, 09:00).)",3,"['16:30', '19:00', '18:00']",17:00,0.59068501
+Ni-en-03,"At what age do people in China typically go to university? (Provide Arabic numerals (e.g., 12) only.)",5,['18'],18,0.704614401
+Ni-en-06,"From what age do people need to attend compulsory education in China? (Provide Arabic numerals (e.g., 12) only.)",5,"['6', '7']",6,0.625335276
+Ni-en-09,How many days a week do children attend school in China? (Provide Arabic numerals (0~7) only.),5,"['6', '5']",5,0.650952756
+Ni-en-11,"In China, how long (in years) does a Master's degree typically take to complete? (Provide Arabic numerals (e.g., 12) only.)",1,"['4', '3']",2,0.188327715
+Ni-en-12,What is the top university in China? (Provide the official name.),5,"['peking university', 'tsinghua university']",Peking University,0.645361602
+Ni-en-13,"At what age do most people in China graduate from university? (Provide Arabic numerals (e.g., 12) only.)",5,"['20', '22']",22,0.688449621
+Ni-en-15,"At what age do children in China generally start middle school? (Provide Arabic numerals (e.g., 12) only.)",5,"['14', '13', '12']",12,0.700036347
+Ni-en-17,"How many hours a week does a full-time worker in China typically work? (Provide Arabic numerals (e.g., 12) only.)",5,"['40', '45', '35', '50']",40,0.732668936
+Ni-en-19,How many days a week does a full-time worker work in China? (Provide Arabic numerals (0~7) only.),5,"['6', '5']",5,0.650952756
+Ni-en-20,"At what age do most people start working in China? (Provide Arabic numerals (e.g., 12) only.)",5,"['23', '22', '24']",22,0.688449502
+Ni-en-21,"From what age is an individual allowed to work in China? (Provide Arabic numerals (e.g., 12) only.)",5,"['23', '16', '15', '22', '18']",16,0.703042686
+Ni-en-31,What do people in China traditionally eat on Christmas Day?,1,"['pizza', 'rice', 'chocolate', 'steak', 'apple']",small gifts,0.307163715
+Ni-en-37,What is the name of the day of the year where people in China celebrate love and romance?,5,['qixi festival'],Qixi Festival,0.786985815
+Ni-en-40,What is the most popular Christmas song in China?,5,"['jingle bells', 'lonely christmas']","""Jingle Bells""",0.768841684
+Nu-in-04,"How many semesters are there each academic year at high schools in China? (Provide in Arabic numerals (e.g., 7, 8) only.)",5,['2'],2,0.563979983
+Nu-in-05,In which month does the new school year typically begin in China? (Provide Arabic numerals (1~12) only.),5,['9'],9,0.677209914
+Nu-in-06,"When is National Teacher's Day commemorated in China? (Provide in MM/DD format (e.g., 12/31).)",5,['09/10'],10-Sep,0.687678099
+Nu-in-11,"At what time does elementary school start in China? (Provide in HH:MM format (e.g., 18:00, 09:00).)",5,"['09:00', '08:00']",8:00,0.765344203
+Nu-in-20,"When is Children's Day celebrated in China? (Provide in MM/DD format (e.g., 12/31).)",5,['06/01'],1-Jun,0.714137554
+Nu-in-40,Which city is the main destination for job seekers in China?,5,"['beijing', 'guangzhou', 'hong kong', 'shanghai']",Beijing or Shanghai,0.594279945
+Sa-en-1,What is China's most popular fast food chain?,5,"['kfc', 'shaxian delicacies', 'mixue ice cream & tea', 'kentucky fried chicken', ""mcdonald's""]",KFC,0.702281117
+Sa-en-13,What is the food that is most divisive (either love or hate) in China?,5,"['coriander', 'zongzi', 'durian', 'radish']",Durian,0.766535282
+Sa-en-16,What is the most popular soccer team among the people from China?,5,"['real madrid', 'shandong luneng', 'guangzhou football club', 'manchester united', 'china national football team', 'barcelona', 'guangzhou fc', 'arsenal']",Manchester United,0.645213902
+Sa-en-22,What is the most famous university in China known for its sports team?,5,"['beijing sport university', 'tsinghua university']",Tsinghua University,0.673256695
+Sa-en-31,What is China's most popular family pet?,5,"['dog', 'cat']",Dog,0.611956239
+Sa-en-32,What is the most popular family TV show in China?,5,"['the voice of china', 'happy camp', 'xinwen lianbo', 'news simulcast', 'running man china', 'variety show']",Running Man,0.588229299
+Sa-en-37,What is the most popular family boardgame in China?,5,"['mahjong', 'pool', 'poker', 'billiards', 'uno', 'dou dizhu']",Mahjong,0.723926187
+Sa-en-6,What is the most popular takeaway food in China?,3,"['chow mein', 'rice bowl', 'dumplings', 'fried noodles', 'barbecue', 'skewers', 'malatang', 'rice with toppings']",Fried rice,0.594980597
+Sa-en-7,What are popular snacks in China?,2,"['yogurt ice cream', 'milk tea', 'tangyuan', 'sweet rice balls', 'glutinous rice balls', 'fried dough stick', 'bubble tea', 'chuan chuan xiang', 'pancake', 'tofu pudding', 'xiaolongbao', 'malatang', 'grilled cold noodles']","potato chips, spicy strips, sunflower seeds",0.364764839
+Sa-en-9,What do people from China eat at the beach?,4,"['prawn', 'barbecue', 'shrimp', 'skewers', 'seafood stall', 'seafood roadside diner', 'fish']",grilled seafood,0.536605597
+Ta-pe-10,"At what age do men usually get married in China? (Provide Arabic numerals (e.g., 20) only.)",3,"['25', '28', '30', '24']",27,0.441534519
+Ta-pe-11,"At what age do women usually get married in China? (Provide Arabic numerals (e.g., 20) only.)",5,"['25', '26']",25,0.732545018
+Ta-pe-13,"In your parents' generation, what was the average number of members in their family in China? (Provide Arabic numerals (e.g., 20) only.)",5,"['6', '5', '10']",5,0.650952756
+Ta-pe-17,"In the Olympic Games, which sport is the most popular in China?",5,"['athletics', 'basketball', 'table tennis', 'pingpong', 'ping pong']",Table Tennis,0.67690444
+Ta-pe-21,Where do children usually play soccer in China?,3,"['soccer field', 'sports field', 'football field']",On school playgrounds or public parks.,0.368139565
+Ta-pe-22,Which daily exercise is popular among women in China?,2,"['yoga', 'walk', 'square dance', 'tik tok aerobics']",Tai Chi,0.364605695
+Ta-pe-23,Which daily exercise is popular among men in China?,5,"['basketball', 'go to gym', 'running', 'tai chi', 'pull-ups', 'work out', 'badminton', 'jogging']",Jogging,0.725787997
+Ta-pe-25,"What is the most famous rivalry in a national sports league in China? (e.g., ___ vs ___)",4,"[""liaoning men's basketball vs. guangdong men's basketball"", 'shanghai shenhua vs beijing guoan', 'beijing guoan vs tianjin teda', 'beijing guoan vs shanghai shenhua']",Beijing Guoan vs Shanghai SIPG in the Chinese Super League,0.593885779
+Ta-pe-29,Which professional sport is the highest paying in China?,5,"['football', 'soccer', 'basketball']",Basketball,0.622309983
+Ta-pe-30,What is/was the most popular sports-related TV program in China?,4,"['nba', 'total soccer', 'national basketball association', 'cctv-5', 'football game', 'we never stop', 'football match']",CCTV's NBA Basketball Broadcast,0.439913452
+Ta-pe-32,What day of the year is usually dedicated to fireworks in China?,5,"[""spring festival's eve"", 'new year', 'the first day of the chinese new year', ""lunar nee year's eve"", 'the first day of the spring festival', 'the first day of the lunar new year', ""chinese new year's eve""]",Chinese New Year,0.675780237
+Ta-pe-37,What is the common symbol of New Year's Eve that is usually found in China?,2,"['spring festival couplets', 'chinese couplets', 'new year scrolls', 'paper-cut for window decoration', 'spring festival travel rush', 'firecrackers']",Red lanterns,0.346342415
+Ta-pe-42,What food do people from China usually eat on New Year's Eve?,5,"['dumplings', 'poon choi', 'pen cai', 'fish', 'sweet fermented rice balls', 'eight treasures rice']",Dumplings,0.686978996
+Ta-pe-45,What is usually eaten during the celebration of the longest night of the year in China?,5,"['sweet rice balls', 'tangyuan', 'glutinous rice balls', 'dumplings', 'mutton', 'ribs', 'lamb', 'spareribs', 'fish']",Dumplings,0.686978996
+Th-en-01,What is the most popular summer sport in China?,5,"['basketball', 'walk', 'table tennis', 'football', 'soccer', 'ping pong', 'swimming']",Swimming,0.687409341
+Th-en-03,What is the most popular professional sports league in China?,5,"['chinese super league', 'china table tennis super league', 'chinese basketball association', 'chinese football super league', 'cba']",Chinese Basketball Association (CBA),0.764470994
+Th-en-05,What is the most popular women's sports team in China?,5,"[""china women's national football team"", ""china women's diving dream team"", ""china women's volleyball team"", ""women's volleyball team""]",The Chinese Women's National Volleyball Team,0.820590436
+Th-en-09,What is the most popular tournament in China?,3,"['basketball', 'table tennis', 'football', 'soccer', 'volleyball', 'ping pong', 'diving', 'gymnastics']",The Chinese Super League (football),0.34664616
+Th-en-11,Who is the most popular sportperson in China?,5,"['sun yingsha', 'liu xiang', 'su yiming', 'long ma', 'xiang liu', 'ma long', 'yao ming', 'ming yao', 'yiming su', 'yingsha sun']",Yao Ming,0.685984552
+Th-en-12,In which sport has China been most successful in international competitions?,5,"['table tennis', 'weightlifting', 'ping pong', 'badminton', 'diving', 'skiing']",Table Tennis,0.67690444
+Th-en-15,What is the most popular winter sport in China?,5,"['skiing', 'skating']",Skiing,0.661308408
+Th-en-19,What is a city or region in China known for manufacturing industry?,5,"['suzhou', 'wuhan', 'dongguan', 'shenzhen', 'hangzhou', 'yiwu', 'jiangsu-zhejiang', 'shanghai']",Shenzhen,0.712300777
+Th-en-21,What is regarded as the most important perk typically offered to employees in China?,2,"['weekends off', 'five insurances and one fund', 'housing allowance', 'annual leave', 'salary', 'marriage and maternity leave']",Health insurance,0.464925706
+Th-en-22,What was the most catastrophic economic period for China?,3,"['three years of economic difficulties', '2007', '1953 famine', '2008', 'three years of difficulty']",The Great Chinese Famine,0.472539574
+Th-en-24,What region in China is a major hub for tech workers and start ups?,5,"['shenzhen', 'beijing', 'suzhou', 'shanghai']","Silicon Valley of China, Shenzhen",0.641310573
+Th-en-27,What is the most important industry in China?,5,"['infrastructure', 'manufacturing', 'production', 'tertiary industry', 'service', 'agriculture']",Manufacturing,0.699467063
+Th-en-35,"Which one of the daily meals is commonly shared with family members in China? (e.g., breakfast, lunch, dinner)",5,"['breakfast', 'dinner']",Dinner,0.689749718
+Th-en-36,What is a popular family activity with a child to do on weekends in China?,4,"['stroll in the park', 'gathering meal', 'go to the park', 'outdoor activities', 'shopping mall stroll', 'shopping']",Visiting parks or museums,0.568398952
+Th-en-37,"At what age do children typically become independent from their parents in China? (Provide Arabic numerals (e.g., 12) only.)",3,"['23', '30', '21', '25', '22', '18']",28,0.397162378
+Th-en-38,What is the most important family holiday in China?,5,"['new year', 'lunar new year', 'mid-autumn festival', 'chinese new year', 'spring festival']",Chinese New Year,0.721024394
+Th-en-39,What is a popular family game in China?,5,"['mahjong', 'table tennis', 'play mahjong', 'hide and seek', 'pool', 'legends of the three kingdoms', 'poker', 'ping pong', 'uno', 'billiards', 'dou dizhu', 'ltk']",Mahjong,0.723926127
+Th-en-41,"What is the average age for couples to have their first child in China? (Provide Arabic numerals (e.g., 20) only.)",3,"['25', '28', '24', '26']",27,0.493629217
+Th-en-43,"How many cars are owned by a typical family in China? (Provide Arabic numerals (e.g., 12) only.)",5,"['1', '3', '2']",1,0.545344532
+Th-en-44,What is China's most popular food for family meals on weekends?,5,"['dumplings', 'barbecue', 'hot pot', 'mochi', 'fish']",Dumplings,0.686979175
+Th-en-45,What is the most popular weekday evening family activity in China?,5,"['walk', 'watch tv series', 'stroll', 'watch tv', 'watch movie', 'eating out']",Watching TV,0.763280988
+Th-en-48,What is the highest grade given to top-achieving high school students on assignments and exams in China?,5,"['750', '150', '100', '120']",100,0.682263255
+Th-en-49,What is considered the most important exam for high school students in China?,5,"['national higher education entrance examination', 'national college entrance examination']",The Gaokao exam,0.435340285
+Th-en-51,Which subject is considered the most important for students in China?,5,"['mathematics', 'math', 'chinese literature', 'english', 'philosophy']",Mathematics,0.549452126
+Th-en-53,What is the most popular extracurricular social event at schools in China?,1,"['association', 'go to the internet cafe', 'academic competition', 'karaoke', 'play games', 'society', 'honor of kings', 'club']",Sports meet,0.407575756
+Th-en-58,What is the most advanced math subject learned before university in China?,5,"['calculus', 'algebra', 'high school mathematics', 'analytic geometry', 'linear algebra', 'geometry']",Calculus,0.541446984
+Tmp-ar-01,Where do university students in China usually go to study for their final exams?,5,"['library', 'study room']",Library or study rooms in their dormitories.,0.561974645
+Tmp-ar-02,What is a common public transport that people use to go to university in China?,5,"['airplane', 'car', 'metro', 'train', 'didi express', 'subway']",Bus or subway,0.537337661
+Tmp-ar-04,What do elementary students in China usually do after school?,3,"['have dinner', 'eat', 'do homework', 'watch cctv-1', 'play marbles game', 'go to the amusement park']","They usually do homework, attend tutoring classes or extracurricular activities.",0.432754219
+,,,,,
+,,,,,0.579993741
